@@ -1,0 +1,2019 @@
+id_caso,id_paciente,edad,sexo,especialidad,establecimiento,fecha_entrada,fecha_salida,causal_salida
+500034,101479,42,Mujer,Cardiología,Hospital de la Cordillera,2024-06-04,2024-12-02,Atención realizada
+501236,100779,63,Mujer,Traumatología,Hospital del Valle,2023-02-09,2023-09-24,Atención realizada
+500367,101004,23,Mujer,Ginecología,Hospital del Norte,2025-07-31,2026-03-17,
+500803,100611,68,Hombre,Otorrino,Hospital Costero,2023-07-01,2023-10-29,Atención realizada
+500513,100865,80,Mujer,Cirugía general,Hospital de la Cordillera,2025-03-03,2025-08-21,Atención realizada
+501588,100583,78,Hombre,Traumatología,Hospital Costero,2023-09-26,2024-01-11,Atención realizada
+501031,101286,45,Hombre,Traumatología,Hospital de la Cordillera,2024-08-17,,
+500503,100036,55,Mujer,Ginecología,Hospital del Norte,2023-10-06,,
+500536,100802,56,Hombre,Oftalmología,Hospital Costero,2025-03-03,,
+501794,101157,47,Mujer,Ginecología,Hospital del Norte,2025-12-08,2026-03-02,Renuncia voluntaria
+500572,100780,58,Mujer,Cirugía general,Hospital Costero,2023-09-28,2024-03-15,Fallecimiento
+501442,100705,41,Mujer,Oftalmología,Hospital del Sur,2025-01-03,2025-09-14,Contacto no posible
+500702,101326,63,Mujer,Oftalmología,Hospital del Norte,2023-05-20,,
+500043,100325,21,Mujer,Traumatología,Hospital del Sur,2025-08-17,2025-10-31,Atención realizada
+500215,101209,81,Hombre,Oftalmología,Hospital del Norte,2024-12-23,,
+501129,100648,73,Mujer,Cardiología,Hospital de la Cordillera,2023-05-09,2024-04-20,Atención realizada
+501361,100924,40,Hombre,Otorrino,Hospital del Sur,2023-02-16,2024-01-15,Atención realizada
+500703,100599,52,Hombre,Cirugía general,Hospital del Norte,2026-06-30,,
+501917,101026,51,Mujer,Traumatología,Hospital del Sur,2025-05-01,,
+501562,100415,61,Mujer,Cardiología,Hospital del Norte,2026-06-04,,
+500474,100391,32,mujer,Ginecología,Hospital de la Cordillera,2025-08-11,2026-03-15,Contacto no posible
+500567,101269,68,Mujer,Cirugía general,Hospital del Sur,2026-04-14,,
+500070,100604,77,Mujer,Traumatología,Hospital del Sur,2023-10-09,2024-07-18,Renuncia voluntaria
+501674,100268,93,Hombre,Oftalmología,Hospital del Valle,2024-02-14,2024-05-09,Atención realizada
+500101,101633,59,Mujer,Ginecología,Hospital del Sur,2025-03-03,,
+501339,100442,85,Hombre,Oftalmología,Hospital Costero,2023-10-21,,
+501455,101358,54,Mujer,Oftalmología,Hospital del Valle,2024-03-04,2024-05-25,Atención realizada
+500878,101266,,Mujer,Otorrinolaringología,Hospital del Valle,2025-12-14,2026-03-02,Atención realizada
+500042,100511,34,Mujer,Traumatología,Hospital del Norte,2025-01-10,2025-02-26,Atención realizada
+500075,100070,19,Mujer,Ginecología,Hospital del Valle,2025-02-19,2025-05-13,Atención realizada
+501883,101306,77,Mujer,Cardiología,Hospital de la Cordillera,2023-03-20,,
+500830,100936,59,Hombre,Traumatología,Hospital del Sur,2026-06-10,,
+501887,100537,44,Mujer,Cardiología,Hospital Costero,2025-10-22,,
+501853,100531,94,Mujer,Cardiología,Hospital del Valle,2026-09-06,,
+500516,100711,50,Mujer,Cirugía general,Hospital del Sur,2025-03-17,2025-08-21,Renuncia voluntaria
+501044,100408,7,Hombre,Otorrino,Hospital del Valle,2023-09-22,,
+501467,101506,68,Mujer,Oftalmología,Hospital del Norte,2025-07-08,2026-02-09,Atención realizada
+501830,100772,76,mujer,Oftalmología,Hospital Costero,2025-07-14,2026-02-01,Contacto no posible
+501050,101257,51,Mujer,Ginecología,Hospital del Sur,2026-03-06,2026-04-15,Atención realizada
+500240,101156,36,Mujer,Dermatología,Hospital del Valle,2025-03-03,,
+500943,101420,46,Mujer,Otorrino,Hospital Costero,2023-04-30,,
+500944,101348,37,Hombre,Oftalmología,Hospital del Sur,2026-09-20,,
+500633,101232,51,Mujer,Ginecología,Hospital del Sur,2026-04-07,,
+500176,101530,68,Mujer,Oftalmología,Hospital del Sur,2025-03-03,,
+501047,101533,46,Mujer,Cardiología,Hospital del Sur,2025-05-10,2025-09-05,Atención realizada
+500907,100121,61,Hombre,Oftalmología,Hospital del Norte,2025-03-27,2025-05-30,Atención realizada
+501427,101466,67,Mujer,Cardiología,Hospital del Norte,2026-09-10,,
+501548,100165,58,Mujer,Cirugía general,Hospital del Sur,2023-04-12,2024-01-17,Atención realizada
+501332,101094,28,Mujer,Ginecología,Hospital del Sur,2025-03-03,,
+501146,101326,50,Hombre,Otorrino,Hospital Costero,2023-02-10,2023-06-24,Atención realizada
+500870,100230,50,Hombre,Dermatología,Hospital del Sur,2023-02-11,2023-11-14,Contacto no posible
+500136,101010,69,Mujer,Cardiología,Hospital del Sur,2025-07-03,,
+500506,100092,61,Mujer,Traumatología,Hospital Costero,2023-06-25,2024-08-02,Renuncia voluntaria
+501967,100010,41,hombre,Traumatología,Hospital del Valle,2026-05-29,2026-07-11,Atención realizada
+501023,101577,43,Hombre,Traumatología,Hospital del Sur,2023-03-20,2023-08-25,Atención realizada
+501517,101207,44,Mujer,Traumatología,Hospital de la Cordillera,2025-03-03,2025-11-17,Atención realizada
+501495,101295,59,Mujer,Oftalmología,Hospital Costero,2024-09-05,2024-09-14,Atención realizada
+501435,100923,90,Mujer,Oftalmología,Hospital del Valle,2025-09-08,,
+500981,100517,80,Mujer,Cirugía general,Hospital del Norte,2025-09-19,2026-07-27,Contacto no posible
+501208,100388,58,Hombre,Otorrino,Hospital del Norte,2023-04-26,2023-05-25,Atención realizada
+500636,100566,80,Hombre,Cirugía general,Hospital del Sur,2023-06-05,,
+501194,100034,75,Mujer,Oftalmología,Hospital de la Cordillera,2024-09-18,2025-01-04,Atención realizada
+500152,100338,18,Mujer,Traumatología,Hospital del Norte,2023-10-17,2024-05-03,Atención realizada
+500074,100652,48,Hombre,Cirugía general,Hospital del Norte,2023-02-03,2023-03-13,Atención realizada
+500558,101143,59,Hombre,Traumatología,Hospital del Valle,2026-03-05,,
+500610,101507,60,Mujer,Cardiología,Hospital del Sur,2024-10-16,2025-02-26,Atención realizada
+500977,100449,55,Hombre,Cirugía general,Hospital Costero,2025-03-03,,
+500941,101277,45,Mujer,Cardiología,Hospital Costero,2025-04-27,2025-07-06,Contacto no posible
+500490,100179,82,Mujer,Oftalmología,Hospital del Norte,2024-11-13,2025-05-01,Atención realizada
+500602,100116,63,Hombre,Otorrinolaringología,Hospital de la Cordillera,2025-07-06,2026-06-29,Atención realizada
+500218,101239,33,Mujer,Cirugía general,Hospital de la Cordillera,2025-03-03,2025-05-23,Atención realizada
+500861,101035,88,Mujer,Cardiología,Hospital del Norte,2023-12-25,,
+501720,100577,63,Mujer,Oftalmología,Hospital de la Cordillera,2023-04-15,2024-01-20,Atención realizada
+501931,100184,35,Mujer,Oftalmología,Hospital del Norte,2023-12-10,2024-01-28,Atención realizada
+500727,101532,,Mujer,Cirugía general,Hospital Costero,2024-09-20,,
+501325,100680,47,Mujer,Cirugía general,Hospital del Sur,2023-04-27,2023-11-18,Renuncia voluntaria
+500201,101399,21,Mujer,Otorrinolaringología,Hospital del Norte,2026-02-17,,
+500172,101472,47,Mujer,Traumatología,Hospital de la Cordillera,2025-05-22,2026-01-11,Atención realizada
+500354,101203,44,,Traumatología,Hospital de la Cordillera,2023-01-30,,
+500204,100005,20,Mujer,Otorrinolaringología,Hospital del Norte,2025-01-26,,
+500153,100568,85,Mujer,Cardiología,Hospital del Norte,2026-09-16,,
+500686,100444,60,Hombre,Otorrinolaringología,Hospital de la Cordillera,2025-03-04,2025-04-18,Atención realizada
+501081,100333,72,Mujer,Cirugía general,Hospital del Norte,2025-08-08,,
+500039,100357,47,Hombre,Cirugía general,Hospital del Norte,2023-08-02,,
+501450,101257,56,Mujer,Cardiología,Hospital de la Cordillera,2024-03-14,2024-09-05,Atención realizada
+501544,101494,34,Mujer,Otorrinolaringología,Hospital Costero,2025-03-17,2025-07-27,Renuncia voluntaria
+501892,101112,60,Hombre,Oftalmología,Hospital del Norte,2025-03-03,2026-09-15,Atención realizada
+500273,100303,41,hombre,Cirugía general,Hospital del Norte,2025-11-22,,
+501675,101360,49,Hombre,Otorrinolaringología,Hospital del Valle,2024-04-27,2024-07-17,Atención realizada
+500061,100587,33,Mujer,Dermatología,Hospital de la Cordillera,2023-01-14,2023-01-22,Atención realizada
+501345,101265,57,Mujer,Otorrino,Hospital de la Cordillera,2023-05-10,2023-09-07,Atención realizada
+500978,101405,87,Hombre,Traumatología,Hospital del Norte,2025-01-08,2025-04-02,Atención realizada
+500708,100621,98,Hombre,Cardiología,Hospital del Sur,2024-01-25,,
+501383,101128,53,Mujer,Cirugía general,Hospital del Norte,2023-02-07,2024-05-21,Atención realizada
+501108,100435,60,Hombre,Oftalmología,Hospital del Sur,2026-01-04,2026-02-11,Atención realizada
+501317,100881,31,Mujer,Oftalmología,Hospital del Valle,2023-08-07,2023-12-21,Inasistencia
+500758,101251,21,MUJER,Ginecología,Hospital del Norte,2024-08-04,2024-09-04,Atención realizada
+500434,100994,,Hombre,Cirugía general,Hospital Costero,2023-06-29,,
+500448,100247,65,Mujer,Oftalmología,Hospital del Norte,2024-06-19,2024-09-02,Contacto no posible
+500845,101519,26,Hombre,Otorrinolaringología,Hospital de la Cordillera,2024-07-24,2025-05-15,Atención realizada
+501474,101288,81,Mujer,Oftalmología,Hospital del Sur,2023-02-05,2023-05-02,Atención realizada
+500643,100358,16,Hombre,Traumatología,Hospital Costero,2024-11-14,2025-08-30,Atención realizada
+501692,100153,60,Hombre,Traumatología,Hospital del Norte,2025-03-28,,
+500473,101382,93,Hombre,Oftalmología,Hospital del Sur,2024-05-15,,
+501011,101112,14,Hombre,Otorrinolaringología,Hospital del Sur,2025-11-03,2026-02-09,Contacto no posible
+501477,101048,60,Hombre,Cirugía general,Hospital de la Cordillera,2024-10-03,2025-10-06,Atención realizada
+501226,100534,63,Hombre,Cardiología,Hospital del Norte,2023-11-06,2024-05-19,Atención realizada
+501092,101148,58,Mujer,Traumatología,Hospital Costero,2023-11-06,2024-07-07,Atención realizada
+501160,100141,79,Mujer,Dermatología,Hospital del Valle,2023-11-02,,
+500081,100002,80,Hombre,Traumatología,Hospital del Sur,2025-03-03,2025-08-04,Atención realizada
+500272,101457,54,Mujer,Cirugía general,Hospital del Valle,2025-03-03,,
+501837,101507,10,Hombre,Dermatología,Hospital del Sur,2023-12-17,,
+500574,100445,55,Mujer,Cardiología,Hospital del Norte,2025-06-12,2025-08-20,Atención realizada
+500128,100459,53,Mujer,Ginecología,Hospital de la Cordillera,2025-03-20,2025-05-03,Renuncia voluntaria
+501940,100961,77,Mujer,Cardiología,Hospital del Norte,2023-12-22,2024-05-28,Renuncia voluntaria
+501293,101407,39,Hombre,Dermatología,Hospital de la Cordillera,2023-11-04,2024-03-03,Atención realizada
+501366,100431,64,Hombre,Cirugía general,Hospital del Sur,2024-03-21,2026-06-24,Atención realizada
+500131,101132,17,Hombre,Cirugía general,Hospital del Valle,2025-05-19,,
+500266,100919,50,Mujer,Oftalmología,Hospital del Sur,2025-12-27,2026-08-28,Atención realizada
+501731,101565,71,Mujer,Oftalmología,Hospital del Sur,2023-07-28,2023-10-02,Atención realizada
+500660,101246,61,mujer,Ginecología,Hospital Costero,2025-09-01,,
+500609,100291,90,Hombre,Cardiología,Hospital del Sur,2025-03-03,2026-02-25,Contacto no posible
+501188,101075,16,Hombre,Otorrinolaringología,Hospital Costero,2024-10-16,2025-03-09,Atención realizada
+500165,100641,,Mujer,Traumatología,Hospital Costero,2023-09-18,2023-12-25,Atención realizada
+501408,101453,33,Mujer,Traumatología,Hospital del Sur,2025-07-19,2026-09-27,Inasistencia
+501424,100271,44,Femenino,Ginecología,Hospital del Valle,2024-08-15,2025-02-15,Atención realizada
+500305,101430,53,Mujer,Oftalmología,Hospital del Sur,2025-03-03,2025-03-05,Atención realizada
+500189,101179,63,Hombre,Cardiología,Hospital del Sur,2025-03-03,2025-05-27,Atención realizada
+501826,100951,76,Mujer,Cardiología,Hospital Costero,2024-02-27,,
+500279,101517,45,F,Traumatología,Hospital del Valle,2023-06-09,,
+501592,100638,72,Mujer,Dermatología,Hospital de la Cordillera,2026-08-13,,
+501509,100525,48,Mujer,Cardiología,Hospital del Norte,2025-04-18,2025-06-30,
+500066,101188,36,Hombre,Cirugía general,Hospital del Sur,2025-05-07,2026-03-12,Atención realizada
+501119,100067,55,Mujer,Dermatología,Hospital del Valle,2026-01-15,,
+500330,100564,58,Mujer,Ginecología,Hospital del Norte,2025-12-12,2026-08-22,Atención realizada
+500356,101120,71,Mujer,Cardiología,Hospital del Valle,2023-08-13,2024-01-12,Atención realizada
+500502,100390,42,Mujer,Traumatología,Hospital del Norte,2023-02-05,,
+500902,100857,47,Mujer,Cirugía general,Hospital del Norte,2024-09-12,2024-09-23,Atención realizada
+501417,100552,40,M,Dermatología,Hospital del Sur,2023-07-19,,
+500318,100380,42,Mujer,Dermatología,Hospital Costero,2024-10-02,,
+500753,100536,38,Mujer,Ginecología,Hospital de la Cordillera,2025-08-19,2025-08-24,Atención realizada
+500711,101402,64,Hombre,Oftalmología,Hospital del Norte,2025-06-06,2026-01-02,Atención realizada
+501324,101581,25,Hombre,Otorrino,Hospital del Sur,2023-05-25,2023-10-21,Atención realizada
+501034,100677,69,Mujer,Cardiología,Hospital del Norte,2025-10-20,,
+501978,101173,45,Mujer,Ginecología,Hospital del Norte,2025-03-03,,
+500094,101558,,Hombre,Otorrinolaringología,Hospital Costero,2025-10-26,,
+500692,101250,44,Mujer,Cardiología,Hospital del Sur,2024-06-19,,
+500294,100928,32,Mujer,Dermatología,Hospital del Norte,2025-04-02,,
+501102,101463,44,Mujer,Otorrinolaringología,Hospital del Valle,2026-08-15,,
+501598,101204,95,Hombre,Oftalmología,Hospital del Valle,2025-06-14,,
+501882,100524,90,Hombre,Oftalmología,Hospital del Norte,2024-04-11,2024-07-16,Atención realizada
+500013,100671,61,Hombre,Cardiología,Hospital del Norte,2025-04-22,2025-07-14,Atención realizada
+500485,100199,92,Mujer,Oftalmología,Hospital del Sur,2024-04-08,,
+500320,101408,72,Mujer,Oftalmología,Hospital de la Cordillera,2026-03-22,2026-09-15,Atención realizada
+501955,101058,77,,Traumatología,Hospital de la Cordillera,2023-12-12,,
+500370,100379,38,Hombre,Oftalmología,Hospital del Sur,2026-04-06,,
+501422,100022,55,Mujer,Dermatología,Hospital del Valle,2026-09-07,,
+500346,101140,40,Mujer,Dermatología,Hospital del Sur,2026-01-11,2026-04-30,Atención realizada
+501857,101196,33,HOMBRE,Dermatología,Hospital Costero,2023-12-01,2024-03-18,Atención realizada
+501739,100382,78,Mujer,Oftalmología,Hospital del Sur,2025-07-20,2025-12-17,Fallecimiento
+500222,100653,41,Hombre,Dermatología,Hospital del Norte,2024-09-09,,
+501357,100203,42,Hombre,Traumatología,Hospital del Valle,2024-06-18,2024-10-29,Inasistencia
+501980,101368,72,Mujer,Oftalmología,Hospital del Sur,2023-12-27,,
+501040,100347,43,Hombre,Traumatología,Hospital de la Cordillera,2024-03-18,2024-07-21,Renuncia voluntaria
+500431,100764,54,Hombre,Cardiología,Hospital del Sur,2024-03-28,2025-12-13,Contacto no posible
+500927,100594,64,Mujer,Oftalmología,Hospital del Valle,2023-06-26,2023-07-29,Atención realizada
+501049,100001,56,Mujer,Cirugía general,Hospital Costero,2025-06-10,2026-08-20,Atención realizada
+501436,101316,86,Hombre,Oftalmología,Hospital del Sur,2024-01-31,2024-07-29,Atención realizada
+501555,100332,48,Mujer,Dermatología,Hospital del Valle,2025-11-22,,
+500607,101225,999,Mujer,Cirugía general,Hospital del Sur,2025-03-03,2025-03-19,Atención realizada
+500399,101180,38,Mujer,Cardiología,Hospital del Valle,2023-03-28,2023-09-11,Atención realizada
+500710,100959,35,Hombre,Traumatología,Hospital Costero,2026-06-12,,
+500262,101500,34,Hombre,Dermatología,Hospital del Norte,2026-06-28,,
+500334,100675,49,Hombre,Otorrinolaringología,Hospital del Valle,2026-07-02,,
+501134,100676,28,Hombre,Otorrinolaringología,Hospital del Sur,2026-04-29,,
+501255,101539,55,Hombre,Oftalmología,Hospital del Sur,2026-02-13,,
+501111,100574,25,Mujer,Ginecología,Hospital de la Cordillera,2023-04-21,2023-08-14,Atención realizada
+501854,101241,20,Hombre,Traumatología,Hospital del Valle,2025-06-01,2025-12-30,Atención realizada
+500037,100092,84,Hombre,Cardiología,Hospital del Sur,2026-08-30,,
+500807,100750,40,Mujer,Otorrinolaringología,Hospital Costero,2025-10-31,2025-12-26,Atención realizada
+500824,101436,9,Mujer,Otorrinolaringología,Hospital de la Cordillera,2026-01-30,,
+500003,100554,22,Hombre,Dermatología,Hospital del Norte,2025-02-03,2025-07-27,Atención realizada
+501295,101127,73,Mujer,Cardiología,Hospital del Sur,2023-08-15,2023-09-09,Atención realizada
+500531,100184,32,Mujer,Otorrinolaringología,Hospital del Norte,2026-06-18,,
+500495,101070,35,Mujer,Ginecología,Hospital del Sur,2025-03-03,,Atención realizada
+500613,101218,42,Mujer,Ginecología,Hospital del Valle,2026-07-11,,
+500280,100120,66,Hombre,Traumatología,Hospital del Valle,2025-02-25,,
+501124,101339,73,Hombre,Oftalmología,Hospital del Norte,2024-09-27,2025-07-05,Atención realizada
+501277,100902,58,Mujer,Traumatología,Hospital Costero,2025-02-14,,
+500455,101185,19,Mujer,Traumatología,Hospital del Sur,2023-10-09,,
+500672,100922,,Mujer,Ginecología,Hospital Costero,2023-08-27,,
+501279,101489,65,Hombre,Oftalmología,Hospital del Norte,2023-03-15,,
+500765,100041,50,Mujer,Cirugía general,Hospital del Sur,2025-06-26,2025-08-08,Atención realizada
+500600,100465,53,Mujer,Oftalmología,Hospital del Norte,2025-11-10,2026-01-08,Atención realizada
+500217,100406,,Hombre,Traumatología,Hospital de la Cordillera,2026-08-10,,
+501304,100146,67,Hombre,Cirugía general,Hospital del Norte,2026-02-19,,
+501977,101408,37,Hombre,Cirugía general,Hospital del Norte,2024-09-04,2025-04-04,Atención realizada
+500534,100975,57,M,Cirugía general,Hospital del Sur,2026-08-19,,
+501007,100731,39,Hombre,Cirugía general,Hospital del Valle,2025-07-01,2025-09-19,Atención realizada
+500341,100433,35,Mujer,Cirugía general,Hospital del Norte,2024-03-11,2024-05-10,Atención realizada
+501425,101340,53,Hombre,Dermatología,Hospital del Valle,2026-02-04,,
+500482,101521,59,Hombre,Traumatología,Hospital del Norte,2026-07-26,,
+500626,101503,40,Mujer,Otorrinolaringología,Hospital del Sur,2025-03-08,,
+500414,100451,11,Mujer,Otorrinolaringología,Hospital del Norte,2025-12-20,2026-09-02,Renuncia voluntaria
+500562,101527,40,Mujer,Traumatología,Hospital del Sur,2023-01-21,2023-08-22,Atención realizada
+500023,100678,65,Hombre,Cardiología,Hospital de la Cordillera,2025-03-29,2025-07-08,Atención realizada
+500230,100352,43,Mujer,Ginecología,Hospital del Norte,2025-05-20,2026-07-21,Atención realizada
+500287,100949,,Mujer,Otorrinolaringología,Hospital Costero,2025-06-20,2025-10-27,Atención realizada
+501054,101312,56,Hombre,Cardiología,Hospital del Valle,2025-03-03,,
+501673,100339,15,Mujer,Ginecología,Hospital del Sur,2023-03-08,,
+501140,100330,,Hombre,Traumatología,Hospital Costero,2023-04-01,2023-06-04,Atención realizada
+501292,100700,47,Mujer,Traumatología,Hospital Costero,2025-08-02,,
+500873,101103,88,Mujer,Cardiología,Hospital del Sur,2023-08-06,2024-03-21,
+501950,100878,73,Mujer,Cardiología,Hospital de la Cordillera,2025-12-08,2026-05-09,Atención realizada
+500986,100420,50,Hombre,Otorrinolaringología,Hospital del Norte,2024-04-10,,
+500337,101519,67,Mujer,Ginecología,Hospital Costero,2025-01-30,,
+501488,100743,,Hombre,Cirugía general,Hospital Costero,2024-09-28,2025-02-23,Atención realizada
+500829,101478,47,,Ginecología,Hospital del Sur,2025-07-04,2025-09-21,Renuncia voluntaria
+500953,101214,72,Hombre,Traumatología,Hospital de la Cordillera,2024-10-07,2025-09-15,Atención realizada
+500614,101375,72,Mujer,Otorrino,Hospital del Norte,2023-09-18,2023-12-15,Renuncia voluntaria
+500202,101300,,Mujer,Cardiología,Hospital Costero,2023-02-23,2023-04-23,Renuncia voluntaria
+500428,100575,57,Mujer,Oftalmología,Hospital de la Cordillera,2024-06-12,2024-06-21,Fallecimiento
+501566,101419,52,Hombre,Cardiología,Hospital del Sur,2023-03-04,,
+500083,100914,28,Mujer,Dermatología,Hospital del Norte,2026-01-25,2026-08-29,Atención realizada
+501002,100030,87,Hombre,Oftalmología,Hospital del Sur,2026-05-02,2026-08-10,Atención realizada
+501349,100619,82,Mujer,Traumatología,Hospital del Valle,2024-09-22,2026-08-14,Atención realizada
+500078,101015,50,Hombre,Cirugía general,Hospital Costero,2024-11-18,2024-12-05,Atención realizada
+501371,100438,43,Mujer,Cirugía general,Hospital del Sur,2024-01-07,2024-06-11,Fallecimiento
+501812,100132,21,Hombre,Cardiología,Hospital del Valle,2025-08-02,,
+501959,100786,63,Hombre,Oftalmología,Hospital Costero,2025-11-24,2026-07-17,Atención realizada
+500478,100257,27,Mujer,Ginecología,Hospital Costero,2024-06-10,,
+501926,100974,28,Mujer,Dermatología,Hospital del Norte,2025-03-03,2025-08-16,Atención realizada
+501614,100608,59,Hombre,Cirugía general,Hospital del Valle,2025-03-03,,
+501174,101460,46,Mujer,Traumatología,Hospital del Sur,2023-08-23,,
+500974,101041,64,Hombre,Oftalmología,Hospital Costero,2025-03-03,,
+500326,101428,,Mujer,Otorrinolaringología,Hospital Costero,2024-12-28,2025-03-14,Atención realizada
+501528,100785,54,Hombre,Cardiología,Hospital Costero,2026-07-30,,
+501094,101198,69,Hombre,Traumatología,Hospital del Norte,2026-01-24,2026-04-27,Atención realizada
+501244,100675,42,Mujer,Dermatología,Hospital del Norte,2025-03-19,2025-06-19,Atención realizada
+501056,100050,71,Hombre,Traumatología,Hospital del Sur,2025-01-03,2025-05-16,Atención realizada
+500950,100457,69,Mujer,Traumatología,Hospital del Valle,2026-06-21,,
+500989,100133,26,Mujer,Cirugía general,Hospital de la Cordillera,2023-09-05,2023-10-22,Atención realizada
+500248,100426,65,Hombre,Oftalmología,Hospital Costero,2025-03-03,,
+501364,100763,23,Mujer,Ginecología,Hospital del Valle,2024-12-17,2025-09-03,Atención realizada
+501246,100858,21,Mujer,Ginecología,Hospital del Norte,2025-12-21,2026-03-21,Atención realizada
+501358,100838,32,Hombre,Traumatología,Hospital del Norte,2026-09-29,,
+501654,100675,39,Hombre,Cirugía general,Hospital de la Cordillera,2025-03-03,2025-04-13,Atención realizada
+500196,100330,46,Hombre,Dermatología,Hospital de la Cordillera,2025-07-21,2026-03-27,Atención realizada
+501312,101052,38,Hombre,Cirugía general,Hospital del Sur,2026-08-21,,
+501378,100148,19,Hombre,Otorrinolaringología,Hospital del Norte,2024-09-02,,
+501941,101247,54,Mujer,Dermatología,Hospital del Norte,2025-03-29,2025-08-25,Atención realizada
+501776,100063,,Mujer,Oftalmología,Hospital Costero,2026-05-01,,
+500180,100679,63,Mujer,Traumatología,Hospital del Sur,2025-03-03,2025-06-19,Atención realizada
+501822,101444,61,Mujer,Traumatología,Hospital del Sur,2025-07-01,2026-04-29,Renuncia voluntaria
+501334,100378,52,Mujer,Cardiología,Hospital del Norte,2025-04-27,,
+500321,100299,45,Mujer,Ginecología,Hospital de la Cordillera,2026-09-26,,
+500398,100557,,Mujer,Ginecología,Hospital Costero,2025-06-09,,
+501369,100475,42,Mujer,Cirugía general,Hospital del Valle,2023-09-16,2023-10-17,Atención realizada
+501234,100093,61,Hombre,Otorrinolaringología,Hospital del Norte,2024-09-18,2024-12-15,Atención realizada
+500270,100434,39,Hombre,Dermatología,Hospital de la Cordillera,2023-04-30,2023-07-03,Contacto no posible
+501670,100572,45,Mujer,Dermatología,Hospital del Sur,2025-10-29,,
+500118,100207,66,Hombre,Dermatología,Hospital del Sur,2023-11-24,2024-03-14,Renuncia voluntaria
+501205,100518,84,Mujer,Traumatología,Hospital del Sur,2023-06-21,2023-09-09,Inasistencia
+501962,100362,25,Mujer,Otorrinolaringología,Hospital de la Cordillera,2026-06-16,,
+500951,100201,18,Mujer,Dermatología,Hospital del Valle,2023-12-08,2024-02-28,Atención realizada
+501282,100847,63,Mujer,Cardiología,Hospital del Norte,2025-06-19,2025-09-09,Inasistencia
+500966,101020,44,Hombre,Otorrinolaringología,Hospital del Valle,2025-05-05,,
+500975,100599,63,Hombre,Dermatología,Hospital Costero,2023-08-14,2023-12-14,Atención realizada
+500088,100504,26,Mujer,Cardiología,Hospital de la Cordillera,2024-05-13,,
+500403,101469,69,Hombre,Traumatología,Hospital del Norte,2026-03-01,2026-05-02,Inasistencia
+501690,101420,74,Hombre,Oftalmología,Hospital del Norte,2023-06-20,2023-07-23,Atención realizada
+500963,101502,63,M,Oftalmología,Hospital del Norte,2026-04-29,,
+501064,100524,27,Mujer,Ginecología,Hospital del Norte,2023-07-05,,
+501032,101616,67,Hombre,Cardiología,Hospital del Valle,2023-12-16,2024-08-28,Inasistencia
+501831,100806,48,Hombre,Traumatología,Hospital de la Cordillera,2025-12-13,,
+500541,101125,98,Mujer,Cardiología,Hospital de la Cordillera,2024-05-29,,
+501915,100927,58,Hombre,Oftalmología,Hospital de la Cordillera,2025-03-03,2025-11-08,
+501594,101324,14,Mujer,Otorrinolaringología,Hospital del Norte,2024-08-02,2024-08-09,Renuncia voluntaria
+501637,101598,18,Hombre,Otorrinolaringología,Hospital del Norte,2025-03-03,,
+501093,101597,39,Hombre,Traumatología,Hospital del Sur,2023-05-09,2023-09-11,Atención realizada
+501626,100614,93,Mujer,Cardiología,Hospital del Valle,2025-05-27,2025-09-20,Atención realizada
+501183,101383,40,Hombre,Traumatología,Hospital del Norte,2026-03-05,,
+500621,100448,11,Hombre,Otorrinolaringología,Hospital del Sur,2024-05-30,2024-10-05,Atención realizada
+500641,100947,,Mujer,Ginecología,Hospital de la Cordillera,2025-01-06,2025-02-04,Atención realizada
+501386,100442,35,Mujer,Ginecología,Hospital del Valle,2025-12-17,,
+500552,100231,66,Mujer,Oftalmología,Hospital Costero,2025-06-20,2025-10-17,Atención realizada
+500731,101609,15,Hombre,Dermatología,Hospital del Norte,2026-08-13,,
+501152,100951,46,Hombre,Cardiología,Hospital del Norte,2024-12-14,2025-04-18,Atención realizada
+500350,100558,47,Mujer,Otorrinolaringología,Hospital del Norte,2024-03-23,2024-05-15,Atención realizada
+501439,101438,35,Hombre,Traumatología,Hospital de la Cordillera,2023-05-18,2024-03-22,Renuncia voluntaria
+501895,101342,37,Mujer,Otorrino,Hospital de la Cordillera,2023-03-04,2024-11-27,Inasistencia
+501459,100437,31,Mujer,Dermatología,Hospital Costero,2026-01-02,2026-07-23,Atención realizada
+501747,100210,51,Mujer,Otorrinolaringología,Hospital del Valle,2025-03-26,2025-04-12,Atención realizada
+501162,100909,69,Hombre,Oftalmología,Hospital del Sur,2025-07-20,2025-12-12,Atención realizada
+500349,100451,75,Mujer,Oftalmología,Hospital del Sur,2026-04-11,2026-07-02,Atención realizada
+501834,101072,69,Hombre,Oftalmología,Hospital del Norte,2023-09-16,,
+501206,100931,28,Hombre,Otorrinolaringología,Hospital del Valle,2024-01-20,,
+500577,100082,33,Hombre,Dermatología,Hospital del Sur,2024-04-16,2024-08-11,Atención realizada
+501003,101465,56,Hombre,Otorrinolaringología,Hospital del Sur,2026-09-03,,
+501845,100879,34,Hombre,Otorrinolaringología,Hospital Costero,2025-02-01,,
+500606,101497,,Hombre,Dermatología,Hospital Costero,2025-09-15,,
+500914,101326,76,Mujer,Traumatología,Hospital del Norte,2025-07-28,2025-09-16,Atención realizada
+501768,100558,58,Hombre,Oftalmología,Hospital de la Cordillera,2023-05-05,,
+500364,101490,58,Mujer,Otorrinolaringología,Hospital del Valle,2025-05-05,2026-01-17,Atención realizada
+501445,101270,68,Mujer,Cardiología,Hospital del Norte,2023-08-19,,
+501042,100117,50,Mujer,Cardiología,Hospital del Valle,2024-08-23,2025-02-01,Inasistencia
+500057,101228,57,Mujer,Cardiología,Hospital de la Cordillera,2023-02-12,2023-03-27,Atención realizada
+500504,100953,48,Hombre,Traumatología,Hospital del Norte,2026-09-05,,
+500251,100009,41,Mujer,Cirugía general,Hospital Costero,2023-10-05,,
+500894,101105,80,Mujer,Ginecología,Hospital del Valle,2025-12-08,2026-03-10,Renuncia voluntaria
+500755,101029,69,Hombre,Oftalmología,Hospital del Sur,2026-01-21,2026-07-04,Atención realizada
+500730,100010,49,Hombre,Dermatología,Hospital del Sur,2025-03-03,,
+501611,100450,68,Hombre,Cirugía general,Hospital Costero,2025-04-04,,
+500717,101612,32,Hombre,Otorrinolaringología,Hospital del Valle,2026-05-04,,
+501676,101571,68,Mujer,Traumatología,Hospital del Norte,2024-02-18,2025-05-04,Atención realizada
+500461,100324,50,Mujer,Ginecología,Hospital de la Cordillera,2026-03-06,2026-07-12,Atención realizada
+500500,101143,46,Mujer,Oftalmología,Hospital Costero,2024-11-07,,
+501010,101150,35,Mujer,Oftalmología,Hospital del Norte,2025-10-17,2026-06-11,Contacto no posible
+501787,100199,81,Hombre,Cardiología,Hospital del Norte,2023-07-18,,
+500233,101379,81,Mujer,Ginecología,Hospital del Norte,2025-11-18,2025-12-03,Atención realizada
+500047,101040,36,Hombre,Cardiología,Hospital de la Cordillera,2023-08-05,,
+500260,100827,41,Hombre,Dermatología,Hospital del Norte,2025-07-31,,
+501595,100734,51,Mujer,Ginecología,Hospital del Sur,2024-01-21,,
+501792,101519,54,Mujer,Traumatología,Hospital del Sur,2023-09-17,,
+500509,101136,34,Mujer,Dermatología,Hospital del Norte,2024-02-06,2024-05-17,Atención realizada
+501290,100508,55,Mujer,Traumatología,Hospital del Norte,2025-08-14,2026-07-29,Atención realizada
+500443,101510,26,Mujer,Ginecología,Hospital de la Cordillera,2025-03-10,,
+500293,100889,66,Mujer,Cirugía general,Hospital Costero,2024-11-25,,
+500527,100678,26,Mujer,Cirugía general,Hospital de la Cordillera,2023-06-03,,
+500726,100086,48,Mujer,Ginecología,Hospital de la Cordillera,2025-10-12,,
+500793,101449,58,Mujer,Dermatología,Hospital de la Cordillera,2024-07-25,2024-11-15,Atención realizada
+500821,100614,70,Mujer,Traumatología,Hospital del Valle,2024-02-11,2024-04-25,Atención realizada
+500545,101176,20,Hombre,Otorrinolaringología,Hospital de la Cordillera,2025-02-26,2025-07-29,Atención realizada
+500089,100370,83,Mujer,Cardiología,Hospital del Norte,2024-02-25,,
+500169,100542,80,Mujer,Oftalmología,Hospital del Norte,2023-12-17,2024-02-20,Inasistencia
+501071,101461,42,Mujer,Oftalmología,Hospital del Norte,2024-02-11,,
+500855,100077,65,Hombre,Traumatología,Hospital Costero,2026-04-01,,
+500068,101641,53,Mujer,Traumatología,Hospital Costero,2024-12-27,2025-08-12,Atención realizada
+501130,100039,38,Mujer,Dermatología,Hospital del Sur,2023-09-29,,
+501153,100905,54,Mujer,Otorrino,Hospital de la Cordillera,2023-01-28,2023-03-28,Atención realizada
+500471,100810,73,Hombre,Traumatología,Hospital del Sur,2023-07-10,,
+501172,100293,47,Mujer,Cardiología,Hospital del Sur,2023-09-02,2023-10-13,Atención realizada
+501772,100318,77,Hombre,Oftalmología,Hospital del Sur,2025-01-07,2026-01-25,Renuncia voluntaria
+500501,100356,44,Mujer,Ginecología,Hospital del Sur,2024-05-16,,
+500697,100378,35,Mujer,Otorrino,Hospital Costero,2023-04-08,2023-07-15,Contacto no posible
+500723,101480,27,Mujer,Cirugía general,Hospital de la Cordillera,2026-05-11,,
+500863,100109,85,Hombre,Oftalmología,Hospital del Sur,2025-08-22,2025-08-28,Atención realizada
+500768,100529,48,Mujer,Cirugía general,Hospital del Norte,2026-05-15,,
+500799,100242,45,Hombre,Traumatología,Hospital del Sur,2023-06-26,2023-11-25,Atención realizada
+500900,101266,69,Mujer,Otorrinolaringología,Hospital del Sur,2025-12-10,2026-07-11,Fallecimiento
+500137,100212,44,Mujer,Otorrino,Hospital Costero,2023-07-14,2023-11-30,Atención realizada
+501828,101642,41,Hombre,Traumatología,Hospital de la Cordillera,2025-05-19,,
+501144,100324,50,Hombre,Oftalmología,Hospital del Sur,2025-11-23,2026-07-30,Atención realizada
+501533,100283,46,Hombre,Otorrinolaringología,Hospital Costero,2025-02-25,,
+500345,100677,41,Hombre,Otorrinolaringología,Hospital del Valle,2025-03-03,,
+501481,100807,47,mujer,Dermatología,Hospital del Sur,2026-07-31,,
+501635,100702,94,Mujer,Oftalmología,Hospital del Sur,2025-03-03,2025-06-27,Contacto no posible
+500934,100002,56,Mujer,Cirugía general,Hospital del Sur,2024-03-16,2024-05-21,Atención realizada
+501947,101263,79,Hombre,Oftalmología,Hospital Costero,2024-01-20,2024-07-22,Atención realizada
+500960,100006,14,Hombre,Traumatología,Hospital del Valle,2025-12-15,,
+500696,100122,,mujer,Ginecología,Hospital Costero,2023-12-20,2024-05-12,Atención realizada
+501331,100817,36,Mujer,Cirugía general,Hospital de la Cordillera,2025-01-25,2025-03-06,Inasistencia
+501693,100316,48,Hombre,Oftalmología,Hospital del Norte,2023-07-23,,
+501218,101511,78,Mujer,Traumatología,Hospital de la Cordillera,2026-02-16,2026-05-01,Atención realizada
+500783,100311,,Mujer,Ginecología,Hospital Costero,2025-05-31,,
+500025,100643,39,Hombre,Dermatología,Hospital Costero,2026-03-29,,
+501198,100691,56,Hombre,Traumatología,Hospital del Norte,2026-07-02,,
+500357,100977,32,Hombre,Traumatología,Hospital del Valle,2024-04-01,,
+501238,101559,60,Hombre,Oftalmología,Hospital del Norte,2023-08-28,2024-02-22,Atención realizada
+501303,100875,69,Mujer,Cirugía general,Hospital del Norte,2024-12-16,2025-08-29,Atención realizada
+500269,100628,38,Mujer,Ginecología,Hospital Costero,2024-05-28,,
+500792,101098,58,Mujer,Dermatología,Hospital del Sur,2025-04-09,2025-04-28,Atención realizada
+501943,101151,58,Mujer,Traumatología,Hospital del Valle,2026-08-22,,
+500288,100485,73,Mujer,Cirugía general,Hospital del Sur,2024-06-03,2024-08-05,Renuncia voluntaria
+501738,100426,50,Mujer,Dermatología,Hospital del Valle,2026-04-21,2026-05-20,Atención realizada
+500327,100227,43,Mujer,Traumatología,Hospital del Norte,2023-04-17,,
+500108,101360,36,Mujer,Ginecología,Hospital del Sur,2025-07-05,2025-10-03,Atención realizada
+501006,100688,41,Mujer,Oftalmología,Hospital del Norte,2025-03-03,,
+500906,100434,42,Hombre,Cirugía general,Hospital del Norte,2024-06-24,,
+500054,100605,51,Mujer,Dermatología,Hospital del Sur,2026-04-15,,
+500221,100388,57,hombre,Dermatología,Hospital del Norte,2023-10-05,,
+501842,101118,45,Mujer,Traumatología,Hospital del Sur,2024-04-04,2024-09-18,Atención realizada
+501795,100442,36,Hombre,Cirugía general,Hospital Costero,2023-06-26,,
+501908,101203,46,Mujer,Cardiología,Hospital del Sur,2023-09-12,2024-01-13,Atención realizada
+501251,101416,78,Mujer,Cardiología,Hospital del Norte,2025-03-15,2025-06-18,Atención realizada
+501027,100143,82,Hombre,Cardiología,Hospital del Sur,2023-10-25,2024-01-18,Atención realizada
+500208,101210,92,Mujer,Oftalmología,Hospital del Sur,2026-03-15,2026-06-21,Atención realizada
+500084,100409,58,Mujer,Oftalmología,Hospital del Norte,2023-09-22,2025-01-21,Atención realizada
+500247,101380,34,Mujer,Dermatología,Hospital Costero,2023-03-28,2023-09-30,Atención realizada
+500822,100031,23,Hombre,Otorrinolaringología,Hospital del Sur,2027-02-15,,
+501245,100451,37,Mujer,Cirugía general,Hospital del Sur,2025-03-22,,
+501652,101130,37,Hombre,Cirugía general,Hospital de la Cordillera,2023-09-02,,
+501367,101312,84,Hombre,Oftalmología,Hospital del Norte,2025-01-04,2025-04-25,Atención realizada
+500673,101127,13,Hombre,Otorrinolaringología,Hospital Costero,2026-08-26,,
+500695,100181,21,Mujer,Otorrinolaringología,Hospital de la Cordillera,2026-02-04,2026-05-01,Inasistencia
+501036,101340,49,Mujer,Ginecología,Hospital de la Cordillera,2026-03-26,2026-06-19,Inasistencia
+501745,100458,71,Mujer,Oftalmología,Hospital Costero,2024-08-08,,
+500648,101264,54,Mujer,Traumatología,Hospital del Sur,2024-12-19,2025-07-05,Atención realizada
+501066,100666,52,Mujer,Ginecología,Hospital de la Cordillera,2025-04-26,2025-05-23,Atención realizada
+500540,101194,94,Mujer,Cardiología,Hospital del Valle,2023-09-14,,
+501318,100314,57,Mujer,Ginecología,Hospital del Norte,2025-06-02,2026-09-15,Inasistencia
+500071,100079,60,Mujer,Cardiología,Hospital del Norte,2025-09-17,,
+501613,100355,33,Mujer,Traumatología,Hospital del Norte,2025-04-30,2025-07-22,Atención realizada
+500571,101302,34,Hombre,Otorrinolaringología,Hospital del Valle,2026-01-27,,
+500661,100986,59,Hombre,Dermatología,Hospital Costero,2023-04-25,,
+501878,101289,48,Hombre,Cirugía general,Hospital del Sur,2023-04-12,2024-02-14,Atención realizada
+500175,100577,58,Mujer,Cirugía general,Hospital del Sur,2025-08-17,2025-12-29,Atención realizada
+501897,100197,67,Hombre,Oftalmología,Hospital del Valle,2024-06-21,2025-02-06,Atención realizada
+500921,100366,29,F,Traumatología,Hospital del Sur,2025-01-05,2025-04-28,Atención realizada
+500852,100823,18,Mujer,Cirugía general,Hospital del Sur,2025-07-06,2026-05-02,Atención realizada
+501531,101343,71,Mujer,Traumatología,Hospital del Valle,2025-08-12,2025-09-12,Contacto no posible
+500578,100255,77,Mujer,Oftalmología,Hospital Costero,2024-12-08,2026-02-18,Inasistencia
+500619,100472,63,Mujer,Traumatología,Hospital del Sur,2026-01-27,2026-06-27,Atención realizada
+501132,100776,35,Mujer,Cirugía general,Hospital del Sur,2023-11-27,,
+500868,101380,66,Hombre,Oftalmología,Hospital del Norte,2024-11-15,2025-04-01,Contacto no posible
+500701,101597,49,Hombre,Traumatología,Hospital del Valle,2026-05-10,,
+501497,100277,71,Hombre,Oftalmología,Hospital del Valle,2025-08-24,2026-04-19,Atención realizada
+501404,100954,79,Hombre,Oftalmología,Hospital del Sur,2023-01-20,2023-11-12,Renuncia voluntaria
+500777,100220,58,Mujer,Otorrinolaringología,Hospital del Valle,2025-03-26,2025-09-04,Atención realizada
+501376,100759,54,Mujer,Ginecología,Hospital del Norte,2024-01-14,2024-08-22,Inasistencia
+500261,100375,67,Mujer,Cirugía general,Hospital del Norte,2026-04-24,2026-05-31,Atención realizada
+500747,100054,39,Mujer,Ginecología,Hospital de la Cordillera,2025-08-07,2026-08-06,Atención realizada
+501956,100043,59,Hombre,Traumatología,Hospital del Sur,2025-12-08,2025-12-24,Atención realizada
+500674,101339,41,Hombre,Cardiología,Hospital Costero,2023-05-25,,
+501265,101046,71,Hombre,Oftalmología,Hospital del Sur,2026-06-27,,
+501710,100226,40,Mujer,Ginecología,Hospital Costero,2025-03-03,2026-02-07,Atención realizada
+501865,100948,65,Hombre,Cirugía general,Hospital de la Cordillera,2026-03-30,,
+500317,100891,,Mujer,Traumatología,Hospital Costero,2026-09-26,,
+500994,100950,10,Mujer,Otorrinolaringología,Hospital del Valle,2024-11-13,,
+501869,100946,54,Mujer,Traumatología,Hospital del Valle,2025-03-03,2025-07-17,Inasistencia
+501823,100331,25,Hombre,Dermatología,Hospital Costero,2024-05-07,2024-07-05,Atención realizada
+500857,101362,61,Mujer,Ginecología,Hospital del Norte,2025-02-14,2025-05-04,Atención realizada
+501515,101106,52,Mujer,Oftalmología,Hospital de la Cordillera,2024-12-14,2025-08-17,Atención realizada
+500537,100689,40,Hombre,Dermatología,Hospital del Sur,2023-01-12,2023-04-19,Atención realizada
+501309,100261,37,Hombre,Cirugía general,Hospital del Sur,2025-12-10,2026-07-24,Atención realizada
+501603,100347,49,Mujer,Oftalmología,Hospital del Sur,2026-02-24,,
+500740,100203,39,Mujer,Traumatología,Hospital Costero,2025-11-02,2025-11-16,Atención realizada
+500736,100242,22,Hombre,Traumatología,Hospital del Norte,2026-01-30,,
+500853,100725,60,Hombre,Dermatología,Hospital del Sur,2025-08-29,,
+501374,100924,44,Mujer,Cardiología,Hospital del Norte,2023-12-05,2024-01-11,Atención realizada
+501683,101306,84,Hombre,Cirugía general,Hospital de la Cordillera,2025-03-03,,
+501736,100953,79,Mujer,Cardiología,Hospital del Sur,2024-04-21,2024-12-04,Atención realizada
+501780,100426,36,Mujer,Traumatología,Hospital del Norte,2026-08-01,,
+500772,100713,0,Hombre,Otorrinolaringología,Hospital del Valle,2026-04-13,,
+500732,101468,49,Hombre,Cardiología,Hospital del Norte,2025-03-03,2025-12-28,Atención realizada
+501836,101133,29,Mujer,Dermatología,Hospital del Norte,2025-09-22,,
+500459,101279,54,Hombre,Traumatología,Hospital del Sur,2025-03-03,,
+500554,101046,23,Mujer,Ginecología,Hospital del Sur,2025-02-21,2025-07-04,Atención realizada
+500688,100847,25,Mujer,Dermatología,Hospital de la Cordillera,2025-03-03,2025-04-29,Atención realizada
+500827,100301,73,Mujer,Traumatología,Hospital del Sur,2025-11-11,2026-05-03,Contacto no posible
+501653,100220,40,hombre,Otorrinolaringología,Hospital del Norte,2025-02-09,2025-03-04,Atención realizada
+501972,100497,56,Hombre,Dermatología,Hospital Costero,2025-10-15,2026-02-24,Atención realizada
+501016,100302,24,Hombre,Dermatología,Hospital del Sur,2025-07-14,2026-08-06,Atención realizada
+501905,101146,69,Mujer,Cardiología,Hospital del Norte,2025-10-23,,
+500477,100923,16,Mujer,Ginecología,Hospital del Sur,2025-10-25,,
+501019,100684,32,Hombre,Otorrinolaringología,Hospital de la Cordillera,2025-08-17,,
+501995,101515,23,Hombre,Traumatología,Hospital del Norte,2023-04-07,2023-07-02,Atención realizada
+501679,101435,92,Mujer,Oftalmología,Hospital Costero,2025-08-01,,
+500237,100028,46,Mujer,Traumatología,Hospital del Norte,2024-06-16,,
+500515,100861,49,Mujer,Dermatología,Hospital del Norte,2024-06-17,2025-11-08,Atención realizada
+501278,101379,34,Mujer,Traumatología,Hospital del Norte,2023-05-27,,
+501639,101415,,Mujer,Traumatología,Hospital Costero,2025-06-21,,
+501933,101076,54,Mujer,Cardiología,Hospital del Valle,2024-08-26,2024-12-07,Atención realizada
+501990,101407,82,Hombre,Oftalmología,Hospital del Sur,2024-11-05,2025-04-08,Atención realizada
+501389,101401,43,Mujer,Ginecología,Hospital de la Cordillera,2026-04-04,,
+501341,101016,55,Mujer,Traumatología,Hospital del Norte,2025-03-21,2025-07-07,Atención realizada
+501732,100788,56,Mujer,Traumatología,Hospital de la Cordillera,2024-11-02,2025-01-08,Contacto no posible
+500256,101381,46,Hombre,Otorrino,Hospital del Sur,2023-08-11,2023-12-23,Inasistencia
+500124,101024,42,Hombre,Traumatología,Hospital de la Cordillera,2025-11-10,2025-12-04,Atención realizada
+500371,101175,41,Mujer,Traumatología,Hospital Costero,2025-07-31,,
+501623,100876,93,Hombre,Oftalmología,Hospital de la Cordillera,2023-10-29,2023-12-08,Atención realizada
+500205,101188,18,Mujer,Otorrinolaringología,Hospital de la Cordillera,2025-03-03,2025-03-27,Atención realizada
+500456,100637,67,Hombre,Oftalmología,Hospital del Valle,2025-03-03,,
+501440,101055,34,Mujer,Oftalmología,Hospital del Valle,2024-10-27,,
+500190,100945,60,Mujer,Traumatología,Hospital de la Cordillera,2023-07-10,,
+501257,100806,26,Mujer,Dermatología,Hospital del Sur,2023-07-17,,
+500665,100861,,Hombre,Cirugía general,Hospital Costero,2024-04-20,2024-10-05,Atención realizada
+501819,101058,21,Mujer,Traumatología,Hospital de la Cordillera,2023-07-27,,
+501448,101381,55,Mujer,Dermatología,Hospital de la Cordillera,2025-08-22,2026-03-29,Atención realizada
+501532,101303,34,Mujer,Ginecología,Hospital del Norte,2024-05-31,2025-01-17,Inasistencia
+501320,100340,51,Hombre,Cirugía general,Hospital del Sur,2025-03-03,2025-09-10,Atención realizada
+501145,101607,26,Hombre,Otorrino,Hospital de la Cordillera,2023-06-26,2023-07-25,Atención realizada
+500899,100427,75,Hombre,Cardiología,Hospital del Norte,2024-04-30,2024-07-13,Atención realizada
+501009,101166,48,Mujer,Ginecología,Hospital del Norte,2025-03-03,,
+500538,101643,74,Hombre,Oftalmología,Hospital del Valle,2023-05-16,,
+500353,100343,43,Hombre,Oftalmología,Hospital del Sur,2026-05-04,,
+500785,101605,34,Hombre,Traumatología,Hospital del Sur,2024-08-10,2024-08-18,Atención realizada
+501028,101444,73,Mujer,Oftalmología,Hospital del Valle,2023-04-30,2023-12-19,Atención realizada
+501139,100146,52,Mujer,Dermatología,Hospital del Sur,2024-10-23,2025-12-11,Contacto no posible
+500656,100199,23,Mujer,Traumatología,Hospital Costero,2025-03-03,,
+500099,101589,,Hombre,Traumatología,Hospital Costero,2023-05-01,,
+500593,101061,40,Hombre,Cirugía general,Hospital de la Cordillera,2026-04-01,,
+500238,100063,68,Femenino,Cardiología,Hospital del Norte,2026-04-05,,
+500458,100164,68,Mujer,Otorrinolaringología,Hospital del Sur,2024-10-12,,
+500738,101336,85,Mujer,Cardiología,Hospital del Norte,2025-03-03,2026-02-21,Atención realizada
+501233,101268,63,Hombre,Oftalmología,Hospital del Valle,2025-05-14,2025-02-08,Atención realizada
+501827,100848,73,Mujer,Cardiología,Hospital Costero,2026-03-09,2026-08-28,Atención realizada
+501856,101390,75,Hombre,Cardiología,Hospital del Sur,2026-06-06,,
+501407,100224,40,Hombre,Traumatología,Hospital Costero,2026-07-15,,
+500164,101428,72,Mujer,Otorrinolaringología,Hospital del Norte,2026-08-27,,
+501756,100367,41,Mujer,Dermatología,Hospital del Norte,2025-01-30,,
+501818,100662,50,Mujer,Cirugía general,Hospital Costero,2025-09-22,,
+501465,101359,9,Mujer,Otorrinolaringología,Hospital del Norte,2024-10-31,2025-02-27,Atención realizada
+500796,100302,41,Hombre,Otorrinolaringología,Hospital del Sur,2025-04-04,2025-05-18,Atención realizada
+501612,100059,34,Mujer,Otorrinolaringología,Hospital del Valle,2025-05-24,2025-06-23,Contacto no posible
+501398,101186,22,Mujer,Otorrinolaringología,Hospital del Valle,2024-01-26,,
+500022,100830,56,Mujer,Dermatología,Hospital del Norte,2025-10-19,2025-11-21,Atención realizada
+501550,101238,46,Hombre,Traumatología,Hospital del Norte,2026-01-26,2026-04-14,Atención realizada
+500062,100465,,Hombre,Traumatología,Hospital del Norte,2023-10-06,2024-01-31,Atención realizada
+500985,101201,47,Hombre,Traumatología,Hospital del Sur,2024-04-14,2024-11-26,Atención realizada
+501275,100863,13,Hombre,Cirugía general,Hospital del Norte,2026-06-26,2026-07-26,Atención realizada
+500383,100061,86,Hombre,Dermatología,Hospital Costero,2024-03-10,2024-06-14,Atención realizada
+500749,100534,40,mujer,Dermatología,Hospital Costero,2024-11-04,2025-04-29,Inasistencia
+500170,101449,32,Mujer,Dermatología,Hospital del Norte,2025-06-23,2026-01-20,Atención realizada
+501885,101494,61,Hombre,Oftalmología,Hospital de la Cordillera,2023-07-01,2024-01-10,Atención realizada
+501645,100946,77,Hombre,Oftalmología,Hospital Costero,2025-12-19,2026-04-15,Atención realizada
+500312,100300,45,Mujer,Ginecología,Hospital Costero,2024-03-22,,
+501536,100983,58,Mujer,Traumatología,Hospital del Norte,2025-05-01,2025-10-03,Atención realizada
+501751,101510,,Hombre,Oftalmología,Hospital Costero,2024-10-14,,
+500493,100932,54,Hombre,Otorrinolaringología,Hospital del Sur,2025-04-10,2025-11-06,Contacto no posible
+500045,100391,47,Mujer,Traumatología,Hospital Costero,2024-03-24,,
+500858,100608,40,Hombre,Otorrinolaringología,Hospital del Valle,2025-03-03,2025-12-12,Atención realizada
+501932,100833,44,Mujer,Traumatología,Hospital del Valle,2024-10-04,2024-11-11,Atención realizada
+501171,100024,39,Mujer,Dermatología,Hospital del Norte,2025-11-03,2026-06-27,Atención realizada
+501534,100964,,Hombre,Oftalmología,Hospital Costero,2023-10-31,2024-08-04,Atención realizada
+501029,101050,51,Mujer,Cirugía general,Hospital del Valle,2026-01-18,2026-04-07,Inasistencia
+500680,101167,85,Mujer,Oftalmología,Hospital del Valle,2023-03-07,,
+500642,101340,45,MUJER,Traumatología,Hospital Costero,2023-07-09,,
+500325,100035,29,Mujer,Dermatología,Hospital del Sur,2025-03-03,2025-11-20,Inasistencia
+500780,100888,39,Mujer,Cirugía general,Hospital del Norte,2024-01-18,,
+501085,100726,32,Mujer,Oftalmología,Hospital Costero,2026-03-16,,
+501903,100118,31,Hombre,Cirugía general,Hospital del Valle,2023-07-16,2023-11-11,Contacto no posible
+501575,101161,25,Hombre,Otorrinolaringología,Hospital del Norte,2024-04-12,2023-10-28,Atención realizada
+501110,100481,70,Hombre,Oftalmología,Hospital del Sur,2026-01-21,,
+501689,101227,,Hombre,Traumatología,Hospital Costero,2023-05-18,2024-06-09,Atención realizada
+500481,100012,40,Mujer,Traumatología,Hospital Costero,2023-10-19,2024-03-09,Atención realizada
+501870,101616,,Mujer,Otorrinolaringología,Hospital Costero,2024-02-05,2024-04-01,Atención realizada
+500690,101640,44,Mujer,Cirugía general,Hospital del Sur,2025-03-03,,
+500027,100420,78,Mujer,Oftalmología,Hospital del Norte,2024-08-04,2025-05-04,Atención realizada
+501336,100462,80,Hombre,Cardiología,Hospital de la Cordillera,2024-01-23,2024-04-13,Atención realizada
+501702,100273,47,Hombre,Traumatología,Hospital del Sur,2026-09-19,,
+501098,100782,87,Hombre,Oftalmología,Hospital del Sur,2026-04-06,,
+501660,101105,31,Hombre,Traumatología,Hospital de la Cordillera,2025-03-28,2026-03-02,Atención realizada
+500395,100386,74,Mujer,Cardiología,Hospital de la Cordillera,2025-06-02,2026-01-18,Atención realizada
+500457,100918,39,Mujer,Ginecología,Hospital del Norte,2024-03-07,2024-09-01,Atención realizada
+500611,100055,62,Mujer,Cirugía general,Hospital del Sur,2025-03-03,2025-07-06,Atención realizada
+501501,100341,68,Mujer,Traumatología,Hospital del Sur,2025-10-09,,
+501120,101076,38,Hombre,Otorrinolaringología,Hospital del Sur,2024-08-11,2024-10-01,Atención realizada
+501075,101523,61,Hombre,Traumatología,Hospital del Valle,2026-05-01,,
+501175,100245,79,Mujer,Cardiología,Hospital del Sur,2025-01-20,,
+500263,100646,40,Mujer,Dermatología,Hospital de la Cordillera,2024-02-09,2024-03-06,Atención realizada
+501538,101599,63,Mujer,Dermatología,Hospital Costero,2025-10-02,2026-02-06,Contacto no posible
+501900,100878,55,Hombre,Cirugía general,Hospital Costero,2024-09-22,,
+500369,101203,60,Hombre,Cirugía general,Hospital Costero,2025-10-24,2026-05-04,Contacto no posible
+501489,101286,63,Mujer,Cardiología,Hospital de la Cordillera,2026-09-10,,
+501480,101083,33,Mujer,Oftalmología,Hospital del Sur,2025-07-07,2026-01-11,Atención realizada
+500465,101027,81,Hombre,Traumatología,Hospital del Sur,2025-12-15,2026-02-16,Renuncia voluntaria
+501723,101038,52,Mujer,Otorrino,Hospital de la Cordillera,2023-12-28,2024-04-02,Atención realizada
+501944,100651,2,Mujer,Otorrino,Hospital del Sur,2023-10-14,2023-12-11,Renuncia voluntaria
+501280,100147,82,Hombre,Cardiología,Hospital Costero,2025-08-19,,
+500310,100620,83,Mujer,Oftalmología,Hospital del Sur,2024-06-12,2024-11-06,Atención realizada
+501434,101172,41,Mujer,Oftalmología,Hospital del Norte,2026-04-13,,
+501567,100612,47,Hombre,Traumatología,Hospital de la Cordillera,2025-03-03,2025-08-16,Atención realizada
+500671,100213,68,Hombre,Cirugía general,Hospital del Sur,2025-06-17,2025-11-03,Atención realizada
+501814,100881,21,Mujer,Otorrinolaringología,Hospital del Valle,2025-01-14,2025-04-04,Atención realizada
+501302,100655,31,Mujer,Cirugía general,Hospital del Sur,2026-01-19,2026-07-07,Atención realizada
+501888,100516,89,Mujer,Traumatología,Hospital de la Cordillera,2024-05-31,,
+501356,101019,24,Mujer,Otorrinolaringología,Hospital Costero,2024-01-03,2024-05-11,Atención realizada
+501262,100567,36,Mujer,Otorrino,Hospital Costero,2023-05-06,,
+500926,101068,40,Hombre,Otorrinolaringología,Hospital de la Cordillera,2024-02-10,,
+500972,100886,29,Mujer,Otorrinolaringología,Hospital del Sur,2024-10-12,2024-10-27,Renuncia voluntaria
+501258,101380,67,Mujer,Traumatología,Hospital Costero,2024-01-27,2024-05-19,Contacto no posible
+501228,100805,66,Hombre,Oftalmología,Hospital de la Cordillera,2026-02-27,2026-04-17,Atención realizada
+501430,100513,59,Mujer,Ginecología,Hospital Costero,2026-09-10,,
+500379,100705,45,Hombre,Traumatología,Hospital del Sur,2025-05-17,2025-07-02,Atención realizada
+500929,101414,56,Hombre,Cardiología,Hospital del Sur,2025-08-29,,
+501620,100591,80,Hombre,Cardiología,Hospital del Norte,2025-03-03,2025-05-16,Atención realizada
+501520,100737,63,Mujer,Traumatología,Hospital del Sur,2024-07-07,,
+500539,100120,66,Hombre,Otorrinolaringología,Hospital Costero,2024-07-15,2025-02-20,Atención realizada
+500909,101267,63,Hombre,Traumatología,Hospital de la Cordillera,2023-10-06,2024-03-10,Atención realizada
+501456,100083,36,Mujer,Cirugía general,Hospital de la Cordillera,2023-11-10,2024-05-17,Atención realizada
+500721,101408,,Mujer,Ginecología,Hospital Costero,2026-08-20,,
+501735,101148,65,Mujer,Traumatología,Hospital del Sur,2023-12-21,,
+501299,100490,39,Mujer,Cardiología,Hospital del Sur,2023-07-23,,
+500916,101132,90,Femenino,Oftalmología,Hospital del Sur,2025-11-12,2026-01-24,Inasistencia
+501406,101476,44,Mujer,Oftalmología,Hospital de la Cordillera,2025-07-25,,
+500832,100730,43,Hombre,Dermatología,Hospital del Sur,2026-07-27,,
+500289,101445,23,Hombre,Dermatología,Hospital de la Cordillera,2025-04-09,2025-09-08,Atención realizada
+500130,100483,46,Mujer,Dermatología,Hospital del Norte,2025-08-22,2025-12-25,Atención realizada
+501403,101271,,hombre,Otorrinolaringología,Hospital Costero,2025-04-03,2025-09-09,Contacto no posible
+500096,100721,84,Hombre,Cardiología,Hospital del Valle,2026-06-01,2026-08-28,Contacto no posible
+501018,100083,67,Hombre,Oftalmología,Hospital Costero,2026-06-04,,
+500811,100831,31,Hombre,Traumatología,Hospital del Norte,2025-05-29,2025-11-11,Atención realizada
+500483,100503,48,Mujer,Oftalmología,Hospital del Sur,2025-09-30,,
+501051,100603,68,Hombre,Oftalmología,Hospital del Norte,2024-05-12,2024-10-17,Renuncia voluntaria
+501793,100479,57,Hombre,Traumatología,Hospital del Norte,2024-04-30,,
+501400,100444,33,Mujer,Ginecología,Hospital de la Cordillera,2026-06-30,2026-08-26,Inasistencia
+501901,100406,80,Hombre,Cardiología,Hospital del Norte,2026-02-16,2026-06-05,Atención realizada
+500720,101435,45,Mujer,Oftalmología,Hospital del Norte,2024-05-24,2024-09-01,Atención realizada
+500976,100350,63,Hombre,Traumatología,Hospital de la Cordillera,2023-02-16,2023-08-29,Contacto no posible
+501687,101033,41,Mujer,Ginecología,Hospital Costero,2025-06-06,2025-09-04,Atención realizada
+500040,101104,65,Mujer,Traumatología,Hospital Costero,2025-07-17,,
+500044,101471,25,Mujer,Otorrinolaringología,Hospital del Norte,2025-03-04,2026-03-05,Atención realizada
+501516,100914,34,Hombre,Traumatología,Hospital del Sur,2025-04-27,2025-10-01,Atención realizada
+500679,101489,60,Mujer,Oftalmología,Hospital Costero,2024-11-08,,
+500290,101293,43,Mujer,Otorrino,Hospital del Valle,2023-08-31,2023-09-16,Atención realizada
+501306,101137,46,Mujer,Cirugía general,Hospital del Sur,2024-09-13,2025-05-20,Atención realizada
+500801,100560,61,Hombre,Otorrinolaringología,Hospital de la Cordillera,2025-09-21,,
+500244,101342,36,Hombre,Dermatología,Hospital del Valle,2024-02-27,,
+500862,101142,91,Hombre,Cardiología,Hospital del Sur,2025-03-03,,
+501988,100791,62,Hombre,Oftalmología,Hospital de la Cordillera,2025-03-03,2025-03-26,Atención realizada
+500411,100977,71,Mujer,Oftalmología,Hospital del Sur,2023-04-08,,
+501463,100952,30,Mujer,Otorrinolaringología,Hospital del Sur,2025-06-23,,
+500401,100504,56,Mujer,Oftalmología,Hospital Costero,2023-09-17,2024-01-03,Atención realizada
+501202,100372,56,Mujer,Dermatología,Hospital de la Cordillera,2025-10-23,2026-04-15,Contacto no posible
+500835,100612,47,Hombre,Oftalmología,Hospital Costero,2023-02-01,,
+501889,100881,51,Mujer,Oftalmología,Hospital del Valle,2025-09-06,,
+501486,101369,53,Hombre,Traumatología,Hospital del Sur,2024-09-04,,
+501151,100598,52,Mujer,Dermatología,Hospital del Valle,2026-08-10,,
+500352,101075,47,Mujer,Otorrino,Hospital del Norte,2023-06-05,2024-04-16,Atención realizada
+500882,101571,31,Hombre,Otorrinolaringología,Hospital de la Cordillera,2024-05-23,2024-12-07,Atención realizada
+501185,100842,51,Mujer,Cardiología,Hospital del Valle,2023-03-20,,
+501969,100747,94,Hombre,Oftalmología,Hospital Costero,2024-06-27,2025-08-09,Atención realizada
+501301,100259,25,Mujer,Ginecología,Hospital del Sur,2023-04-01,2023-11-07,Atención realizada
+501195,101174,52,Hombre,Oftalmología,Hospital del Valle,2024-05-27,,
+501825,100949,64,Mujer,Oftalmología,Hospital del Norte,2026-02-12,2026-04-24,Atención realizada
+501876,101360,36,Mujer,Oftalmología,Hospital Costero,2026-01-07,,Atención realizada
+500647,101236,46,Mujer,Cirugía general,Hospital del Norte,2026-03-03,,
+500149,101443,70,Mujer,Oftalmología,Hospital del Valle,2025-08-03,2025-10-15,Inasistencia
+501542,100190,31,Mujer,Traumatología,Hospital del Valle,2024-09-06,,
+501600,100562,39,mujer,Dermatología,Hospital del Sur,2025-03-03,2025-05-21,Atención realizada
+500605,100395,42,Mujer,Ginecología,Hospital de la Cordillera,2023-08-07,,
+500361,101222,78,Mujer,Cardiología,Hospital del Norte,2023-10-05,,
+501287,100681,57,Hombre,Otorrinolaringología,Hospital de la Cordillera,2026-01-17,2026-02-11,Inasistencia
+501107,101292,58,Hombre,Traumatología,Hospital del Sur,2024-12-20,2025-07-25,Inasistencia
+501840,100134,51,Hombre,Traumatología,Hospital del Norte,2024-09-04,2025-01-10,Contacto no posible
+501963,100009,61,Hombre,Oftalmología,Hospital del Norte,2023-08-11,2024-01-17,Fallecimiento
+501117,100680,60,Hombre,Oftalmología,Hospital Costero,2023-07-08,,
+501997,101179,60,Mujer,Cardiología,Hospital del Norte,2025-10-19,2026-03-06,Atención realizada
+500786,100259,42,Mujer,Otorrinolaringología,Hospital del Sur,2025-03-03,,
+501432,100831,11,Mujer,Ginecología,Hospital del Norte,2023-02-08,2023-07-01,Atención realizada
+500532,100819,42,Mujer,Ginecología,Hospital del Norte,2023-04-03,,
+501216,100377,46,Hombre,Traumatología,Hospital de la Cordillera,2024-05-05,2024-08-02,Atención realizada
+500933,101485,63,Mujer,Traumatología,Hospital del Valle,2024-08-05,2025-04-12,Atención realizada
+500178,100355,70,Mujer,Oftalmología,Hospital del Valle,2025-03-03,2025-08-07,Atención realizada
+501022,101150,19,Mujer,Ginecología,Hospital del Sur,2024-03-28,,
+501636,101253,59,Hombre,Traumatología,Hospital del Norte,2025-02-05,2025-03-01,Atención realizada
+501024,100972,27,Hombre,Dermatología,Hospital del Valle,2024-05-09,,
+500372,101585,66,Hombre,Oftalmología,Hospital del Sur,2023-08-13,,
+500737,101487,54,Mujer,Traumatología,Hospital del Norte,2024-02-26,,
+500347,100780,38,Mujer,Dermatología,Hospital Costero,2024-05-29,2024-12-14,Atención realizada
+500129,100747,63,Hombre,Dermatología,Hospital del Norte,2025-09-03,,
+501866,100739,51,Mujer,Ginecología,Hospital del Sur,2023-11-01,,
+500355,100741,69,Hombre,Oftalmología,Hospital de la Cordillera,2023-03-02,2023-11-17,Atención realizada
+500332,101192,49,Mujer,Ginecología,Hospital Costero,2025-03-03,,
+500195,100221,57,Mujer,Cardiología,Hospital del Sur,2026-07-15,,
+500087,101381,28,Hombre,Dermatología,Hospital Costero,2023-09-23,,
+500729,100386,63,Hombre,Cardiología,Hospital del Norte,2023-12-17,2024-07-12,Atención realizada
+501668,100419,79,Hombre,Oftalmología,Hospital del Valle,2024-10-14,,
+501043,101596,64,Mujer,Cardiología,Hospital del Valle,2025-01-04,2025-11-13,Atención realizada
+501426,101396,50,Mujer,Cirugía general,Hospital Costero,2023-07-06,2023-12-11,Atención realizada
+500064,100967,,M,Oftalmología,Hospital Costero,2024-05-24,2024-08-08,Atención realizada
+501191,100308,50,Mujer,Traumatología,Hospital de la Cordillera,2026-06-12,,
+501502,100974,46,Mujer,Cardiología,Hospital del Valle,2026-01-03,,
+500105,100302,36,Mujer,Otorrino,Hospital del Norte,2023-01-10,2023-05-07,Atención realizada
+501632,100526,,Hombre,Traumatología,Hospital Costero,2025-03-15,,
+500412,100461,57,Mujer,Ginecología,Hospital de la Cordillera,2024-07-04,,
+500335,100390,41,Mujer,Otorrinolaringología,Hospital del Valle,2026-04-26,,
+500570,100829,72,Hombre,Cirugía general,Hospital del Valle,2023-05-26,,
+501458,100100,60,Mujer,Ginecología,Hospital del Norte,2025-07-27,,
+501169,100394,,Mujer,Oftalmología,Hospital Costero,2023-04-07,,
+500912,100153,47,Hombre,Traumatología,Hospital de la Cordillera,2024-11-17,,
+500751,100039,0,Mujer,Otorrino,Hospital del Valle,2023-02-13,2023-07-25,Atención realizada
+501881,100166,10,Mujer,Dermatología,Hospital del Sur,2023-11-08,2024-11-05,Atención realizada
+501343,100695,39,Mujer,Traumatología,Hospital Costero,2025-07-22,2025-10-28,Atención realizada
+500564,101231,40,Mujer,Otorrinolaringología,Hospital Costero,2024-07-19,2024-09-02,Inasistencia
+501519,100154,94,Mujer,Oftalmología,Hospital del Sur,2025-03-03,2025-10-19,Atención realizada
+501706,100913,51,Mujer,Traumatología,Hospital del Sur,2024-11-30,2025-01-11,Atención realizada
+501642,100542,44,Hombre,Oftalmología,Hospital del Norte,2025-02-21,,
+500714,100568,42,Mujer,Cirugía general,Hospital del Norte,2023-05-02,,
+501553,101477,42,Hombre,Traumatología,Hospital de la Cordillera,2023-10-05,,
+500462,101176,67,Hombre,Cardiología,Hospital del Norte,2024-07-23,2025-02-07,Atención realizada
+500557,101578,47,Mujer,Cardiología,Hospital del Norte,2025-03-03,2025-04-25,Atención realizada
+500203,100490,85,Hombre,Oftalmología,Hospital del Sur,2024-07-14,,
+501994,101361,68,Hombre,Dermatología,Hospital Costero,2024-08-11,2025-02-25,Atención realizada
+500425,100068,64,Hombre,Traumatología,Hospital del Norte,2024-08-15,,
+501777,100185,76,Mujer,Cardiología,Hospital de la Cordillera,2025-06-23,,
+500193,100382,47,Hombre,Dermatología,Hospital del Valle,2025-03-03,2026-03-06,Atención realizada
+501807,101450,64,Hombre,Traumatología,Hospital del Valle,2024-08-21,2024-08-31,Atención realizada
+500067,100213,60,Mujer,Oftalmología,Hospital del Valle,2024-06-18,2024-07-25,Inasistencia
+500520,100213,55,Mujer,Oftalmología,Hospital Costero,2025-03-03,2025-03-19,Inasistencia
+500881,101518,45,Hombre,Dermatología,Hospital del Norte,2025-04-03,2026-01-08,Atención realizada
+500385,100588,42,Hombre,Dermatología,Hospital del Norte,2026-02-22,,
+500559,101231,42,Mujer,Dermatología,Hospital de la Cordillera,2024-02-07,2024-06-01,Inasistencia
+501510,101070,82,Hombre,Oftalmología,Hospital del Sur,2024-12-28,2025-01-04,Atención realizada
+501987,101008,35,Hombre,Cirugía general,Hospital del Norte,2025-03-01,2025-08-25,Atención realizada
+500787,100678,4,Mujer,Ginecología,Hospital del Valle,2025-06-03,2026-03-30,Atención realizada
+500426,100474,61,Mujer,Traumatología,Hospital de la Cordillera,2025-03-12,,
+500752,101071,74,Mujer,Oftalmología,Hospital del Valle,2024-04-07,2024-05-12,Atención realizada
+501396,101384,60,Mujer,Otorrinolaringología,Hospital de la Cordillera,2025-06-15,2026-09-20,Atención realizada
+500771,101171,74,Mujer,Cirugía general,Hospital del Valle,2025-07-09,,
+500596,101495,56,Hombre,Oftalmología,Hospital del Valle,2024-02-17,2024-12-16,Atención realizada
+500435,100401,65,Mujer,Oftalmología,Hospital de la Cordillera,2023-03-16,,
+501847,101459,48,Mujer,Traumatología,Hospital del Norte,2023-11-12,2025-08-09,Atención realizada
+501268,101433,23,Mujer,Traumatología,Hospital del Sur,2023-08-22,,
+501521,101168,96,Hombre,Oftalmología,Hospital del Sur,2023-10-17,2024-03-08,Atención realizada
+500340,101318,62,Mujer,Cirugía general,Hospital del Sur,2025-07-15,,
+500498,101223,74,Hombre,Traumatología,Hospital del Valle,2024-10-16,2025-07-04,Atención realizada
+500565,100787,57,Hombre,Traumatología,Hospital del Sur,2025-03-03,2025-05-21,Atención realizada
+501803,101624,42,Hombre,Cirugía general,Hospital de la Cordillera,2026-07-19,,
+501368,100212,61,Mujer,Oftalmología,Hospital del Valle,2025-12-23,,
+500163,101400,44,Hombre,Traumatología,Hospital Costero,2023-10-31,2023-12-30,Atención realizada
+501462,101531,64,Mujer,Oftalmología,Hospital del Norte,2024-12-02,,
+501886,100471,18,Hombre,Otorrinolaringología,Hospital de la Cordillera,2024-01-06,2024-10-01,Atención realizada
+500026,101035,41,Hombre,Traumatología,Hospital del Norte,2026-05-11,2026-06-25,Atención realizada
+501165,100777,44,Hombre,Oftalmología,Hospital del Norte,2024-04-29,,
+501680,100744,40,Mujer,Traumatología,Hospital del Sur,2024-03-18,2024-08-02,Atención realizada
+501769,101458,,Hombre,Oftalmología,Hospital Costero,2024-10-21,2024-11-28,Contacto no posible
+500246,101457,92,Mujer,Oftalmología,Hospital del Sur,2024-02-08,2025-09-30,Inasistencia
+501452,101104,40,Mujer,Otorrino,Hospital de la Cordillera,2023-10-09,2024-06-06,Atención realizada
+500185,100507,39,Hombre,Traumatología,Hospital del Sur,2025-05-24,,
+500254,100430,40,Hombre,Cirugía general,Hospital del Sur,2025-06-15,,
+500802,100487,16,Mujer,Otorrinolaringología,Hospital del Sur,2025-10-19,,
+500226,101292,52,Hombre,Traumatología,Hospital del Valle,2024-04-23,2024-05-30,Atención realizada
+501513,101638,34,Mujer,Ginecología,Hospital del Valle,2023-03-09,2023-10-28,Atención realizada
+501113,101260,75,Hombre,Dermatología,Hospital del Valle,2024-05-25,,
+501535,100476,70,Hombre,Cardiología,Hospital Costero,2023-01-05,2023-04-30,Atención realizada
+500826,101565,41,Mujer,Cardiología,Hospital de la Cordillera,2026-09-07,,
+500923,101060,57,Mujer,Cirugía general,Hospital de la Cordillera,2026-03-01,2026-04-28,Inasistencia
+501512,101437,62,Hombre,Cirugía general,Hospital Costero,2025-08-19,,
+500389,100046,98,Mujer,Cardiología,Hospital Costero,2024-05-12,2024-10-24,Atención realizada
+500387,100424,51,Mujer,Traumatología,Hospital del Norte,2023-11-15,,
+500182,100582,50,Hombre,Otorrino,Hospital del Norte,2023-10-07,2024-02-28,Atención realizada
+500922,101401,47,Mujer,Dermatología,Hospital del Norte,2026-02-17,,
+500898,100952,6,Mujer,Otorrinolaringología,Hospital de la Cordillera,2025-07-20,,
+501335,100340,67,Mujer,Oftalmología,Hospital Costero,2025-10-13,,
+501498,100014,52,Mujer,Traumatología,Hospital Costero,2024-10-23,2025-04-14,Atención realizada
+500093,101551,75,Hombre,Cirugía general,Hospital de la Cordillera,2025-03-03,2025-11-07,Atención realizada
+500938,100884,18,Mujer,Otorrinolaringología,Hospital del Sur,2024-08-25,2025-08-31,Atención realizada
+501556,101378,80,Mujer,Oftalmología,Hospital de la Cordillera,2026-06-12,,
+500420,100439,61,Hombre,Cardiología,Hospital del Sur,2026-05-16,,
+501322,100645,64,Mujer,Cirugía general,Hospital de la Cordillera,2024-09-20,2025-03-14,Contacto no posible
+500585,100134,34,Hombre,Traumatología,Hospital del Sur,2025-03-15,2025-11-11,Fallecimiento
+500924,101482,32,Hombre,Cirugía general,Hospital Costero,2026-03-28,,
+500874,100201,64,Mujer,Oftalmología,Hospital Costero,2024-09-05,2025-08-24,Contacto no posible
+500295,100850,30,Mujer,Otorrinolaringología,Hospital del Sur,2024-11-18,,
+501740,100930,53,Hombre,Dermatología,Hospital de la Cordillera,2025-01-06,2025-02-06,Inasistencia
+500869,101288,62,Mujer,Oftalmología,Hospital del Norte,2023-02-27,2023-07-08,Atención realizada
+500573,100753,68,Mujer,Cardiología,Hospital del Norte,2024-09-15,,Atención realizada
+501910,101415,43,Mujer,Oftalmología,Hospital del Valle,2025-02-22,2025-06-02,Atención realizada
+501457,100519,37,Hombre,Traumatología,Hospital del Norte,2023-11-22,2024-08-11,Atención realizada
+501833,101619,48,Mujer,Dermatología,Hospital de la Cordillera,2025-09-22,,
+500278,101615,50,Hombre,Oftalmología,Hospital del Valle,2025-03-03,,
+500919,100592,22,Mujer,Cardiología,Hospital del Sur,2024-01-05,2024-03-27,Renuncia voluntaria
+500551,100253,47,Mujer,Ginecología,Hospital Costero,2024-05-10,2024-06-15,Atención realizada
+500663,100841,60,Hombre,Dermatología,Hospital del Sur,2025-09-05,2026-07-11,Atención realizada
+500968,101254,72,Mujer,Oftalmología,Hospital del Valle,2024-09-18,,
+500998,101054,67,Mujer,Traumatología,Hospital de la Cordillera,2025-01-10,2025-06-26,Atención realizada
+501625,101537,47,Hombre,Cirugía general,Hospital de la Cordillera,2023-09-12,,
+500292,101010,51,Hombre,Traumatología,Hospital del Sur,2024-05-31,2024-12-09,Contacto no posible
+500866,100275,91,Hombre,Oftalmología,Hospital del Sur,2026-07-15,,
+500973,100391,43,Mujer,Ginecología,Hospital del Sur,2023-05-13,,
+500837,100507,43,Mujer,Ginecología,Hospital Costero,2023-04-01,2023-08-02,Atención realizada
+501576,101508,77,Hombre,Traumatología,Hospital del Norte,2026-03-26,2026-09-04,Atención realizada
+500712,101009,66,Mujer,Cirugía general,Hospital del Sur,2026-06-12,2026-09-11,Inasistencia
+501643,101396,83,Hombre,Cardiología,Hospital del Sur,2025-10-23,2026-03-17,Atención realizada
+500836,101349,73,Mujer,Oftalmología,Hospital del Sur,2025-03-03,,
+500032,100402,48,Hombre,Ginecología,Hospital del Sur,2023-05-26,,
+501390,100808,47,Mujer,Cardiología,Hospital del Sur,2024-10-28,2025-01-31,Atención realizada
+501504,100448,0,F,Ginecología,Hospital de la Cordillera,2023-12-01,,
+500173,100131,77,Hombre,Cardiología,Hospital del Norte,2025-03-03,,
+500553,100396,29,Hombre,Dermatología,Hospital del Norte,2025-03-03,2025-08-20,Atención realizada
+500608,100970,,Hombre,Traumatología,Hospital Costero,2026-09-07,,
+501890,100901,42,Mujer,Ginecología,Hospital Costero,2026-07-15,,
+500598,100741,64,Mujer,Traumatología,Hospital Costero,2025-04-28,2025-12-17,Atención realizada
+500997,101546,41,Mujer,Ginecología,Hospital Costero,2026-04-14,,
+500897,101109,27,Hombre,Cirugía general,Hospital del Norte,2024-06-04,2024-10-25,Contacto no posible
+501112,101043,25,Mujer,Ginecología,Hospital Costero,2023-06-23,2023-12-10,Inasistencia
+500006,100847,53,Mujer,Otorrinolaringología,Hospital del Valle,2026-07-30,2026-09-28,Atención realizada
+500816,100763,73,Mujer,Oftalmología,Hospital del Sur,2024-05-07,2024-12-11,Atención realizada
+500299,101237,56,Mujer,Dermatología,Hospital del Valle,2026-07-25,,
+501743,101107,42,Hombre,Otorrinolaringología,Hospital del Valle,2026-06-25,,
+501095,101626,,Hombre,Oftalmología,Hospital Costero,2025-06-04,2026-01-09,Atención realizada
+501235,101189,36,Hombre,Traumatología,Hospital del Valle,2023-11-02,,
+501415,101313,82,Hombre,Cardiología,Hospital del Valle,2026-09-23,,
+500114,101585,98,Hombre,Oftalmología,Hospital del Norte,2024-09-03,2025-02-20,Atención realizada
+500984,101352,50,Hombre,Oftalmología,Hospital Costero,2025-09-25,2026-07-16,Atención realizada
+501722,101595,39,Mujer,Otorrinolaringología,Hospital Costero,2025-03-17,2026-05-27,Atención realizada
+501618,100853,33,Mujer,Otorrinolaringología,Hospital del Valle,2024-04-17,,
+500145,100139,58,Mujer,Cirugía general,Hospital de la Cordillera,2026-08-29,,
+501473,100898,65,Mujer,Oftalmología,Hospital del Norte,2025-03-03,2025-08-14,Contacto no posible
+501546,100984,74,Mujer,Cardiología,Hospital Costero,2026-09-08,,
+500297,101448,65,Hombre,Oftalmología,Hospital de la Cordillera,2023-10-22,,
+500820,101032,60,Hombre,Cirugía general,Hospital Costero,2024-12-24,,
+501004,101409,46,Hombre,Cardiología,Hospital del Sur,2024-04-30,2024-09-09,Atención realizada
+501178,100369,58,Hombre,Dermatología,Hospital del Norte,2023-01-30,,
+501143,100501,48,Mujer,Ginecología,Hospital Costero,2024-11-13,2024-11-20,Atención realizada
+501884,101092,30,Mujer,Traumatología,Hospital del Valle,2023-08-10,,
+500937,100043,17,Mujer,Dermatología,Hospital del Valle,2026-07-07,2026-07-25,Atención realizada
+501985,100310,48,Hombre,Cirugía general,Hospital del Sur,2026-07-21,,
+501329,101400,78,Hombre,Cardiología,Hospital del Norte,2025-08-17,,
+500550,101242,58,Mujer,Ginecología,Hospital del Norte,2024-05-11,2024-07-16,Atención realizada
+500864,101458,66,Hombre,Cardiología,Hospital de la Cordillera,2024-03-19,2024-09-24,Contacto no posible
+500117,100125,58,Hombre,Oftalmología,Hospital del Norte,2026-04-11,,
+501087,100858,57,Mujer,Traumatología,Hospital Costero,2024-09-29,2025-04-28,Atención realizada
+500296,101478,44,Mujer,Dermatología,Hospital del Sur,2023-02-13,2023-04-29,Contacto no posible
+501168,100593,52,Mujer,Cirugía general,Hospital del Norte,2025-03-11,2025-06-16,Contacto no posible
+500784,100100,15,Hombre,Dermatología,Hospital del Valle,2024-07-20,2024-11-05,Renuncia voluntaria
+501573,100674,79,Mujer,Oftalmología,Hospital del Norte,2023-05-13,,
+500328,101397,41,Hombre,Dermatología,Hospital del Valle,2024-09-11,2025-04-20,Atención realizada
+501841,100739,38,Mujer,Traumatología,Hospital del Norte,2023-02-05,,
+501219,100792,54,Mujer,Ginecología,Hospital del Sur,2023-12-20,2024-05-29,Contacto no posible
+501624,100796,19,Mujer,Traumatología,Hospital del Valle,2025-07-24,2025-08-18,Atención realizada
+500028,100145,27,Mujer,Cardiología,Hospital de la Cordillera,2025-07-31,2026-08-28,Atención realizada
+501646,100094,19,Mujer,Otorrinolaringología,Hospital de la Cordillera,2026-02-12,,
+501429,101075,26,Femenino,Ginecología,Hospital del Sur,2025-03-03,2025-09-19,Atención realizada
+501565,101394,84,Mujer,Oftalmología,Hospital Costero,2024-08-27,,
+501622,101443,87,Hombre,Cirugía general,Hospital de la Cordillera,2026-09-08,,
+500789,100930,98,Mujer,Oftalmología,Hospital del Sur,2025-03-03,,
+500156,100796,85,Mujer,Oftalmología,Hospital del Norte,2026-05-26,,
+501118,100398,8,Hombre,Dermatología,Hospital del Valle,2023-05-31,2023-12-31,Atención realizada
+500406,101460,87,Hombre,Cardiología,Hospital Costero,2023-12-12,2024-08-13,Atención realizada
+501746,101093,38,Mujer,Otorrinolaringología,Hospital del Norte,2026-01-25,2026-04-19,Inasistencia
+501148,101034,62,Hombre,Traumatología,Hospital Costero,2026-05-13,2026-08-29,Inasistencia
+500058,100219,56,Mujer,Traumatología,Hospital del Norte,2023-12-21,2024-03-11,Atención realizada
+501806,101590,39,Hombre,Dermatología,Hospital del Norte,2023-11-16,2025-01-14,Contacto no posible
+500122,101516,40,Mujer,Ginecología,Hospital del Sur,2025-03-03,2025-03-06,Contacto no posible
+500612,100500,81,Hombre,Oftalmología,Hospital del Norte,2025-03-03,,
+501661,101627,42,Mujer,Dermatología,Hospital del Sur,2026-04-10,,
+500942,100825,65,Mujer,Cirugía general,Hospital de la Cordillera,2023-10-31,2024-09-06,Atención realizada
+501166,100021,54,Hombre,Cirugía general,Hospital del Sur,2026-07-18,,
+500489,100139,52,Mujer,Ginecología,Hospital del Norte,2024-11-13,,
+501923,100981,74,Mujer,Oftalmología,Hospital del Norte,2023-10-19,,
+501707,100251,84,Mujer,Cardiología,Hospital del Sur,2024-10-12,2025-01-26,Atención realizada
+501671,100388,86,,Oftalmología,Hospital del Norte,2025-02-13,2025-04-11,Atención realizada
+501212,101357,57,Mujer,Cirugía general,Hospital del Valle,2025-04-14,2026-01-10,Atención realizada
+500823,100304,27,Mujer,Oftalmología,Hospital de la Cordillera,2026-03-13,2026-08-04,Atención realizada
+500617,101278,22,Mujer,Dermatología,Hospital del Sur,2023-07-09,,
+500223,101064,90,Mujer,Cardiología,Hospital del Valle,2025-07-27,2025-09-28,Atención realizada
+501155,100582,26,Mujer,Otorrinolaringología,Hospital Costero,2024-12-27,2025-02-20,Atención realizada
+501983,100873,40,Mujer,Traumatología,Hospital del Sur,2025-07-22,2026-02-04,Atención realizada
+501184,101622,56,Mujer,Dermatología,Hospital del Sur,2026-02-18,2026-06-24,Atención realizada
+501438,101228,68,Mujer,Oftalmología,Hospital del Sur,2025-12-03,2026-01-25,Inasistencia
+501418,100018,34,Mujer,Traumatología,Hospital del Norte,2024-08-24,2025-02-27,Atención realizada
+501500,100239,46,Hombre,Otorrinolaringología,Hospital del Sur,2026-02-09,2026-04-26,Contacto no posible
+500773,101581,78,Mujer,Cardiología,Hospital del Norte,2026-07-14,,
+500627,101596,51,Mujer,Traumatología,Hospital del Sur,2025-03-03,,
+500781,101438,59,Mujer,Cardiología,Hospital del Valle,2024-08-29,,
+501911,100970,49,Mujer,Traumatología,Hospital del Norte,2024-02-18,2024-03-12,Atención realizada
+501719,100204,58,Mujer,Oftalmología,Hospital de la Cordillera,2027-02-15,,
+501227,100517,28,mujer,Otorrinolaringología,Hospital del Sur,2024-10-11,,
+501296,100345,81,Mujer,Cardiología,Hospital Costero,2025-03-03,2025-05-21,Renuncia voluntaria
+501284,100903,38,Hombre,Traumatología,Hospital de la Cordillera,2024-06-26,2024-08-01,Inasistencia
+501461,100787,69,Mujer,Dermatología,Hospital del Norte,2023-03-21,,
+500017,101226,45,Hombre,Dermatología,Hospital del Sur,2025-03-03,,
+501561,100993,47,Mujer,Oftalmología,Hospital del Sur,2024-11-19,2024-11-22,Contacto no posible
+500965,101582,30,Mujer,Cirugía general,Hospital de la Cordillera,2023-10-04,,
+501248,100943,62,Hombre,Oftalmología,Hospital Costero,2023-08-29,2024-09-13,Atención realizada
+501539,101553,62,Mujer,Cardiología,Hospital del Norte,2023-04-20,2023-10-25,Atención realizada
+500632,100667,97,Mujer,Cardiología,Hospital del Valle,2024-03-11,2024-07-01,Atención realizada
+500423,100911,47,Hombre,Cardiología,Hospital del Sur,2024-09-17,2025-09-20,Renuncia voluntaria
+501307,101264,47,Mujer,Traumatología,Hospital del Sur,2023-03-16,,
+501479,100354,55,Mujer,Ginecología,Hospital de la Cordillera,2024-07-14,2024-09-17,Atención realizada
+501173,100197,,Mujer,Ginecología,Hospital Costero,2026-01-01,,
+501560,101107,29,Mujer,Oftalmología,Hospital de la Cordillera,2023-03-03,2023-06-04,Inasistencia
+501938,101207,45,Hombre,Dermatología,Hospital del Norte,2025-01-29,2025-03-04,Atención realizada
+500316,100926,48,Hombre,Oftalmología,Hospital del Valle,2025-05-12,2026-02-27,Renuncia voluntaria
+500561,100638,66,Mujer,Ginecología,Hospital de la Cordillera,2024-10-19,2024-11-24,Atención realizada
+501924,100333,77,Hombre,Oftalmología,Hospital Costero,2026-07-19,,
+501499,101548,54,Mujer,Traumatología,Hospital del Sur,2025-02-19,2025-04-18,Atención realizada
+500366,101343,62,Mujer,Traumatología,Hospital del Valle,2023-06-15,,
+501855,100107,58,Hombre,Oftalmología,Hospital del Sur,2025-03-03,2025-09-29,Atención realizada
+500377,100484,37,Mujer,Ginecología,Hospital del Sur,2025-06-19,2026-06-17,Atención realizada
+501875,100421,46,Mujer,Dermatología,Hospital del Sur,2025-03-03,,
+501475,101368,93,Hombre,Cardiología,Hospital del Valle,2026-09-12,,
+500664,100351,37,Hombre,Traumatología,Hospital del Norte,2024-07-02,2024-09-03,Atención realizada
+500378,101173,58,Hombre,Traumatología,Hospital de la Cordillera,2023-02-17,2023-08-01,Atención realizada
+500373,101344,53,Mujer,Ginecología,Hospital del Norte,2024-03-28,2024-10-24,Renuncia voluntaria
+501927,100100,71,Mujer,Cardiología,Hospital del Norte,2025-12-14,,
+501925,100402,30,Mujer,Otorrinolaringología,Hospital del Norte,2026-07-31,,
+501763,100175,25,Mujer,Ginecología,Hospital del Valle,2024-01-19,2024-02-21,Atención realizada
+501937,100471,,Hombre,Traumatología,Hospital Costero,2023-05-12,,
+500678,100312,71,Hombre,Traumatología,Hospital del Norte,2025-07-31,,
+501984,100640,56,Mujer,Cirugía general,Hospital Costero,2023-08-14,2024-08-29,Atención realizada
+501788,101043,53,Mujer,Otorrinolaringología,Hospital del Sur,2024-03-08,,
+501355,101630,46,Hombre,Traumatología,Hospital del Valle,2026-07-05,,
+500715,100500,80,Hombre,Oftalmología,Hospital de la Cordillera,2023-07-21,2023-08-16,Atención realizada
+500080,100085,33,Mujer,Traumatología,Hospital del Sur,2024-01-23,2024-05-03,Inasistencia
+501142,100172,39,Mujer,Ginecología,Hospital del Sur,2025-04-08,2025-07-09,Atención realizada
+500865,100642,20,Hombre,Otorrino,Hospital del Valle,2023-07-25,2024-01-08,Atención realizada
+501759,100100,77,Hombre,Oftalmología,Hospital del Norte,2026-06-08,,
+500569,100173,42,Mujer,Cardiología,Hospital de la Cordillera,2024-07-27,,
+501537,100976,75,Hombre,Oftalmología,Hospital del Norte,2025-04-04,2025-07-26,Atención realizada
+500427,101195,52,Hombre,Traumatología,Hospital de la Cordillera,2024-11-19,2025-02-04,Atención realizada
+500014,100221,47,Hombre,Otorrinolaringología,Hospital del Sur,2024-09-26,2024-12-02,Contacto no posible
+501394,101153,39,Mujer,Traumatología,Hospital del Norte,2025-11-22,,
+501252,101544,60,Hombre,Oftalmología,Hospital del Norte,2023-10-01,2023-12-03,Contacto no posible
+500450,101056,47,Mujer,Cardiología,Hospital del Norte,2024-02-26,2024-12-27,Contacto no posible
+500376,101185,47,Hombre,Oftalmología,Hospital del Sur,2025-07-15,,
+501082,100256,58,Hombre,Dermatología,Hospital Costero,2025-03-03,2025-07-25,Renuncia voluntaria
+500125,100539,34,Hombre,Traumatología,Hospital del Sur,2023-10-08,,
+500999,101464,36,Mujer,Traumatología,Hospital Costero,2024-09-16,2024-11-20,Atención realizada
+501912,100656,48,Mujer,Oftalmología,Hospital Costero,2023-04-01,2023-09-19,Contacto no posible
+501291,100689,21,Hombre,Traumatología,Hospital del Norte,2026-03-19,2026-06-07,Atención realizada
+500616,100159,87,Mujer,Cardiología,Hospital del Norte,2024-01-15,2024-04-15,Renuncia voluntaria
+501470,101583,59,Mujer,Traumatología,Hospital del Norte,2023-01-19,2023-04-03,Atención realizada
+501159,100765,66,Hombre,Oftalmología,Hospital del Sur,2026-02-13,,
+500082,101087,56,Hombre,Cardiología,Hospital del Norte,2024-11-25,2025-09-06,Atención realizada
+500517,101283,39,Mujer,Dermatología,Hospital del Norte,2026-01-30,,
+500213,100227,57,Mujer,Traumatología,Hospital Costero,2024-01-19,2024-08-03,Atención realizada
+500072,100475,78,Hombre,Traumatología,Hospital del Norte,2023-04-19,2023-05-22,Atención realizada
+501961,100900,54,Mujer,Cirugía general,Hospital del Norte,2024-12-20,,
+500021,100569,64,Mujer,Dermatología,Hospital del Valle,2024-05-04,2023-11-16,Renuncia voluntaria
+501927,100100,71,Mujer,Cardiología,Hospital del Norte,2025-12-14,,
+500192,100616,54,Hombre,Dermatología,Hospital del Valle,2026-02-04,2026-03-09,Atención realizada
+501982,101195,61,Hombre,Oftalmología,Hospital Costero,2025-10-26,2025-12-10,Fallecimiento
+501808,101218,51,Mujer,Dermatología,Hospital del Sur,2026-04-12,,
+500745,100257,73,Mujer,Cardiología,Hospital del Sur,2023-06-15,,
+500637,100292,58,Mujer,Otorrinolaringología,Hospital del Valle,2025-03-07,,
+500893,100671,40,Hombre,Traumatología,Hospital del Valle,2024-11-29,2025-02-23,Contacto no posible
+500410,100413,46,MUJER,Otorrinolaringología,Hospital del Sur,2025-05-23,,
+501730,100175,58,Mujer,Cardiología,Hospital del Sur,2024-09-04,,
+500394,100080,57,Mujer,Traumatología,Hospital del Sur,2023-09-20,2024-06-06,Atención realizada
+501644,100945,70,,Oftalmología,Hospital del Norte,2024-01-31,,
+501989,101450,,Mujer,Traumatología,Hospital Costero,2026-09-14,,
+501800,100393,37,Mujer,Ginecología,Hospital del Norte,2026-01-05,,
+500097,100234,54,Hombre,Dermatología,Hospital del Sur,2025-11-11,,
+500676,101372,75,Mujer,Oftalmología,Hospital del Valle,2023-08-16,,
+500996,100081,98,Mujer,Cardiología,Hospital del Valle,2026-04-03,,
+501214,101504,42,Hombre,Oftalmología,Hospital del Sur,2025-06-07,2025-07-06,Inasistencia
+501939,100770,55,Mujer,Otorrinolaringología,Hospital del Sur,2025-03-03,,
+501164,100222,93,Hombre,Oftalmología,Hospital de la Cordillera,2025-06-12,2026-01-21,Atención realizada
+501906,100190,53,Mujer,Otorrinolaringología,Hospital del Valle,2025-03-03,2025-06-19,Atención realizada
+500171,101050,61,Hombre,Oftalmología,Hospital del Norte,2023-08-16,2024-01-15,Atención realizada
+501091,100172,29,Mujer,Cirugía general,Hospital del Valle,2023-11-05,,
+500184,100148,52,Mujer,Cirugía general,Hospital del Norte,2026-03-09,2026-08-28,Atención realizada
+501525,101587,37,Hombre,Otorrinolaringología,Hospital del Sur,2024-11-04,,
+500098,100093,53,Hombre,Cirugía general,Hospital del Norte,2024-07-20,2024-11-24,
+501650,101389,35,Mujer,Cirugía general,Hospital del Valle,2023-01-21,2023-08-28,Atención realizada
+501412,101148,55,Mujer,Ginecología,Hospital del Sur,2023-09-26,2023-11-07,Atención realizada
+501365,100085,74,Mujer,Cardiología,Hospital del Sur,2024-11-28,2025-01-06,Renuncia voluntaria
+501797,101049,40,Mujer,Ginecología,Hospital del Norte,2024-05-14,,
+501342,101411,68,Mujer,Oftalmología,Hospital del Sur,2023-12-10,2024-05-09,Atención realizada
+500268,100530,68,Mujer,Oftalmología,Hospital del Sur,2024-12-26,,
+500103,100205,93,Mujer,Cardiología,Hospital del Norte,2025-03-02,2026-03-14,Atención realizada
+500795,100748,43,Mujer,Cirugía general,Hospital del Norte,2026-05-29,,
+500791,100968,96,Hombre,Oftalmología,Hospital del Norte,2025-03-03,2025-04-05,Atención realizada
+500666,101081,31,Hombre,Oftalmología,Hospital del Sur,2026-05-02,2026-06-23,Contacto no posible
+501180,101202,,Hombre,Traumatología,Hospital Costero,2025-02-13,2026-03-06,Atención realizada
+501957,101556,27,Mujer,Traumatología,Hospital del Valle,2023-06-08,2023-10-17,Atención realizada
+501597,101197,52,Hombre,Otorrinolaringología,Hospital del Sur,2025-12-30,,
+501527,100307,68,Hombre,Traumatología,Hospital del Sur,2024-02-14,,
+500432,100039,61,Mujer,Oftalmología,Hospital del Norte,2023-03-02,,
+500634,100703,68,Hombre,Cardiología,Hospital del Sur,2024-11-01,,
+500774,101328,41,Mujer,Dermatología,Hospital Costero,2023-08-27,2023-11-29,Contacto no posible
+501221,101050,40,HOMBRE,Traumatología,Hospital Costero,2025-07-30,2025-12-30,Atención realizada
+501821,100954,43,Mujer,Otorrino,Hospital del Norte,2023-09-28,2024-08-03,Atención realizada
+501101,101528,43,Mujer,Dermatología,Hospital Costero,2025-02-28,2025-04-07,Atención realizada
+500990,100641,84,Hombre,Cardiología,Hospital del Norte,2023-10-14,2024-09-02,Atención realizada
+500236,100125,27,Mujer,Traumatología,Hospital del Norte,2023-04-11,2024-03-11,Atención realizada
+501305,101325,45,Mujer,Cirugía general,Hospital Costero,2023-07-19,2023-09-30,Contacto no posible
+500764,100573,58,Mujer,Cardiología,Hospital del Norte,2023-08-02,,
+501382,100087,40,Mujer,Otorrinolaringología,Hospital del Sur,2024-12-21,,
+501518,100986,45,hombre,Traumatología,Hospital Costero,2023-09-21,2023-11-27,Atención realizada
+501012,100552,53,Mujer,Traumatología,Hospital del Sur,2023-05-25,2023-07-21,Atención realizada
+501399,100371,83,Mujer,Cardiología,Hospital del Sur,2023-05-05,,
+500155,100725,68,,Cardiología,Hospital Costero,2025-08-04,,
+501974,101026,76,Hombre,Otorrino,Hospital del Valle,2023-10-03,2023-11-22,Renuncia voluntaria
+500725,101608,25,Mujer,Otorrinolaringología,Hospital del Sur,2025-09-06,2025-10-20,Fallecimiento
+501682,100472,66,Hombre,Dermatología,Hospital Costero,2023-02-03,,
+501766,100022,66,Mujer,Ginecología,Hospital del Sur,2026-01-01,2026-01-20,Fallecimiento
+500177,101485,53,Mujer,Ginecología,Hospital de la Cordillera,2023-03-05,2023-05-19,Atención realizada
+501779,100126,63,Hombre,Cardiología,Hospital del Sur,2024-01-08,2025-05-11,Atención realizada
+501179,100037,94,Hombre,Oftalmología,Hospital del Norte,2023-12-01,,
+501798,100164,61,Mujer,Cardiología,Hospital Costero,2024-11-16,2026-05-08,Atención realizada
+500655,100507,49,Mujer,Cirugía general,Hospital del Sur,2025-03-03,,
+500670,101182,49,Mujer,Traumatología,Hospital del Norte,2025-10-21,,
+501737,100227,87,Mujer,Traumatología,Hospital del Norte,2025-09-24,,
+500615,100546,72,Mujer,Ginecología,Hospital del Norte,2025-04-19,,
+501264,100509,36,,Traumatología,Hospital Costero,2023-01-31,,
+500675,101317,70,Mujer,Traumatología,Hospital del Sur,2025-03-03,,
+501025,100573,36,Mujer,Traumatología,Hospital del Norte,2024-03-14,2024-04-30,Atención realizada
+500452,100609,79,Hombre,Oftalmología,Hospital Costero,2023-02-05,2023-02-28,Atención realizada
+501204,101540,59,Mujer,Cardiología,Hospital de la Cordillera,2026-05-25,,
+501026,101344,63,Mujer,Oftalmología,Hospital de la Cordillera,2024-03-09,2024-06-29,Atención realizada
+501069,101167,54,MUJER,Oftalmología,Hospital del Valle,2023-04-11,,
+500842,100212,35,Mujer,Dermatología,Hospital del Sur,2025-06-07,2025-07-14,Atención realizada
+501469,101159,72,Hombre,Cirugía general,Hospital del Norte,2025-02-14,2025-03-15,Atención realizada
+501848,100905,52,Mujer,Oftalmología,Hospital del Sur,2024-01-08,2024-05-09,Renuncia voluntaria
+500533,101542,48,Hombre,Oftalmología,Hospital Costero,2025-07-03,2025-10-01,Atención realizada
+501616,100427,60,Mujer,Cardiología,Hospital de la Cordillera,2025-03-03,2025-12-01,Inasistencia
+500191,100798,75,Hombre,Oftalmología,Hospital Costero,2024-02-22,2024-03-13,Atención realizada
+501651,100041,59,Mujer,Oftalmología,Hospital del Sur,2024-04-23,,
+501078,100766,66,Mujer,Oftalmología,Hospital del Norte,2025-03-03,,
+500438,101560,47,Hombre,Traumatología,Hospital del Sur,2025-12-01,2026-03-31,Atención realizada
+500563,100070,66,Hombre,Traumatología,Hospital de la Cordillera,2023-08-11,2023-12-29,Atención realizada
+500659,101632,65,Hombre,Cirugía general,Hospital del Valle,2026-06-20,,
+501656,100938,79,Hombre,Traumatología,Hospital de la Cordillera,2023-02-25,2023-03-12,Atención realizada
+500404,101437,63,Mujer,Oftalmología,Hospital de la Cordillera,2025-02-04,,
+501466,100145,53,Mujer,Oftalmología,Hospital del Norte,2024-07-12,,
+500029,100233,37,Mujer,Dermatología,Hospital de la Cordillera,2025-03-03,2026-05-15,Atención realizada
+501649,101270,32,Hombre,Dermatología,Hospital del Valle,2023-12-14,,
+500397,100571,30,Mujer,Traumatología,Hospital del Norte,2024-09-04,2024-11-20,Atención realizada
+500756,100083,69,Mujer,Oftalmología,Hospital del Sur,2025-01-16,2025-05-21,Atención realizada
+500285,100081,42,Mujer,Ginecología,Hospital de la Cordillera,2025-05-02,,
+501135,100162,52,Hombre,Cirugía general,Hospital del Sur,2026-07-20,,
+500301,100430,50,Hombre,Otorrino,Hospital del Norte,2023-03-15,2023-08-21,Contacto no posible
+500592,101453,58,Mujer,Cardiología,Hospital del Norte,2026-03-07,2026-06-25,Atención realizada
+501328,100739,60,Hombre,Cirugía general,Hospital del Sur,2025-03-03,2025-09-14,Atención realizada
+500776,100111,59,Mujer,Cardiología,Hospital de la Cordillera,2024-02-09,,
+501186,100232,56,Hombre,Traumatología,Hospital de la Cordillera,2024-01-01,2024-05-04,Atención realizada
+501782,101081,77,Mujer,Traumatología,Hospital del Sur,2024-01-12,2024-02-06,Atención realizada
+500630,100100,43,Mujer,Traumatología,Hospital del Sur,2025-04-30,,
+501410,101581,56,Hombre,Traumatología,Hospital del Norte,2025-12-25,2026-07-16,Atención realizada
+500050,101502,37,Hombre,Dermatología,Hospital de la Cordillera,2025-03-03,,
+501621,101447,26,mujer,Traumatología,Hospital Costero,2025-06-04,2026-02-18,Atención realizada
+501551,101127,61,Mujer,Traumatología,Hospital del Norte,2025-10-11,,
+501421,100914,69,Mujer,Oftalmología,Hospital del Sur,2024-09-09,2024-11-11,Atención realizada
+500815,100096,73,Mujer,Oftalmología,Hospital del Sur,2025-03-03,2025-03-28,Contacto no posible
+500470,100008,49,Mujer,Traumatología,Hospital Costero,2024-04-27,,
+500892,100837,74,Hombre,Cardiología,Hospital del Sur,2024-04-07,2024-05-13,Atención realizada
+501008,100439,59,Hombre,Oftalmología,Hospital del Sur,2025-12-22,,
+500760,101266,22,Hombre,Otorrinolaringología,Hospital del Sur,2025-03-03,2026-02-04,Contacto no posible
+500283,101355,64,Mujer,Oftalmología,Hospital de la Cordillera,2025-10-15,2025-12-15,Atención realizada
+501229,100158,43,Mujer,Otorrino,Hospital del Sur,2023-07-27,2024-05-15,Atención realizada
+501444,100911,75,Hombre,Cirugía general,Hospital del Valle,2023-03-01,,
+500549,101349,,Hombre,Dermatología,Hospital Costero,2026-06-01,,
+500073,100612,55,Mujer,Otorrinolaringología,Hospital del Norte,2024-06-13,,
+500591,100841,31,Hombre,Dermatología,Hospital del Norte,2026-03-05,,
+500188,101488,64,Hombre,Oftalmología,Hospital del Valle,2024-02-12,2024-05-10,Atención realizada
+500106,100063,,Mujer,Oftalmología,Hospital Costero,2023-06-08,,
+500743,100975,78,Mujer,Otorrinolaringología,Hospital Costero,2024-12-04,2025-07-23,Atención realizada
+500808,101479,42,Mujer,Ginecología,Hospital de la Cordillera,2023-01-31,2023-02-24,
+501276,101432,52,Hombre,Otorrinolaringología,Hospital Costero,2025-03-03,2025-05-12,Atención realizada
+500794,101417,78,Mujer,Oftalmología,Hospital de la Cordillera,2026-05-14,2026-08-23,Atención realizada
+501791,101602,71,Hombre,Cardiología,Hospital del Sur,2023-05-11,,
+500911,100974,98,Mujer,Oftalmología,Hospital del Norte,2023-04-26,,
+501640,101626,14,Femenino,Ginecología,Hospital de la Cordillera,2024-03-09,2024-12-16,Atención realizada
+500548,101240,38,Hombre,Traumatología,Hospital del Sur,2026-03-13,,
+500468,100125,34,Hombre,Otorrinolaringología,Hospital del Sur,2025-06-03,2026-01-25,Atención realizada
+501581,101183,79,Mujer,Cardiología,Hospital del Valle,2026-07-26,,
+501802,101627,77,Hombre,Oftalmología,Hospital del Norte,2026-08-22,,
+501755,100183,35,Hombre,Dermatología,Hospital de la Cordillera,2023-10-07,,
+500908,100133,70,Mujer,Cirugía general,Hospital del Norte,2024-04-23,2024-09-18,Renuncia voluntaria
+500362,100616,57,Hombre,Oftalmología,Hospital de la Cordillera,2024-01-29,2024-02-23,Inasistencia
+501089,100462,79,Hombre,Oftalmología,Hospital del Norte,2026-03-17,2026-08-16,Inasistencia
+500766,101178,40,Mujer,Dermatología,Hospital del Valle,2023-06-09,2023-08-16,Inasistencia
+500041,101071,29,Hombre,Otorrino,Hospital de la Cordillera,2023-11-07,2023-12-18,Inasistencia
+500834,101156,,Mujer,Oftalmología,Hospital Costero,2025-05-11,2025-07-09,Inasistencia
+500603,101602,39,Mujer,Dermatología,Hospital del Sur,2024-04-27,2024-06-06,Inasistencia
+500790,100099,50,Mujer,Dermatología,Hospital del Sur,2026-07-10,,
+501449,100154,67,Mujer,Cirugía general,Hospital del Sur,2023-03-27,2023-11-08,Atención realizada
+501712,100279,49,Mujer,Dermatología,Hospital del Norte,2024-11-14,2025-06-15,Atención realizada
+500939,100726,10,Hombre,Traumatología,Hospital del Norte,2024-08-20,2024-09-20,Atención realizada
+500329,101458,18,Mujer,Ginecología,Hospital del Norte,2023-03-24,2023-06-14,Atención realizada
+501591,100504,57,Hombre,Dermatología,Hospital del Sur,2023-11-25,2024-05-09,Atención realizada
+501709,100763,82,Hombre,Cardiología,Hospital del Sur,2025-02-15,2026-02-07,Atención realizada
+501742,100257,40,Hombre,Otorrinolaringología,Hospital Costero,2025-03-03,,
+501998,100150,40,Hombre,Traumatología,Hospital Costero,2025-06-09,2025-09-08,Contacto no posible
+500102,101103,56,Mujer,Oftalmología,Hospital Costero,2024-03-31,2024-08-16,Inasistencia
+501086,100531,65,Mujer,Cardiología,Hospital del Sur,2026-09-11,,
+500983,101593,134,Mujer,Dermatología,Hospital del Norte,2024-01-18,,
+500454,101587,67,Hombre,Cardiología,Hospital Costero,2023-12-03,2024-04-04,Atención realizada
+500015,101529,47,Mujer,Dermatología,Hospital del Sur,2024-05-25,,
+501892,101112,60,Hombre,Oftalmología,Hospital del Norte,2025-03-03,2026-09-15,Atención realizada
+501058,101476,52,Mujer,Otorrinolaringología,Hospital de la Cordillera,2024-08-08,2026-02-16,Atención realizada
+501314,101400,82,Hombre,Traumatología,Hospital del Sur,2023-04-20,,
+501839,101259,41,Hombre,Cardiología,Hospital del Norte,2024-01-29,2024-10-27,Atención realizada
+501420,101155,70,Hombre,Oftalmología,Hospital de la Cordillera,2025-01-02,,
+500524,100538,79,Mujer,Cardiología,Hospital Costero,2025-09-05,,
+501232,101406,60,Hombre,Cirugía general,Hospital de la Cordillera,2024-12-04,2025-06-18,Atención realizada
+500259,101140,62,Mujer,Cirugía general,Hospital del Norte,2024-01-09,,
+501073,100035,69,Mujer,Oftalmología,Hospital del Norte,2025-03-03,2025-07-09,Inasistencia
+500144,100324,89,Mujer,Traumatología,Hospital Costero,2023-10-09,2024-03-06,Atención realizada
+500910,100365,75,Mujer,Cirugía general,Hospital del Sur,2025-09-10,2026-05-19,Atención realizada
+500763,100059,36,Mujer,Dermatología,Hospital Costero,2025-01-19,2025-02-17,Atención realizada
+500319,100893,65,Mujer,Oftalmología,Hospital del Norte,2023-04-07,2023-07-02,Inasistencia
+500514,100965,69,Mujer,Oftalmología,Hospital Costero,2024-06-23,2025-01-17,Contacto no posible
+500303,100751,89,Mujer,Oftalmología,Hospital Costero,2025-03-03,,
+501372,100570,38,Hombre,Otorrinolaringología,Hospital del Norte,2025-03-03,2025-09-05,Atención realizada
+501385,101380,34,Hombre,Dermatología,Hospital del Norte,2024-04-24,2025-09-21,Atención realizada
+500056,100817,55,Mujer,Cardiología,Hospital del Norte,2025-03-03,,
+500969,100227,34,Hombre,Cirugía general,Hospital de la Cordillera,2025-01-08,2025-04-11,Atención realizada
+501375,101605,54,Hombre,Traumatología,Hospital del Valle,2023-11-25,2024-05-22,Atención realizada
+501783,101406,31,hombre,Dermatología,Hospital del Sur,2025-09-17,,
+501321,101113,59,Mujer,Traumatología,Hospital de la Cordillera,2026-03-12,2026-04-14,Inasistencia
+500264,100125,12,mujer,Otorrinolaringología,Hospital del Valle,2024-04-08,2024-05-06,Atención realizada
+501289,100139,24,Mujer,Otorrinolaringología,Hospital de la Cordillera,2026-09-10,,
+500825,100343,71,Hombre,Oftalmología,Hospital del Sur,2025-07-09,2026-03-07,Atención realizada
+501971,101108,34,Mujer,Otorrinolaringología,Hospital del Sur,2026-05-10,,
+500024,100617,51,Mujer,Oftalmología,Hospital del Norte,2026-01-22,,
+500657,101563,60,Mujer,Cirugía general,Hospital del Sur,2024-12-04,2025-08-23,
+500628,100571,43,Mujer,Otorrinolaringología,Hospital del Sur,2024-12-22,2025-02-08,Atención realizada
+500872,101483,98,Mujer,Cardiología,Hospital del Sur,2025-08-30,,
+500375,100726,69,Hombre,Cirugía general,Hospital de la Cordillera,2026-01-24,,
+501785,101307,87,Mujer,Oftalmología,Hospital del Valle,2024-05-19,2024-06-30,Atención realizada
+500275,101430,53,Hombre,Dermatología,Hospital del Valle,2026-04-05,2026-07-12,Atención realizada
+501801,101174,42,Mujer,Otorrinolaringología,Hospital de la Cordillera,2024-04-22,2024-05-13,Inasistencia
+501363,100302,63,Hombre,Oftalmología,Hospital de la Cordillera,2023-07-15,,
+501587,100441,62,Hombre,Cardiología,Hospital de la Cordillera,2026-07-10,,
+501557,101107,77,Hombre,Oftalmología,Hospital del Norte,2024-10-02,2024-11-01,Fallecimiento
+501759,100100,77,Hombre,Oftalmología,Hospital del Norte,2026-06-08,,
+500358,100853,61,Mujer,Dermatología,Hospital de la Cordillera,2024-05-11,2024-09-27,Atención realizada
+500746,100917,50,Mujer,Dermatología,Hospital del Norte,2023-09-23,2024-07-08,Inasistencia
+500307,100140,,Hombre,Cardiología,Hospital Costero,2023-02-20,,
+500484,100169,51,Mujer,Dermatología,Hospital del Sur,2025-06-11,2025-07-14,Inasistencia
+501593,100033,88,Mujer,Oftalmología,Hospital de la Cordillera,2023-09-07,2023-11-11,Inasistencia
+501281,100386,32,Hombre,Cirugía general,Hospital del Valle,2025-03-03,2025-04-22,Atención realizada
+500700,100665,30,Mujer,Otorrino,Hospital del Norte,2023-08-04,2024-05-20,Atención realizada
+500848,101044,38,F,Traumatología,Hospital del Valle,2025-03-04,2025-07-31,Atención realizada
+500112,100080,,Mujer,Traumatología,Hospital Costero,2024-03-02,,
+501563,100866,77,Hombre,Oftalmología,Hospital del Sur,2024-10-24,,
+500199,100315,42,Hombre,Traumatología,Hospital de la Cordillera,2023-10-18,2023-12-26,Atención realizada
+501708,100367,58,Mujer,Traumatología,Hospital de la Cordillera,2026-06-04,,
+500560,100290,38,Hombre,Dermatología,Hospital Costero,2025-12-02,2026-06-15,Atención realizada
+501577,100221,999,Hombre,Cardiología,Hospital Costero,2025-03-03,,
+501074,100744,14,Mujer,Ginecología,Hospital del Norte,2025-06-22,2025-10-23,Atención realizada
+501641,100277,65,Mujer,Dermatología,Hospital del Norte,2024-09-12,,
+500391,100428,88,Mujer,Otorrino,Hospital de la Cordillera,2023-12-13,2024-09-08,Atención realizada
+501381,100910,39,Mujer,Traumatología,Hospital del Sur,2025-02-13,2025-03-29,
+501350,100564,40,Mujer,Traumatología,Hospital del Norte,2024-12-01,,
+501224,100797,65,Hombre,Traumatología,Hospital Costero,2024-07-08,,
+500646,100092,68,Mujer,Cardiología,Hospital del Sur,2025-03-03,,
+501260,100053,40,Hombre,Dermatología,Hospital del Valle,2026-08-24,,
+500338,100198,55,Hombre,Dermatología,Hospital del Norte,2026-04-09,,
+500769,100716,76,Hombre,Oftalmología,Hospital del Sur,2023-08-16,2024-01-06,Atención realizada
+501207,101060,92,Hombre,Oftalmología,Hospital del Sur,2026-04-14,2026-06-19,Atención realizada
+500955,100098,40,Hombre,Traumatología,Hospital del Valle,2026-08-03,,
+501242,101525,49,Mujer,Ginecología,Hospital del Norte,2025-11-03,2026-02-02,Inasistencia
+500085,100659,57,Mujer,Oftalmología,Hospital Costero,2026-06-03,,
+500132,100381,23,Hombre,Otorrinolaringología,Hospital del Valle,2026-08-11,,
+500904,100116,63,Mujer,Traumatología,Hospital del Norte,2023-11-07,2025-02-08,Atención realizada
+501552,101301,42,Hombre,Traumatología,Hospital Costero,2023-12-17,2025-04-19,Atención realizada
+500342,100045,65,Hombre,Cirugía general,Hospital Costero,2025-07-14,2025-11-27,Atención realizada
+500889,100931,67,,Otorrinolaringología,Hospital del Norte,2026-08-09,,
+501816,101254,7,Mujer,Ginecología,Hospital del Valle,2024-03-01,2024-08-09,Atención realizada
+501297,101222,38,Hombre,Traumatología,Hospital del Valle,2026-01-08,2026-06-27,Contacto no posible
+501189,100423,83,Hombre,Cardiología,Hospital de la Cordillera,2024-12-31,2025-12-19,Fallecimiento
+501921,101412,21,Mujer,Ginecología,Hospital Costero,2024-09-15,2024-12-29,Contacto no posible
+501492,101408,51,Hombre,Dermatología,Hospital del Valle,2023-04-10,2023-06-06,Atención realizada
+501628,101309,64,Mujer,Cardiología,Hospital del Sur,2023-05-27,2024-03-23,Inasistencia
+500079,100419,94,Hombre,Oftalmología,Hospital del Valle,2025-06-12,,
+501672,100713,66,Hombre,Cardiología,Hospital del Norte,2023-08-12,,
+500005,100816,52,Mujer,Traumatología,Hospital del Valle,2025-11-08,2026-04-14,Atención realizada
+500063,101381,63,MUJER,Dermatología,Hospital de la Cordillera,2025-09-26,2025-10-12,Atención realizada
+501584,100506,59,Mujer,Ginecología,Hospital Costero,2023-08-03,,
+500814,101631,26,Hombre,Traumatología,Hospital del Norte,2023-03-20,2023-07-08,Atención realizada
+500220,101313,61,Hombre,Oftalmología,Hospital del Norte,2025-03-03,2025-05-29,Atención realizada
+501609,101579,98,Hombre,Oftalmología,Hospital del Sur,2024-05-02,,
+500838,100338,59,Mujer,Oftalmología,Hospital del Norte,2025-03-03,,
+500308,100048,45,Mujer,Traumatología,Hospital del Norte,2024-10-21,2025-02-15,Atención realizada
+501348,100194,21,Hombre,Oftalmología,Hospital Costero,2024-07-06,,
+500871,100530,47,Hombre,Otorrinolaringología,Hospital del Sur,2024-11-16,2025-05-27,Atención realizada
+500302,100989,49,Mujer,Traumatología,Hospital del Valle,2025-03-03,2024-12-08,Atención realizada
+501072,101360,49,Mujer,Ginecología,Hospital del Sur,2026-03-17,2026-06-23,Atención realizada
+501721,100802,34,Mujer,Ginecología,Hospital Costero,2024-06-02,,
+501154,100267,49,Mujer,Cirugía general,Hospital del Norte,2023-03-31,2024-02-04,Atención realizada
+500798,100786,42,Mujer,Otorrino,Hospital de la Cordillera,2023-07-14,,
+501507,100628,7,Hombre,Otorrinolaringología,Hospital de la Cordillera,2024-01-11,2026-02-27,
+501559,101571,31,Mujer,Otorrinolaringología,Hospital del Norte,2024-07-01,,
+501796,100862,41,Hombre,Otorrinolaringología,Hospital de la Cordillera,2024-09-18,,
+501880,101007,,Hombre,Otorrinolaringología,Hospital Costero,2024-03-23,2024-08-08,Atención realizada
+501096,100857,66,Hombre,Traumatología,Hospital Costero,2025-05-26,2025-07-31,Atención realizada
+501811,101351,59,Mujer,Cirugía general,Hospital del Sur,2024-07-27,,
+500693,101252,66,Hombre,Otorrino,Hospital del Norte,2023-07-05,2024-07-26,Contacto no posible
+501384,100400,45,Mujer,Traumatología,Hospital Costero,2024-06-21,2024-11-13,Fallecimiento
+501949,101288,43,Mujer,Ginecología,Hospital del Sur,2026-03-04,,
+501377,101369,73,Mujer,Cardiología,Hospital del Norte,2024-09-01,2025-02-12,Atención realizada
+501928,100404,98,Hombre,Oftalmología,Hospital del Norte,2025-04-28,,
+500583,101285,51,Mujer,Oftalmología,Hospital Costero,2024-03-03,,
+500698,100813,37,Mujer,Dermatología,Hospital Costero,2025-04-12,2025-05-01,Atención realizada
+501726,101271,60,Hombre,Cardiología,Hospital del Valle,2025-10-07,2026-07-31,Atención realizada
+500135,100221,69,Mujer,Oftalmología,Hospital del Valle,2025-03-14,2026-08-14,Atención realizada
+501239,101198,51,Mujer,Dermatología,Hospital de la Cordillera,2024-09-05,,
+500734,101519,97,Hombre,Oftalmología,Hospital del Norte,2026-06-14,,
+500952,100546,75,Hombre,Oftalmología,Hospital del Norte,2026-06-15,,
+501832,100352,50,Hombre,Otorrinolaringología,Hospital Costero,2026-05-15,2026-08-20,Atención realizada
+500917,100859,84,Mujer,Oftalmología,Hospital del Valle,2024-06-19,2025-07-31,Atención realizada
+501568,100731,45,Hombre,Oftalmología,Hospital del Sur,2023-10-01,,
+501647,101633,38,Masculino,Traumatología,Hospital del Sur,2024-02-14,2024-02-19,Atención realizada
+501472,100331,43,Mujer,Traumatología,Hospital de la Cordillera,2024-11-22,2025-02-26,Atención realizada
+500905,100436,45,hombre,Oftalmología,Hospital de la Cordillera,2026-07-13,,
+501523,101632,27,Mujer,Ginecología,Hospital de la Cordillera,2026-09-23,,
+500211,100582,72,Mujer,Oftalmología,Hospital de la Cordillera,2025-06-18,2025-07-29,Renuncia voluntaria
+500388,101584,75,Mujer,Cirugía general,Hospital del Sur,2025-09-23,,
+500818,100506,21,Mujer,Ginecología,Hospital del Sur,2024-04-12,,
+501589,100342,22,Mujer,Traumatología,Hospital del Sur,2024-08-04,,
+500775,100992,32,Mujer,Traumatología,Hospital del Sur,2023-04-28,2023-09-08,Atención realizada
+500817,101139,8,Hombre,Otorrinolaringología,Hospital de la Cordillera,2025-07-27,2025-09-20,Atención realizada
+500422,100673,32,Mujer,Dermatología,Hospital del Norte,2026-06-27,2026-08-31,Atención realizada
+501815,101238,50,Mujer,Traumatología,Hospital del Sur,2025-05-17,,
+501088,101597,52,Mujer,Traumatología,Hospital del Valle,2025-03-03,2025-05-11,Atención realizada
+500959,101590,,HOMBRE,Traumatología,Hospital Costero,2023-02-18,2023-07-09,Atención realizada
+500668,100781,60,Hombre,Cirugía general,Hospital del Valle,2023-06-25,,
+500920,100301,23,Hombre,Otorrino,Hospital Costero,2023-06-01,2023-11-15,Atención realizada
+501059,100564,65,Hombre,Oftalmología,Hospital del Norte,2025-06-03,2026-02-16,Atención realizada
+501121,101360,57,Hombre,Otorrinolaringología,Hospital del Sur,2025-08-06,2026-02-05,Atención realizada
+501397,100533,71,Mujer,Oftalmología,Hospital del Valle,2024-01-29,2024-05-12,Atención realizada
+500662,100359,58,Mujer,Otorrinolaringología,Hospital del Sur,2025-02-06,,
+500109,100641,46,Hombre,Cardiología,Hospital del Valle,2025-02-10,,
+501300,101122,63,Hombre,Cirugía general,Hospital del Sur,2025-03-03,2026-06-19,Atención realizada
+501319,101610,15,Hombre,Otorrinolaringología,Hospital del Valle,2024-05-14,2024-06-22,Contacto no posible
+501859,100767,34,Mujer,Traumatología,Hospital del Valle,2025-05-13,,
+500038,101083,47,Mujer,Dermatología,Hospital Costero,2023-11-14,2024-05-15,Atención realizada
+501323,100105,46,Mujer,Oftalmología,Hospital del Sur,2026-02-28,,
+501123,100468,54,Hombre,Cirugía general,Hospital Costero,2024-06-26,2025-01-19,Atención realizada
+501182,100829,67,Hombre,Otorrinolaringología,Hospital del Norte,2026-03-19,,
+501099,100058,6,Mujer,Ginecología,Hospital del Norte,2024-01-28,2024-07-25,Atención realizada
+500879,100367,41,Hombre,Oftalmología,Hospital del Norte,2025-01-14,,
+501275,100863,13,Hombre,Cirugía general,Hospital del Norte,2026-06-26,2026-07-26,Atención realizada
+500012,100449,55,Hombre,Cirugía general,Hospital de la Cordillera,2026-09-12,,
+501968,100629,53,Mujer,Traumatología,Hospital del Norte,2025-02-17,2024-11-03,Atención realizada
+501744,101558,46,Mujer,Ginecología,Hospital del Norte,2023-02-10,,
+500331,101264,30,Hombre,Traumatología,Hospital de la Cordillera,2023-10-26,2023-12-06,Atención realizada
+501359,101298,20,Mujer,Otorrinolaringología,Hospital del Norte,2025-05-31,,
+500915,101365,47,Mujer,Dermatología,Hospital Costero,2026-06-05,,
+500704,101329,36,Mujer,Dermatología,Hospital Costero,2024-09-26,2025-02-27,Atención realizada
+500306,100868,69,Mujer,Traumatología,Hospital del Norte,2023-10-24,,
+501991,101203,30,Hombre,Otorrino,Hospital del Norte,2023-12-05,,
+501986,101227,40,Mujer,Traumatología,Hospital del Norte,2025-09-09,,
+501608,101310,23,Mujer,Ginecología,Hospital del Norte,2025-03-15,2025-07-14,Atención realizada
+501193,101633,45,Mujer,Otorrinolaringología,Hospital del Norte,2026-05-22,,
+501272,100232,-45,Hombre,Oftalmología,Hospital del Valle,2023-01-21,,
+500810,100447,45,Hombre,Cirugía general,Hospital del Valle,2026-07-31,,
+500654,101199,54,Mujer,Dermatología,Hospital del Sur,2025-03-03,,
+501313,100258,78,Mujer,Cardiología,Hospital de la Cordillera,2023-08-12,,
+501039,101018,69,Mujer,Cardiología,Hospital de la Cordillera,2024-12-23,2025-03-19,Atención realizada
+501213,100534,68,Mujer,Dermatología,Hospital Costero,2025-11-27,2026-03-12,Atención realizada
+500653,100178,,Mujer,Dermatología,Hospital Costero,2025-03-03,,
+500437,100425,999,Mujer,Otorrino,Hospital del Valle,2023-07-26,,
+501979,100292,73,Mujer,Otorrino,Hospital de la Cordillera,2023-11-06,2025-03-30,Atención realizada
+501506,100006,47,Mujer,Oftalmología,Hospital del Norte,2024-12-27,2025-01-04,Atención realizada
+500885,100826,89,Mujer,Oftalmología,Hospital Costero,2024-04-10,2024-04-23,Atención realizada
+501380,100887,38,Hombre,Oftalmología,Hospital del Sur,2025-10-06,2026-01-18,Atención realizada
+500417,101648,32,Mujer,Otorrinolaringología,Hospital del Sur,2024-04-14,,
+500962,100087,56,Mujer,Dermatología,Hospital del Sur,2025-10-27,2026-07-24,Atención realizada
+501033,101204,53,Mujer,Oftalmología,Hospital del Sur,2024-07-30,2024-08-09,Atención realizada
+500779,100355,31,,Otorrino,Hospital del Sur,2023-03-21,2023-08-05,Atención realizada
+501701,100477,77,Hombre,Oftalmología,Hospital Costero,2026-02-11,,
+500408,101236,15,Mujer,Otorrinolaringología,Hospital del Valle,2026-07-06,,
+500588,100111,37,mujer,Ginecología,Hospital del Valle,2026-06-01,,
+501482,100513,68,Mujer,Oftalmología,Hospital del Norte,2023-04-26,2023-07-07,Inasistencia
+500797,100608,74,Hombre,Traumatología,Hospital de la Cordillera,2024-12-26,2025-01-29,Atención realizada
+501599,101424,56,Hombre,Traumatología,Hospital de la Cordillera,2023-11-14,,
+501017,100973,76,Mujer,Cardiología,Hospital del Sur,2023-08-15,2024-04-29,Atención realizada
+501217,100537,95,Mujer,Oftalmología,Hospital del Norte,2023-06-30,,
+500150,100068,58,Mujer,Traumatología,Hospital del Sur,2023-05-30,2023-09-24,Inasistencia
+501423,100152,26,Mujer,Otorrino,Hospital Costero,2023-03-04,,
+501658,101084,62,Hombre,Cirugía general,Hospital Costero,2026-01-25,,
+500300,100598,31,MUJER,Otorrinolaringología,Hospital del Norte,2024-08-05,2025-12-23,Atención realizada
+501303,100875,69,Mujer,Cirugía general,Hospital del Norte,2024-12-16,2025-08-29,Atención realizada
+500888,100577,35,Mujer,Traumatología,Hospital del Valle,2025-03-31,,
+501696,100403,78,Mujer,Traumatología,Hospital del Valle,2025-03-03,2025-05-02,Atención realizada
+500241,101037,32,Mujer,Otorrino,Hospital del Valle,2023-02-06,2023-10-08,Fallecimiento
+500200,101302,50,Hombre,Traumatología,Hospital del Valle,2026-03-16,,
+500046,101257,18,Hombre,Dermatología,Hospital Costero,2025-04-14,,
+501851,100789,,Mujer,Otorrino,Hospital Costero,2023-07-01,,
+501340,101124,22,Hombre,Traumatología,Hospital Costero,2025-03-03,,
+500138,101497,25,Mujer,Ginecología,Hospital del Norte,2025-12-18,,
+501934,101640,44,Mujer,Cardiología,Hospital Costero,2025-07-12,2025-08-10,Atención realizada
+501060,100039,56,Mujer,Dermatología,Hospital del Valle,2026-07-01,,
+501190,101059,54,Mujer,Oftalmología,Hospital del Valle,2026-03-30,2026-04-13,Atención realizada
+501758,101229,37,Mujer,Dermatología,Hospital del Norte,2026-06-25,,
+501401,100389,91,Mujer,Cardiología,Hospital Costero,2024-08-09,,
+501681,101155,55,Mujer,Ginecología,Hospital de la Cordillera,2025-02-12,,
+501387,100637,66,Mujer,Traumatología,Hospital del Valle,2025-12-06,2025-12-09,Inasistencia
+500382,101618,28,Hombre,Dermatología,Hospital de la Cordillera,2025-05-13,,
+500206,101406,55,Mujer,Otorrinolaringología,Hospital del Sur,2025-12-22,2026-04-28,Atención realizada
+501960,101555,27,Hombre,Otorrinolaringología,Hospital del Sur,2025-01-28,,
+501665,100036,53,Hombre,Traumatología,Hospital del Sur,2026-03-24,,
+501267,101359,42,Mujer,Ginecología,Hospital del Valle,2023-10-09,,
+500639,100780,94,Mujer,Oftalmología,Hospital del Sur,2025-06-29,2025-07-23,Atención realizada
+500449,100281,,Mujer,Cardiología,Hospital Costero,2024-08-20,2025-03-17,Contacto no posible
+500511,101009,74,Hombre,Traumatología,Hospital del Norte,2024-01-12,2024-01-31,Atención realizada
+500424,100729,22,Mujer,Ginecología,Hospital de la Cordillera,2023-07-09,,
+500007,101466,46,Hombre,Cirugía general,Hospital del Sur,2025-04-26,2025-05-08,Atención realizada
+501122,100515,88,Hombre,Oftalmología,Hospital de la Cordillera,2023-01-25,2023-06-10,Atención realizada
+500159,101361,38,Hombre,Oftalmología,Hospital del Sur,2023-03-16,2023-06-06,Atención realizada
+501211,101087,51,Mujer,Cirugía general,Hospital de la Cordillera,2026-06-09,,
+500033,100080,45,Mujer,Otorrinolaringología,Hospital Costero,2024-10-23,2025-02-09,Atención realizada
+501981,100888,32,Mujer,Cirugía general,Hospital Costero,2025-10-30,2026-06-16,Atención realizada
+500157,101473,33,Mujer,Otorrinolaringología,Hospital del Valle,2025-03-03,,
+500522,100740,55,Hombre,Cirugía general,Hospital del Sur,2023-07-24,,
+500491,100849,82,Hombre,Cardiología,Hospital del Valle,2026-03-14,2026-06-02,Atención realizada
+501005,101225,10,Hombre,Otorrino,Hospital Costero,2023-04-17,2023-08-16,Contacto no posible
+501283,100038,47,Mujer,Otorrino,Hospital del Sur,2023-07-07,,
+501196,101526,57,Hombre,Otorrinolaringología,Hospital del Sur,2024-07-18,,
+501240,101345,,Mujer,Cardiología,Hospital Costero,2025-06-03,2025-08-17,Atención realizada
+500594,100450,49,Mujer,Oftalmología,Hospital del Norte,2025-10-28,2026-01-17,Contacto no posible
+502000,100371,31,Mujer,Ginecología,Hospital del Norte,2025-03-03,2025-11-07,Inasistencia
+501975,101253,65,Hombre,Cirugía general,Hospital del Sur,2026-01-07,2026-07-23,Atención realizada
+501543,101349,,Mujer,Traumatología,Hospital del Valle,2024-01-17,,
+500623,101550,74,Mujer,Ginecología,Hospital del Sur,2026-06-01,2026-08-12,Atención realizada
+500995,101304,58,Mujer,Oftalmología,Hospital Costero,2026-03-28,2026-08-12,Atención realizada
+501717,100645,32,MUJER,Ginecología,Hospital del Sur,2023-06-07,2023-06-22,Atención realizada
+500407,100499,64,Mujer,Traumatología,Hospital del Sur,2023-06-19,2024-05-21,Inasistencia
+500940,101364,26,Hombre,Traumatología,Hospital de la Cordillera,2025-09-14,2025-10-01,Atención realizada
+500546,100328,50,Mujer,Dermatología,Hospital de la Cordillera,2023-06-18,2023-09-12,Atención realizada
+501805,101647,,Hombre,Traumatología,Hospital Costero,2026-07-09,,
+501753,100674,50,Hombre,Traumatología,Hospital Costero,2024-09-15,2025-01-02,Fallecimiento
+501416,101003,55,Mujer,Oftalmología,Hospital del Sur,2025-08-08,,
+501454,100946,53,Mujer,Oftalmología,Hospital de la Cordillera,2025-08-15,2026-01-17,Atención realizada
+500682,100503,61,Mujer,Dermatología,Hospital del Norte,2025-03-11,,
+500896,101367,16,Hombre,Otorrinolaringología,Hospital de la Cordillera,2026-05-29,,
+500154,100188,54,Hombre,Traumatología,Hospital del Sur,2024-09-04,2025-08-04,Atención realizada
+500123,101434,52,MUJER,Traumatología,Hospital de la Cordillera,2023-08-20,,
+501874,100451,20,Mujer,Ginecología,Hospital Costero,2024-10-25,2024-11-29,Atención realizada
+500121,100779,63,Mujer,Cardiología,Hospital del Sur,2026-08-11,,
+501631,100502,59,Mujer,Traumatología,Hospital del Sur,2026-09-23,,
+500847,101531,26,Mujer,Dermatología,Hospital de la Cordillera,2023-08-07,2024-01-27,Atención realizada
+500601,101006,,Mujer,Dermatología,Hospital del Sur,2025-03-13,,
+500464,101064,42,Mujer,Dermatología,Hospital de la Cordillera,2023-08-24,,
+501582,100607,57,Mujer,Cardiología,Hospital de la Cordillera,2024-12-20,2025-01-05,Atención realizada
+501704,100883,41,Hombre,Oftalmología,Hospital del Valle,2023-06-03,2023-11-27,Atención realizada
+501419,100029,29,Mujer,Ginecología,Hospital del Sur,2026-01-15,2026-07-19,Inasistencia
+501965,100663,,Mujer,Oftalmología,Hospital Costero,2024-10-01,2025-04-02,Atención realizada
+501877,100244,61,Mujer,Traumatología,Hospital de la Cordillera,2025-07-29,2025-09-15,Atención realizada
+501259,101509,42,Mujer,Dermatología,Hospital de la Cordillera,2025-06-12,2025-07-30,Atención realizada
+500587,100025,68,Mujer,Oftalmología,Hospital del Norte,2025-03-03,2026-01-18,Contacto no posible
+501274,100655,45,Mujer,Traumatología,Hospital del Norte,2026-02-07,2026-04-30,Atención realizada
+500947,101621,53,Mujer,Traumatología,Hospital del Norte,2023-05-26,2023-06-06,Atención realizada
+501574,100205,66,Mujer,Dermatología,Hospital del Valle,2023-08-26,,
+501522,101299,,Hombre,Oftalmología,Hospital Costero,2024-02-11,2024-10-03,Atención realizada
+501554,101477,0,Hombre,Otorrinolaringología,Hospital del Norte,2025-04-24,2026-07-10,Atención realizada
+500523,100888,53,Mujer,Cirugía general,Hospital del Norte,2025-05-11,2025-06-17,Atención realizada
+500198,101523,55,Mujer,Oftalmología,Hospital de la Cordillera,2025-03-03,2025-05-17,Atención realizada
+501231,100879,71,Mujer,Cardiología,Hospital del Sur,2024-01-26,2025-10-14,Contacto no posible
+500151,101618,29,Mujer,Cirugía general,Hospital Costero,2023-07-13,2023-11-10,Atención realizada
+500529,100014,72,Mujer,Traumatología,Hospital del Norte,2025-09-02,,
+500691,101581,63,Hombre,Oftalmología,Hospital del Norte,2023-04-10,2023-05-25,Atención realizada
+500181,100987,51,Mujer,Otorrino,Hospital Costero,2023-11-02,,
+501316,100002,36,Mujer,Ginecología,Hospital de la Cordillera,2024-03-12,2024-06-04,Contacto no posible
+500993,100180,36,Hombre,Otorrinolaringología,Hospital Costero,2025-03-03,,
+501460,101347,74,Hombre,Oftalmología,Hospital del Norte,2024-09-08,2025-11-29,Atención realizada
+500833,101649,56,Hombre,Traumatología,Hospital del Valle,2025-11-13,,
+501199,100957,77,Hombre,Oftalmología,Hospital Costero,2024-12-28,2025-02-08,Contacto no posible
+501478,100952,69,Mujer,Ginecología,Hospital del Sur,2023-05-19,,
+500651,101528,,Femenino,Ginecología,Hospital Costero,2025-05-25,2025-09-10,Inasistencia
+500258,100254,58,Mujer,Cirugía general,Hospital del Sur,2023-07-29,,
+501073,100035,69,Mujer,Oftalmología,Hospital del Norte,2025-03-03,2025-07-09,Inasistencia
+501046,100865,58,Mujer,Dermatología,Hospital del Norte,2026-09-26,,
+501749,100037,61,Hombre,Cirugía general,Hospital del Sur,2024-11-03,2025-02-08,Renuncia voluntaria
+501954,100495,63,Hombre,Dermatología,Hospital del Valle,2025-03-03,,
+501337,100541,52,Mujer,Dermatología,Hospital del Sur,2023-12-31,,
+501619,100471,88,Mujer,Cirugía general,Hospital del Norte,2025-03-26,,
+500475,101415,50,mujer,Traumatología,Hospital del Valle,2025-07-27,2026-02-14,Atención realizada
+501663,100249,49,Hombre,Dermatología,Hospital del Norte,2025-10-03,2025-12-07,Contacto no posible
+500119,101434,28,Mujer,Traumatología,Hospital del Sur,2025-03-14,2025-04-27,Atención realizada
+500179,100933,49,Mujer,Ginecología,Hospital del Sur,2023-06-11,2024-03-15,Atención realizada
+500687,101294,47,Mujer,Ginecología,Hospital del Valle,2025-04-11,2025-07-31,Inasistencia
+500298,100336,51,Hombre,Oftalmología,Hospital de la Cordillera,2026-08-08,,
+501617,100551,73,Mujer,Traumatología,Hospital del Sur,2026-05-23,,
+500762,101075,52,Hombre,Cirugía general,Hospital de la Cordillera,2023-08-27,2024-08-09,Atención realizada
+501879,100541,27,Hombre,Dermatología,Hospital del Norte,2026-09-15,,
+500110,101429,30,Mujer,Traumatología,Hospital de la Cordillera,2026-05-08,2026-07-04,Atención realizada
+501862,101546,29,Mujer,Dermatología,Hospital del Sur,2023-07-25,2024-04-28,Atención realizada
+500543,101212,3,Hombre,Otorrinolaringología,Hospital Costero,2025-11-01,,
+501330,101584,29,Hombre,Traumatología,Hospital del Norte,2023-08-28,2024-06-17,Atención realizada
+500936,100664,53,Mujer,Otorrinolaringología,Hospital del Valle,2026-03-23,2026-05-10,Contacto no posible
+500650,101537,73,Mujer,Oftalmología,Hospital de la Cordillera,2025-12-30,2026-05-01,Contacto no posible
+500713,101352,70,Mujer,Oftalmología,Hospital del Valle,2023-07-03,,
+501784,100030,60,Mujer,Oftalmología,Hospital del Norte,2023-02-25,2023-04-22,Atención realizada
+501045,100637,68,Mujer,Ginecología,Hospital del Sur,2024-05-16,2024-10-24,Renuncia voluntaria
+501243,100195,40,Mujer,Ginecología,Hospital del Sur,2025-02-23,2025-04-24,Atención realizada
+501035,100367,39,Mujer,Ginecología,Hospital del Valle,2026-04-23,,
+500733,100147,72,Mujer,Cardiología,Hospital de la Cordillera,2026-02-16,,
+500918,100249,69,Mujer,Ginecología,Hospital del Valle,2024-08-04,2024-09-25,Atención realizada
+501126,101227,60,Hombre,Oftalmología,Hospital Costero,2023-01-10,2023-10-03,Atención realizada
+501607,100262,58,Mujer,Traumatología,Hospital Costero,2025-04-25,2025-05-26,Atención realizada
+500140,100242,34,Hombre,Otorrinolaringología,Hospital del Norte,2025-03-03,,
+500224,100078,29,Hombre,Dermatología,Hospital del Sur,2026-05-13,,
+500076,100030,62,Hombre,Cardiología,Hospital Costero,2025-08-24,2025-10-20,Atención realizada
+500883,100857,51,Mujer,Ginecología,Hospital del Norte,2025-03-03,,
+501590,100691,56,Mujer,Ginecología,Hospital del Norte,2023-04-18,2023-10-09,Atención realizada
+501230,100880,60,Mujer,Oftalmología,Hospital de la Cordillera,2023-05-02,,
+500644,100932,54,Hombre,Oftalmología,Hospital del Norte,2025-04-22,2025-09-29,Renuncia voluntaria
+501333,100132,72,Mujer,Cirugía general,Hospital del Sur,2025-03-03,,
+500589,101399,61,Mujer,Traumatología,Hospital del Sur,2025-11-22,2026-01-15,Atención realizada
+501993,100986,9,Mujer,Dermatología,Hospital del Sur,2023-04-09,2023-07-04,Atención realizada
+501310,100827,52,Mujer,Traumatología,Hospital del Valle,2026-02-21,2026-08-20,Atención realizada
+500709,100130,25,Hombre,Dermatología,Hospital del Norte,2025-07-21,2025-08-14,Atención realizada
+501149,100235,51,Mujer,Traumatología,Hospital del Sur,2024-06-05,2024-12-19,Atención realizada
+500624,101060,69,Mujer,Dermatología,Hospital del Sur,2023-06-28,,
+500724,100566,28,Mujer,Cirugía general,Hospital del Norte,2025-03-03,2025-09-25,Renuncia voluntaria
+501748,100814,46,Mujer,Cardiología,Hospital del Valle,2024-08-03,2024-09-29,Renuncia voluntaria
+501503,101566,28,Mujer,Dermatología,Hospital Costero,2024-07-22,2025-04-23,Atención realizada
+501638,101065,56,Hombre,Dermatología,Hospital Costero,2024-02-03,2024-09-14,Atención realizada
+501541,100233,36,Hombre,Traumatología,Hospital Costero,2024-11-02,2025-09-27,Atención realizada
+500396,100058,19,Mujer,Otorrinolaringología,Hospital del Norte,2026-01-20,,
+500840,100943,74,Mujer,Cardiología,Hospital del Valle,2025-03-03,2025-11-20,Atención realizada
+501209,101604,69,Hombre,Traumatología,Hospital del Norte,2025-11-05,,
+501080,101348,41,M,Oftalmología,Hospital del Norte,2026-06-28,,
+501315,100998,47,Hombre,Cardiología,Hospital del Norte,2025-08-05,2026-01-05,Contacto no posible
+501734,100379,63,Hombre,Otorrinolaringología,Hospital de la Cordillera,2025-08-26,,
+501863,100847,9,Mujer,Dermatología,Hospital Costero,2024-08-06,2025-05-15,Atención realizada
+500166,101034,84,Hombre,Oftalmología,Hospital de la Cordillera,2025-11-21,,
+501804,101156,52,Mujer,Cirugía general,Hospital Costero,2023-05-10,2024-04-20,Fallecimiento
+500116,101059,69,Mujer,Oftalmología,Hospital del Sur,2024-10-27,2025-04-22,Atención realizada
+500683,101559,51,Mujer,Otorrinolaringología,Hospital del Norte,2025-06-06,2026-08-08,Atención realizada
+500311,100480,74,Mujer,Oftalmología,Hospital de la Cordillera,2024-05-28,2025-07-15,Atención realizada
+501894,100907,52,Hombre,Traumatología,Hospital de la Cordillera,2025-02-14,2025-03-20,Atención realizada
+500476,100839,60,Mujer,Ginecología,Hospital de la Cordillera,2026-01-12,,
+500421,101162,50,Mujer,Oftalmología,Hospital Costero,2023-02-06,2023-07-16,Atención realizada
+501223,100900,46,Hombre,Otorrinolaringología,Hospital del Sur,2025-03-03,,
+500555,101610,69,Hombre,Cardiología,Hospital de la Cordillera,2025-03-03,2026-06-11,Atención realizada
+501596,100002,69,Mujer,Cardiología,Hospital del Sur,2025-03-03,,
+501338,100127,52,Mujer,Dermatología,Hospital del Sur,2025-09-21,,
+500219,100843,43,Mujer,Cardiología,Hospital del Sur,2026-03-27,,
+500212,100087,24,Hombre,Dermatología,Hospital del Norte,2024-06-16,,
+500635,101089,70,Mujer,Cirugía general,Hospital del Sur,2026-07-28,2026-08-25,Atención realizada
+500055,100159,21,Hombre,Dermatología,Hospital del Sur,2025-06-22,,
+501079,100652,91,Mujer,Oftalmología,Hospital del Sur,2024-06-09,,
+501547,101122,63,Mujer,Ginecología,Hospital Costero,2025-08-22,2025-11-30,Atención realizada
+500649,100240,30,Hombre,Otorrinolaringología,Hospital del Sur,2026-04-08,,
+501973,100709,75,Hombre,Oftalmología,Hospital Costero,2023-10-30,2024-11-23,Atención realizada
+501508,100553,63,Mujer,Oftalmología,Hospital del Norte,2025-11-26,2025-12-28,Renuncia voluntaria
+501610,100630,23,Femenino,Otorrinolaringología,Hospital Costero,2025-10-25,2026-02-14,Atención realizada
+501347,100482,17,Mujer,Dermatología,Hospital Costero,2025-08-16,2026-01-04,Atención realizada
+501354,101472,26,Mujer,Traumatología,Hospital de la Cordillera,2023-11-10,2024-06-25,Atención realizada
+500719,101171,22,Hombre,Otorrinolaringología,Hospital del Norte,2025-12-27,2026-05-30,Atención realizada
+501484,100846,60,Mujer,Traumatología,Hospital del Valle,2026-01-25,,
+501564,100290,57,Hombre,Otorrinolaringología,Hospital Costero,2024-10-21,2025-07-20,Atención realizada
+500148,101125,63,Mujer,Traumatología,Hospital del Valle,2026-06-03,,
+500954,101167,35,Hombre,Dermatología,Hospital del Norte,2025-05-22,2025-01-20,Atención realizada
+500255,100318,59,Mujer,Cardiología,Hospital del Norte,2025-03-03,,
+500107,101535,81,Hombre,Cardiología,Hospital Costero,2023-08-17,,
+500566,100168,44,Hombre,Dermatología,Hospital del Sur,2025-06-25,,
+500393,101620,26,Mujer,Cardiología,Hospital del Valle,2025-04-19,,
+501570,100944,52,Mujer,Oftalmología,Hospital de la Cordillera,2024-12-12,,
+501958,101310,40,Mujer,Otorrinolaringología,Hospital del Valle,2026-02-19,2026-06-07,Atención realizada
+500231,101109,,Mujer,Oftalmología,Hospital Costero,2024-07-27,2024-10-10,Inasistencia
+500147,101105,59,Hombre,Oftalmología,Hospital del Norte,2026-08-10,,Atención realizada
+501930,100670,39,Hombre,Traumatología,Hospital del Sur,2026-08-19,,
+501020,101052,38,hombre,Cirugía general,Hospital Costero,2025-01-30,,
+500168,101624,83,Hombre,Oftalmología,Hospital del Norte,2025-04-26,,
+500957,101344,41,Hombre,Otorrinolaringología,Hospital del Sur,2025-01-28,2025-05-11,Atención realizada
+500053,100705,44,Hombre,Dermatología,Hospital de la Cordillera,2024-08-02,2024-10-22,Atención realizada
+500599,101360,31,Hombre,Cirugía general,Hospital del Norte,2023-02-09,2023-08-29,Atención realizada
+500809,100081,58,Hombre,Cirugía general,Hospital del Valle,2024-06-26,2024-09-20,Atención realizada
+501783,101406,31,hombre,Dermatología,Hospital del Sur,2025-09-17,,
+501716,100173,58,Mujer,Cirugía general,Hospital del Sur,2025-03-03,2025-10-19,Atención realizada
+501326,101144,15,,Dermatología,Hospital del Sur,2026-03-28,,
+500400,101041,64,Mujer,Cardiología,Hospital del Sur,2023-03-21,2023-06-17,Atención realizada
+501549,100730,79,Mujer,Oftalmología,Hospital de la Cordillera,2023-03-05,,
+500652,100878,62,Mujer,Cirugía general,Hospital del Norte,2023-06-12,2024-09-04,Atención realizada
+501187,100101,63,Mujer,Cirugía general,Hospital del Valle,2023-04-25,,
+500859,100695,20,Mujer,Traumatología,Hospital del Norte,2023-11-21,2024-10-09,Atención realizada
+500469,101247,72,Hombre,Oftalmología,Hospital del Sur,2025-07-16,,
+501579,101296,59,Mujer,Traumatología,Hospital Costero,2024-06-07,2025-10-26,Inasistencia
+501765,101365,,Hombre,Traumatología,Hospital del Sur,2023-07-02,2024-05-03,Contacto no posible
+500348,100428,77,Mujer,Oftalmología,Hospital del Norte,2026-05-08,2026-03-22,Atención realizada
+500281,100566,32,Mujer,Otorrinolaringología,Hospital del Norte,2026-01-07,,Atención realizada
+500991,100109,50,Hombre,Traumatología,Hospital del Sur,2023-12-22,,
+501627,100371,65,Mujer,Oftalmología,Hospital del Norte,2023-08-05,,
+500716,100201,21,Hombre,Dermatología,Hospital del Valle,2026-01-18,,
+500010,100822,36,Hombre,Traumatología,Hospital de la Cordillera,2025-11-26,2025-12-04,Atención realizada
+500741,100444,30,Mujer,Ginecología,Hospital del Sur,2025-07-23,2025-08-29,Atención realizada
+500271,100374,66,Mujer,Oftalmología,Hospital Costero,2024-06-23,,
+501695,100834,14,Mujer,Otorrinolaringología,Hospital del Sur,2024-06-27,,
+500286,101147,39,Mujer,Ginecología,Hospital de la Cordillera,2025-05-19,2025-07-25,Renuncia voluntaria
+500542,100242,31,Mujer,Ginecología,Hospital de la Cordillera,2023-05-06,,
+500742,100504,66,Mujer,Traumatología,Hospital del Valle,2025-06-01,2025-06-20,Atención realizada
+500445,101631,72,Mujer,Traumatología,Hospital del Sur,2024-08-29,2026-01-15,Contacto no posible
+501849,100220,30,Hombre,Otorrinolaringología,Hospital Costero,2024-10-16,2025-07-11,Inasistencia
+500831,100692,69,Mujer,Cirugía general,Hospital del Norte,2023-01-02,,
+500104,100361,64,Mujer,Traumatología,Hospital del Valle,2023-10-18,2024-02-28,Atención realizada
+501809,100387,23,Hombre,Traumatología,Hospital del Sur,2025-03-03,2026-06-23,Atención realizada
+500100,100858,61,Mujer,Cardiología,Hospital del Norte,2025-09-24,2025-11-10,Inasistencia
+500782,100223,33,Mujer,Otorrinolaringología,Hospital del Valle,2024-04-07,2024-12-07,Atención realizada
+500804,100832,45,Mujer,Traumatología,Hospital del Norte,2026-03-15,,
+500856,100582,71,Hombre,Cardiología,Hospital del Sur,2026-02-03,2026-08-21,Atención realizada
+501711,100314,64,Hombre,Oftalmología,Hospital del Valle,2025-02-21,2025-06-26,Atención realizada
+500496,101649,53,Hombre,Otorrinolaringología,Hospital del Valle,2025-02-03,2025-07-14,Atención realizada
+500433,100608,71,Mujer,Oftalmología,Hospital del Norte,2025-04-23,,
+500143,100619,39,Mujer,Oftalmología,Hospital de la Cordillera,2023-06-28,2024-05-20,Atención realizada
+500828,101086,62,Hombre,Cardiología,Hospital de la Cordillera,2025-12-11,2026-01-15,Atención realizada
+500167,100727,25,Mujer,Cirugía general,Hospital del Norte,2024-02-05,,
+500162,100550,59,Mujer,Dermatología,Hospital del Norte,2023-05-19,2023-06-12,Atención realizada
+501161,100397,57,Mujer,Traumatología,Hospital del Sur,2023-01-16,,
+501041,101606,64,Hombre,Cirugía general,Hospital de la Cordillera,2025-01-08,,
+501138,100865,70,Mujer,Otorrinolaringología,Hospital del Norte,2025-03-03,2025-08-30,Renuncia voluntaria
+500008,101535,70,Hombre,Oftalmología,Hospital de la Cordillera,2023-01-31,,
+501220,101171,67,Mujer,Traumatología,Hospital de la Cordillera,2026-03-21,2026-05-24,Atención realizada
+501601,101143,35,Mujer,Otorrinolaringología,Hospital Costero,2025-01-24,2025-03-04,Inasistencia
+500174,100922,45,Hombre,Cirugía general,Hospital de la Cordillera,2025-03-03,2025-06-17,Atención realizada
+500447,100158,32,Mujer,Otorrinolaringología,Hospital Costero,2024-06-17,2024-10-17,Atención realizada
+501873,100720,66,Mujer,Oftalmología,Hospital del Norte,2023-09-09,2024-02-04,Atención realizada
+501786,100765,22,Mujer,Otorrinolaringología,Hospital del Sur,2025-09-18,,
+500867,100847,21,Hombre,Otorrinolaringología,Hospital de la Cordillera,2025-03-03,2025-06-18,Atención realizada
+500580,101378,35,Mujer,Otorrinolaringología,Hospital Costero,2024-06-24,,
+501899,101623,31,Hombre,Otorrinolaringología,Hospital Costero,2024-08-27,2024-11-18,Atención realizada
+500205,101188,18,Mujer,Otorrinolaringología,Hospital de la Cordillera,2025-03-03,2025-03-27,Atención realizada
+500903,101031,32,Mujer,Traumatología,Hospital de la Cordillera,2025-03-03,2025-07-31,Atención realizada
+500581,100958,85,Mujer,Cardiología,Hospital de la Cordillera,2023-11-14,,
+501850,100030,44,Mujer,Cardiología,Hospital del Norte,2025-03-03,2025-06-14,Atención realizada
+501137,100660,39,Hombre,Cardiología,Hospital del Sur,2024-11-03,2025-04-15,Contacto no posible
+501757,100114,50,Mujer,Ginecología,Hospital del Sur,2025-11-23,2026-07-05,Atención realizada
+500486,101122,48,Hombre,Cirugía general,Hospital del Norte,2026-02-05,,
+501001,100267,55,Mujer,Ginecología,Hospital del Norte,2025-03-03,2025-12-10,Fallecimiento
+500645,100133,49,Hombre,Traumatología,Hospital Costero,2025-03-03,2026-05-10,Atención realizada
+501913,100384,30,Mujer,Otorrino,Hospital del Norte,2023-01-24,2023-08-07,Inasistencia
+501861,101440,45,Hombre,Traumatología,Hospital del Valle,2024-07-20,2024-11-11,Renuncia voluntaria
+500860,101028,48,Mujer,Traumatología,Hospital del Valle,2026-06-23,,
+501606,100469,9,Mujer,Otorrinolaringología,Hospital del Sur,2024-10-31,,
+501487,100182,51,MUJER,Oftalmología,Hospital de la Cordillera,2024-12-14,,
+500004,101270,58,Hombre,Traumatología,Hospital del Valle,2024-03-25,2024-07-12,Inasistencia
+501402,100145,80,Mujer,Ginecología,Hospital del Norte,2025-08-31,,
+501725,101355,73,Hombre,Oftalmología,Hospital Costero,2024-06-17,2024-07-14,Atención realizada
+500359,100685,45,Hombre,Traumatología,Hospital de la Cordillera,2023-07-24,,
+500429,100592,33,Mujer,Cirugía general,Hospital del Norte,2025-04-20,2025-11-26,
+500277,101233,91,Hombre,Oftalmología,Hospital del Sur,2024-12-08,2025-05-29,Atención realizada
+500267,101468,42,,Dermatología,Hospital del Valle,2026-03-03,2026-07-14,Atención realizada
+501491,100577,60,Hombre,Otorrinolaringología,Hospital de la Cordillera,2025-04-30,2025-05-24,Atención realizada
+500750,101068,12,Mujer,Ginecología,Hospital del Norte,2023-10-21,,
+501254,100265,83,Hombre,Cardiología,Hospital del Norte,2023-06-04,2023-08-01,Atención realizada
+501953,100233,,Mujer,Ginecología,Hospital Costero,2026-02-14,,
+500031,101067,73,Hombre,Oftalmología,Hospital de la Cordillera,2025-10-06,2026-01-06,Atención realizada
+500446,100061,79,Hombre,Oftalmología,Hospital del Sur,2026-05-13,,
+500761,100197,43,Mujer,Ginecología,Hospital del Valle,2023-02-14,,
+500374,100893,65,Mujer,Dermatología,Hospital del Valle,2023-01-15,2023-03-06,Contacto no posible
+501558,101403,54,Mujer,Traumatología,Hospital de la Cordillera,2026-04-16,,
+501586,100645,59,Mujer,Oftalmología,Hospital Costero,2026-02-18,2026-07-25,Atención realizada
+501141,100257,44,Mujer,Traumatología,Hospital de la Cordillera,2025-03-03,,
+501247,100987,23,Mujer,Dermatología,Hospital Costero,2024-04-10,,
+501483,101567,52,Mujer,Ginecología,Hospital de la Cordillera,2026-03-25,,
+500618,100691,34,Mujer,Otorrinolaringología,Hospital Costero,2026-02-01,,
+501999,100328,98,Mujer,Oftalmología,Hospital del Sur,2025-07-31,,
+501225,100881,68,Hombre,Dermatología,Hospital de la Cordillera,2025-03-03,2025-11-03,Renuncia voluntaria
+501667,101041,24,Hombre,Dermatología,Hospital Costero,2025-04-21,,
+500343,101088,79,Hombre,Oftalmología,Hospital del Norte,2025-11-26,,
+501820,101486,58,Hombre,Traumatología,Hospital del Sur,2025-08-04,2025-12-04,Atención realizada
+501775,100067,73,Hombre,Cardiología,Hospital del Sur,2025-10-21,,
+501771,100588,40,Hombre,Dermatología,Hospital del Valle,2026-04-15,2026-08-05,Atención realizada
+500945,100077,78,Mujer,Oftalmología,Hospital del Sur,2024-03-24,2024-10-31,Atención realizada
+501992,100575,84,Mujer,Oftalmología,Hospital del Norte,2023-11-09,2024-01-06,Atención realizada
+500392,101128,45,Hombre,Traumatología,Hospital Costero,2026-09-25,,
+500229,100454,54,Hombre,Dermatología,Hospital del Sur,2024-10-09,2024-10-24,Contacto no posible
+501741,100055,43,Mujer,Cirugía general,Hospital del Sur,2024-07-22,2024-10-13,Atención realizada
+500518,100716,54,Mujer,Cardiología,Hospital del Valle,2025-12-27,,
+500480,100877,65,Mujer,Ginecología,Hospital del Sur,2025-08-26,,
+500800,100651,49,Hombre,Traumatología,Hospital de la Cordillera,2026-09-03,,
+500035,100997,72,Hombre,Traumatología,Hospital del Norte,2025-10-31,2026-02-07,Contacto no posible
+501269,101483,,Mujer,Ginecología,Hospital Costero,2026-04-06,,
+500009,100855,82,Mujer,Cardiología,Hospital del Sur,2025-08-28,2025-12-15,Atención realizada
+500232,100829,78,Mujer,Oftalmología,Hospital del Norte,2025-07-29,,
+501344,100937,58,Mujer,Dermatología,Hospital del Sur,2024-06-26,2024-07-24,Atención realizada
+500441,100256,37,Mujer,Otorrinolaringología,Hospital del Norte,2026-03-04,2026-07-25,Atención realizada
+500526,101298,35,Hombre,Cardiología,Hospital del Sur,2024-11-05,,
+500625,101048,52,Mujer,Otorrino,Hospital Costero,2023-04-10,2023-11-09,Atención realizada
+501914,101439,54,Mujer,Ginecología,Hospital del Sur,2026-09-24,2026-09-29,Contacto no posible
+501373,100530,41,Mujer,Traumatología,Hospital del Sur,2023-01-30,2023-12-06,Atención realizada
+500095,100672,,Mujer,Cardiología,Hospital del Norte,2023-06-28,2023-10-09,Atención realizada
+500544,100437,68,F,Oftalmología,Hospital de la Cordillera,2024-10-28,2024-12-11,Atención realizada
+501659,100756,17,Mujer,Traumatología,Hospital Costero,2023-02-10,2023-07-27,Inasistencia
+500971,101301,58,Mujer,Traumatología,Hospital del Valle,2025-01-18,,
+501896,100592,25,Mujer,Ginecología,Hospital del Valle,2026-05-23,,
+500210,101632,58,Mujer,Ginecología,Hospital de la Cordillera,2025-06-16,2026-03-24,Atención realizada
+501200,100752,60,Hombre,Oftalmología,Hospital del Norte,2025-03-03,2025-04-10,Atención realizada
+501505,100379,43,Mujer,Ginecología,Hospital Costero,2025-03-03,2026-04-28,Atención realizada
+500282,100166,48,Mujer,Oftalmología,Hospital del Sur,2024-10-10,,
+501131,100772,44,Mujer,Ginecología,Hospital de la Cordillera,2025-08-22,2025-11-19,Atención realizada
+500390,101092,72,Mujer,Oftalmología,Hospital del Sur,2024-12-07,,
+500949,100761,47,Hombre,Cirugía general,Hospital de la Cordillera,2025-09-13,2025-12-08,Atención realizada
+500252,100517,53,Mujer,Oftalmología,Hospital del Sur,2025-09-19,2026-04-15,Atención realizada
+501770,100491,37,Hombre,Cirugía general,Hospital Costero,2025-07-09,2025-10-13,
+501158,100659,,Hombre,Cardiología,Hospital Costero,2026-03-24,,
+500891,101133,16,Hombre,Dermatología,Hospital Costero,2026-04-03,,
+501414,101536,50,Mujer,Dermatología,Hospital de la Cordillera,2023-09-01,2023-12-07,Inasistencia
+501781,101369,97,Hombre,Oftalmología,Hospital del Valle,2024-06-25,2024-12-19,Contacto no posible
+500521,100829,45,Mujer,Otorrinolaringología,Hospital del Norte,2024-06-21,,
+501352,101474,50,Mujer,Traumatología,Hospital del Sur,2025-07-01,,
+501037,100287,98,Mujer,Oftalmología,Hospital del Valle,2025-11-04,,
+501733,101589,75,Mujer,Traumatología,Hospital Costero,2026-05-10,2026-08-05,Atención realizada
+500669,100590,58,Mujer,Cirugía general,Hospital del Sur,2023-10-21,2024-02-16,Atención realizada
+501810,100366,53,Hombre,Oftalmología,Hospital del Valle,2025-03-20,,
+500877,100126,,Mujer,Oftalmología,Hospital del Sur,2023-08-22,,
+501699,100167,41,Mujer,Oftalmología,Hospital del Valle,2023-09-03,2023-12-12,Atención realizada
+501774,101313,55,Hombre,Oftalmología,Hospital del Valle,2024-02-27,,
+501014,100373,34,Mujer,Ginecología,Hospital del Norte,2025-04-04,2026-05-16,Atención realizada
+501799,101179,59,Hombre,Traumatología,Hospital de la Cordillera,2025-03-03,2025-03-09,Contacto no posible
+500754,100730,39,Mujer,Traumatología,Hospital del Norte,2023-06-01,,
+501263,100012,53,Hombre,Traumatología,Hospital del Norte,2026-03-10,,
+500214,100250,86,Mujer,Traumatología,Hospital del Norte,2025-09-12,,
+501241,100935,44,mujer,Otorrinolaringología,Hospital del Sur,2025-12-03,2026-04-08,Atención realizada
+500958,101097,57,Mujer,Cirugía general,Hospital del Norte,2026-04-10,2026-07-07,Inasistencia
+501727,100995,31,Hombre,Dermatología,Hospital del Sur,2025-01-31,2025-04-16,Atención realizada
+501447,101058,50,Mujer,Cirugía general,Hospital del Norte,2024-06-02,2024-08-25,Atención realizada
+500568,100360,88,Mujer,Cardiología,Hospital del Norte,2024-08-22,2024-12-15,Atención realizada
+501446,100360,86,Mujer,Cardiología,Hospital del Norte,2025-04-18,,
+500069,101102,50,Hombre,Otorrinolaringología,Hospital del Norte,2024-09-27,2025-03-11,Inasistencia
+501578,101340,73,Mujer,Oftalmología,Hospital del Norte,2023-07-23,,
+500086,100389,38,Mujer,Cardiología,Hospital Costero,2025-07-13,2025-10-29,Atención realizada
+501754,101359,64,Hombre,Cirugía general,Hospital de la Cordillera,2025-08-20,,
+500913,100145,71,Masculino,Otorrinolaringología,Hospital Costero,2025-07-14,,
+500467,100214,26,Mujer,Traumatología,Hospital del Sur,2024-09-15,,
+500880,101188,40,Mujer,Dermatología,Hospital del Norte,2025-02-23,,
+500430,100766,1,Mujer,Ginecología,Hospital de la Cordillera,2024-09-24,,
+500418,100854,68,Hombre,Cardiología,Hospital del Sur,2025-08-13,2025-10-31,Atención realizada
+500413,100462,46,Hombre,Cirugía general,Hospital Costero,2026-07-19,,
+500197,100378,59,Mujer,Cirugía general,Hospital del Norte,2025-01-06,,
+501844,101469,28,F,Oftalmología,Hospital del Sur,2026-07-09,2026-08-03,Atención realizada
+500285,100081,42,Mujer,Ginecología,Hospital de la Cordillera,2025-05-02,,
+501136,100929,53,Mujer,Oftalmología,Hospital del Norte,2024-08-17,2025-07-22,Atención realizada
+501569,100608,8,Hombre,Otorrinolaringología,Hospital del Sur,2025-04-26,2025-06-09,Atención realizada
+501170,100665,40,Mujer,Cardiología,Hospital Costero,2024-10-05,,
+500667,100339,52,Mujer,Traumatología,Hospital del Norte,2025-03-03,2025-04-30,Atención realizada
+500685,101386,,Hombre,Dermatología,Hospital Costero,2026-06-23,,
+500381,101557,51,Hombre,Oftalmología,Hospital del Valle,2026-06-27,,
+501524,100134,53,Hombre,Cardiología,Hospital del Norte,2024-03-31,2024-07-17,Fallecimiento
+501013,100934,49,Mujer,Traumatología,Hospital del Norte,2023-10-29,2024-07-20,Atención realizada
+501762,101427,41,Hombre,Cirugía general,Hospital de la Cordillera,2026-05-03,2026-08-14,Atención realizada
+500291,101130,89,Mujer,Traumatología,Hospital del Sur,2024-11-19,,
+501413,100455,54,Mujer,Oftalmología,Hospital del Norte,2023-08-31,2025-05-05,Contacto no posible
+500360,101332,58,Hombre,Dermatología,Hospital Costero,2023-07-08,,
+501431,101302,38,Hombre,Oftalmología,Hospital del Sur,2023-07-03,,
+500365,100449,55,Hombre,Cirugía general,Hospital del Norte,2025-09-19,2026-03-10,Renuncia voluntaria
+500525,101496,59,Mujer,Traumatología,Hospital del Valle,2025-03-26,2025-06-25,Atención realizada
+500575,101243,41,Mujer,Traumatología,Hospital Costero,2026-09-09,,
+501496,100305,44,Hombre,Dermatología,Hospital del Sur,2023-12-07,2025-02-23,Atención realizada
+500694,101277,27,Hombre,Dermatología,Hospital de la Cordillera,2026-09-03,,
+500705,100685,39,Mujer,Traumatología,Hospital del Norte,2023-10-02,,
+500113,101091,-3,Hombre,Cardiología,Hospital de la Cordillera,2025-12-04,,
+501127,100793,57,Mujer,Dermatología,Hospital del Norte,2024-10-12,,
+500415,100060,68,Mujer,Traumatología,Hospital del Valle,2024-03-27,2024-06-03,Atención realizada
+500590,101385,49,Mujer,Traumatología,Hospital del Norte,2025-09-03,2025-12-03,Atención realizada
+501215,100842,89,Hombre,Oftalmología,Hospital del Norte,2026-01-05,,
+501909,100042,24,Mujer,Dermatología,Hospital del Norte,2026-04-04,,
+500487,100262,59,Mujer,Oftalmología,Hospital del Norte,2023-08-28,,
+501077,101448,82,Mujer,Traumatología,Hospital del Sur,2026-03-04,2026-08-23,Atención realizada
+501053,100816,54,Mujer,Ginecología,Hospital del Sur,2026-05-10,2026-09-24,Atención realizada
+501090,101401,51,Masculino,Otorrino,Hospital Costero,2023-02-21,2024-01-25,Atención realizada
+500875,101275,58,Mujer,Cardiología,Hospital del Norte,2026-08-26,,
+501767,101155,73,mujer,Oftalmología,Hospital del Sur,2026-04-14,,
+501346,100650,32,Mujer,Dermatología,Hospital Costero,2025-03-03,,
+500844,101377,61,Mujer,Oftalmología,Hospital del Sur,2026-06-16,2026-08-25,Inasistencia
+500967,101025,30,Mujer,Dermatología,Hospital de la Cordillera,2023-09-07,2024-02-01,Atención realizada
+500595,100644,76,Mujer,Oftalmología,Hospital Costero,2024-11-13,2025-07-02,Atención realizada
+500928,101196,50,Mujer,Traumatología,Hospital del Sur,2024-07-23,2025-05-17,Atención realizada
+500309,100258,38,Hombre,Dermatología,Hospital del Sur,2025-11-07,,
+501411,101529,42,Hombre,Traumatología,Hospital Costero,2023-07-18,,
+501379,101357,71,Hombre,Traumatología,Hospital Costero,2025-07-31,,
+500059,101369,56,Mujer,Oftalmología,Hospital Costero,2024-08-08,2025-12-01,Atención realizada
+500160,100996,37,Mujer,Otorrinolaringología,Hospital de la Cordillera,2024-08-31,2025-03-04,Contacto no posible
+501846,101600,72,mujer,Ginecología,Hospital del Valle,2024-02-20,2024-05-17,Atención realizada
+500187,100227,,Mujer,Otorrinolaringología,Hospital Costero,2026-07-30,,
+500245,100554,85,Mujer,Oftalmología,Hospital del Valle,2026-08-23,,
+501392,101437,86,Mujer,Cardiología,Hospital del Norte,2025-10-18,2025-12-10,Atención realizada
+501916,100947,41,Mujer,Ginecología,Hospital de la Cordillera,2024-07-09,,
+500158,100312,51,Mujer,Dermatología,Hospital del Valle,2024-06-07,2024-11-22,Atención realizada
+500127,101371,86,Mujer,Cardiología,Hospital del Norte,2023-09-02,2023-03-11,Atención realizada
+500323,101646,77,Mujer,Traumatología,Hospital del Norte,2023-10-21,,
+501084,100102,79,Hombre,Oftalmología,Hospital del Norte,2024-02-23,,
+500805,101456,62,Hombre,Oftalmología,Hospital del Norte,2023-10-09,2024-02-07,Renuncia voluntaria
+501237,101362,49,Mujer,Dermatología,Hospital Costero,2026-07-18,,
+500778,100333,65,Mujer,Cardiología,Hospital de la Cordillera,2025-10-17,,
+501128,100729,22,Mujer,Cirugía general,Hospital de la Cordillera,2025-03-03,2025-05-22,Fallecimiento
+501666,100062,39,Mujer,Cardiología,Hospital del Sur,2023-05-25,2023-10-20,Contacto no posible
+501677,100996,41,Hombre,Traumatología,Hospital de la Cordillera,2026-09-01,,
+500846,101626,60,Mujer,Ginecología,Hospital del Sur,2025-08-25,,
+500695,100181,21,Mujer,Otorrinolaringología,Hospital de la Cordillera,2026-02-04,2026-05-01,Inasistencia
+501545,101471,999,Hombre,Traumatología,Hospital del Valle,2024-12-24,,
+501935,100995,38,Hombre,Traumatología,Hospital del Norte,2026-08-23,,
+501253,100674,19,Mujer,Ginecología,Hospital del Sur,2026-08-17,,
+500274,101325,14,Mujer,Otorrinolaringología,Hospital del Norte,2025-11-30,2026-07-12,Atención realizada
+500876,100168,22,Mujer,Dermatología,Hospital del Sur,2024-11-13,2024-12-03,
+500183,101045,40,Mujer,Ginecología,Hospital del Norte,2023-03-07,,
+501688,100655,36,Mujer,Otorrinolaringología,Hospital del Sur,2025-10-03,2026-03-07,Atención realizada
+501076,100132,80,Mujer,Oftalmología,Hospital del Sur,2026-04-24,2026-06-29,Atención realizada
+501222,100257,54,Mujer,Ginecología,Hospital del Sur,2025-07-17,,
+500463,101273,,Mujer,Cirugía general,Hospital Costero,2025-02-14,2025-05-27,Atención realizada
+501476,101613,57,Mujer,Dermatología,Hospital del Norte,2024-02-17,,
+500090,101118,51,Mujer,Ginecología,Hospital Costero,2025-01-10,2025-03-30,Contacto no posible
+501249,100586,23,Mujer,Traumatología,Hospital del Norte,2024-11-19,2024-11-29,
+501835,100805,57,Hombre,Oftalmología,Hospital Costero,2026-04-29,,
+501511,101364,86,Mujer,Oftalmología,Hospital Costero,2026-02-15,2026-04-02,Atención realizada
+500051,100384,67,Hombre,Cardiología,Hospital del Norte,2024-12-19,,Atención realizada
+500854,101427,49,Hombre,Traumatología,Hospital del Norte,2024-10-17,2025-07-07,Inasistencia
+500416,101634,51,Mujer,Oftalmología,Hospital Costero,2025-01-22,2025-05-29,Atención realizada
+500677,100894,27,Mujer,Traumatología,Hospital del Sur,2024-02-20,2024-06-30,Renuncia voluntaria
+501391,101172,76,Mujer,Oftalmología,Hospital del Norte,2026-05-16,2026-08-08,Atención realizada
+500535,101413,43,Mujer,Otorrinolaringología,Hospital Costero,2024-08-22,2024-10-09,Atención realizada
+500235,100037,24,Hombre,Dermatología,Hospital del Norte,2023-09-30,2024-02-14,Atención realizada
+501514,100256,20,Mujer,Dermatología,Hospital del Sur,2023-08-16,,
+500681,101243,43,Hombre,Traumatología,Hospital del Norte,2024-12-15,2025-02-24,Atención realizada
+500582,101636,64,Hombre,Oftalmología,Hospital del Norte,2023-05-24,2025-04-28,Atención realizada
+500402,100949,79,Hombre,Traumatología,Hospital del Valle,2025-03-03,2025-06-17,Atención realizada
+500699,100691,50,Hombre,Otorrinolaringología,Hospital del Sur,2025-09-29,,
+500439,101226,58,Mujer,Traumatología,Hospital del Norte,2026-08-22,2026-09-28,Atención realizada
+500528,100505,44,Mujer,Cirugía general,Hospital del Norte,2026-06-19,2026-07-18,Atención realizada
+501704,100883,41,Hombre,Oftalmología,Hospital del Valle,2023-06-03,2023-11-27,Atención realizada
+501393,101161,,,Oftalmología,Hospital Costero,2023-08-10,2023-10-29,Inasistencia
+500718,101081,50,Mujer,Cardiología,Hospital del Norte,2023-07-26,2025-04-25,Atención realizada
+501176,101036,70,Mujer,Oftalmología,Hospital del Valle,2023-08-13,2024-01-26,Atención realizada
+501464,100190,,Mujer,Traumatología,Hospital Costero,2023-02-15,,
+500133,101335,47,Mujer,Otorrinolaringología,Hospital Costero,2026-07-10,,
+500739,100563,54,Mujer,Cirugía general,Hospital del Sur,2026-05-13,,
+500030,100843,59,Mujer,Traumatología,Hospital del Sur,2023-07-14,,
+500640,101460,65,Hombre,Traumatología,Hospital del Valle,2024-08-30,2025-03-23,Atención realizada
+500239,100201,40,Mujer,Traumatología,Hospital del Norte,2024-07-07,,
+501725,101355,73,Hombre,Oftalmología,Hospital Costero,2024-06-17,2024-07-14,Atención realizada
+501360,101165,41,Mujer,Otorrinolaringología,Hospital Costero,2025-05-29,,
+501952,100189,32,Mujer,Cirugía general,Hospital del Norte,2026-05-09,,
+500324,101000,44,Hombre,Otorrinolaringología,Hospital del Norte,2025-12-28,2026-01-06,Atención realizada
+500629,100185,45,,Cirugía general,Hospital del Norte,2023-07-07,2023-12-07,Renuncia voluntaria
+501919,100156,40,Hombre,Traumatología,Hospital del Sur,2023-03-09,,
+500770,100640,88,Mujer,Cardiología,Hospital del Sur,2025-08-19,2025-11-29,Atención realizada
+501951,100080,59,Hombre,Oftalmología,Hospital del Sur,2025-06-18,,
+501860,101417,62,Mujer,Traumatología,Hospital del Valle,2026-04-17,,
+501021,101049,21,Mujer,Traumatología,Hospital del Sur,2023-08-13,,
+500380,100751,71,Hombre,Cardiología,Hospital de la Cordillera,2025-03-03,,
+501583,100269,42,Mujer,Otorrinolaringología,Hospital del Sur,2024-11-23,2025-10-23,Atención realizada
+501540,100438,,Hombre,Oftalmología,Hospital Costero,2025-07-02,,
+500748,100418,68,Mujer,Oftalmología,Hospital Costero,2025-03-03,,
+501055,100090,32,M,Traumatología,Hospital Costero,2023-03-13,,
+501691,100281,37,Hombre,Traumatología,Hospital de la Cordillera,2025-09-29,2025-11-02,Atención realizada
+501433,100458,65,Hombre,Cardiología,Hospital del Sur,2023-01-08,2023-05-14,Inasistencia
+500351,101525,86,Mujer,Oftalmología,Hospital del Norte,2026-03-17,,
+501273,101157,65,Hombre,Oftalmología,Hospital del Norte,2025-07-23,2026-03-11,Renuncia voluntaria
+501858,100932,73,,Ginecología,Hospital Costero,2025-10-26,2026-06-23,Atención realizada
+500052,100247,33,Mujer,Traumatología,Hospital Costero,2023-04-22,2023-08-21,Renuncia voluntaria
+500508,101052,23,Mujer,Oftalmología,Hospital del Sur,2023-06-01,2023-08-11,Atención realizada
+501061,100934,13,Mujer,Ginecología,Hospital de la Cordillera,2025-01-22,2025-04-26,Atención realizada
+501634,100481,69,Hombre,Oftalmología,Hospital del Valle,2025-01-14,2025-09-05,Atención realizada
+501103,100139,53,Hombre,Traumatología,Hospital de la Cordillera,2025-07-23,,
+501038,101064,,Hombre,Oftalmología,Hospital del Norte,2026-05-12,,
+501700,101493,47,Mujer,Otorrinolaringología,Hospital del Valle,2024-06-03,2025-01-04,Atención realizada
+501083,101232,38,Mujer,Dermatología,Hospital del Valle,2025-07-16,2025-11-28,Atención realizada
+500576,101014,53,Mujer,Traumatología,Hospital del Norte,2023-01-29,2023-07-22,Atención realizada
+500234,101033,66,Hombre,Cardiología,Hospital del Valle,2024-01-31,,
+501761,100548,86,Hombre,Oftalmología,Hospital del Valle,2025-08-25,,
+501872,100259,55,Hombre,Otorrino,Hospital del Sur,2023-10-13,,
+501437,100894,30,Hombre,Dermatología,Hospital del Norte,2023-12-20,,
+500744,100913,89,Hombre,Oftalmología,Hospital del Sur,2023-01-09,,
+500479,101210,60,Hombre,Traumatología,Hospital de la Cordillera,2025-01-17,2025-04-22,Atención realizada
+501000,101045,35,Hombre,Dermatología,Hospital del Valle,2023-02-10,2023-06-09,Atención realizada
+500194,101088,43,Hombre,Cardiología,Hospital del Sur,2026-03-01,2026-06-28,Atención realizada
+501409,100340,34,Hombre,Dermatología,Hospital Costero,2024-06-07,2024-10-16,Atención realizada
+500405,100222,64,Hombre,Oftalmología,Hospital de la Cordillera,2026-01-29,2026-06-11,Atención realizada
+501615,101376,20,Mujer,Ginecología,Hospital del Norte,2025-05-18,2025-08-12,Atención realizada
+501070,100517,47,Mujer,Cardiología,Hospital del Sur,2023-12-24,2025-07-03,Inasistencia
+500884,100135,,Hombre,Otorrino,Hospital Costero,2023-09-12,2024-07-13,Atención realizada
+500488,100652,63,Mujer,Dermatología,Hospital del Norte,2026-09-11,,
+501694,100748,63,Hombre,Oftalmología,Hospital del Sur,2026-05-11,,
+501049,100001,56,Mujer,Cirugía general,Hospital Costero,2025-06-10,2026-08-20,Atención realizada
+501893,100771,,Hombre,Otorrinolaringología,Hospital Costero,2025-10-21,2026-08-31,Fallecimiento
+500472,100252,57,Mujer,Cardiología,Hospital de la Cordillera,2025-03-03,2025-07-26,Atención realizada
+500257,101560,26,Hombre,Traumatología,Hospital del Norte,2025-11-28,,
+500895,101029,29,Hombre,Otorrinolaringología,Hospital del Sur,2026-03-27,2026-06-04,Atención realizada
+501585,101264,63,Masculino,Cirugía general,Hospital del Norte,2025-03-03,2025-06-14,Atención realizada
+501829,101003,52,Mujer,Traumatología,Hospital del Sur,2025-03-03,2025-09-29,Atención realizada
+500139,101170,45,Mujer,Traumatología,Hospital Costero,2023-12-14,,
+500492,100164,41,Hombre,Dermatología,Hospital del Norte,2025-03-03,2025-11-26,Inasistencia
+501572,101268,38,Hombre,Cirugía general,Hospital del Valle,2023-07-09,2023-12-06,Atención realizada
+501271,101522,70,Mujer,Cardiología,Hospital Costero,2025-10-05,,
+501147,101099,85,Mujer,Dermatología,Hospital del Sur,2025-03-03,,
+500579,100332,42,Mujer,Oftalmología,Hospital del Norte,2024-01-28,2025-12-09,Atención realizada
+500707,101499,68,Mujer,Traumatología,Hospital de la Cordillera,2023-10-10,,
+501714,100566,55,Mujer,Oftalmología,Hospital del Valle,2024-12-30,2025-03-28,Atención realizada
+500207,100371,65,Mujer,Oftalmología,Hospital Costero,2023-07-29,,
+501664,100255,59,Mujer,Oftalmología,Hospital del Sur,2024-10-19,2025-01-13,Atención realizada
+501201,101150,50,Mujer,Traumatología,Hospital del Norte,2024-12-10,2025-02-24,Inasistencia
+500849,100626,46,Mujer,Ginecología,Hospital Costero,2025-07-01,,
+501852,100805,98,mujer,Oftalmología,Hospital del Norte,2024-01-22,2024-05-06,Renuncia voluntaria
+501902,100796,53,Mujer,Cardiología,Hospital del Valle,2026-03-14,,
+500001,100364,57,Hombre,Oftalmología,Hospital Costero,2023-10-31,2023-11-14,Atención realizada
+500227,100494,63,Mujer,Cardiología,Hospital del Valle,2023-01-04,,
+501966,100056,76,Hombre,Cardiología,Hospital Costero,2023-05-07,2024-01-09,Atención realizada
+500250,100794,72,Mujer,Traumatología,Hospital de la Cordillera,2023-03-27,2023-05-24,Atención realizada
+501494,100029,40,Mujer,Ginecología,Hospital del Norte,2024-06-02,2025-08-09,Atención realizada
+500890,100063,34,Mujer,Dermatología,Hospital del Sur,2023-01-28,,
+501133,100008,50,,Cardiología,Hospital de la Cordillera,2024-12-10,2025-07-01,Atención realizada
+501451,100807,51,Hombre,Dermatología,Hospital de la Cordillera,2025-03-03,2025-03-22,Inasistencia
+500706,100024,53,Mujer,Traumatología,Hospital del Sur,2025-04-21,2025-12-15,Atención realizada
+500980,100446,53,Hombre,Cardiología,Hospital de la Cordillera,2025-04-06,,
+501030,101420,21,Mujer,Otorrinolaringología,Hospital Costero,2024-02-09,,
+501285,101321,47,Hombre,Otorrino,Hospital de la Cordillera,2023-06-15,2023-09-07,Atención realizada
+500284,100930,53,Mujer,Otorrino,Hospital del Sur,2023-10-21,2024-08-01,Atención realizada
+500314,100397,44,Mujer,Ginecología,Hospital del Sur,2025-05-03,2025-09-27,Atención realizada
+500597,100430,28,Mujer,Otorrinolaringología,Hospital del Sur,2026-08-20,,
+501764,100791,98,Mujer,Oftalmología,Hospital del Norte,2024-02-19,2024-05-12,Atención realizada
+500060,101532,11,Hombre,Otorrino,Hospital del Valle,2023-04-13,2023-10-09,Atención realizada
+501370,100017,49,Mujer,Traumatología,Hospital de la Cordillera,2023-02-03,2024-01-23,Atención realizada
+500048,100589,,Mujer,Oftalmología,Hospital Costero,2026-03-13,2026-08-29,Inasistencia
+501887,100537,44,Mujer,Cardiología,Hospital Costero,2025-10-22,,
+501327,100610,54,Mujer,Oftalmología,Hospital del Sur,2026-03-05,2026-04-23,Atención realizada
+501867,101354,53,Mujer,Ginecología,Hospital de la Cordillera,2026-08-25,2026-08-31,Renuncia voluntaria
+500987,100699,37,Mujer,Oftalmología,Hospital del Sur,2025-07-20,,
+500970,100554,42,Mujer,Traumatología,Hospital del Sur,2024-07-13,,
+501657,100585,66,Mujer,Oftalmología,Hospital del Sur,2025-08-27,2026-01-17,Renuncia voluntaria
+501311,100049,41,Mujer,Ginecología,Hospital del Norte,2026-02-27,2026-05-04,Atención realizada
+501936,100715,,Hombre,Dermatología,Hospital del Sur,2025-01-28,2025-12-01,Atención realizada
+501920,101213,,Mujer,Dermatología,Hospital Costero,2024-01-19,2025-02-20,Inasistencia
+500759,100776,53,Mujer,Ginecología,Hospital del Norte,2026-01-23,,
+500979,100452,56,Mujer,Traumatología,Hospital de la Cordillera,2026-08-04,,
+501868,101466,45,Hombre,Dermatología,Hospital del Sur,2025-12-21,,
+501703,101648,24,Mujer,Dermatología,Hospital del Sur,2025-03-03,2025-10-03,Atención realizada
+500313,100308,,Hombre,Dermatología,Hospital Costero,2025-12-06,2026-03-13,Atención realizada
+500092,100588,54,Mujer,Oftalmología,Hospital Costero,2024-03-17,2024-07-27,Atención realizada
+500722,100677,52,Mujer,Cardiología,Hospital Costero,2025-09-21,2026-07-27,Atención realizada
+501529,100310,35,Mujer,Ginecología,Hospital del Valle,2026-04-25,,
+501266,100138,34,Mujer,Traumatología,Hospital del Norte,2026-03-25,,
+500735,101077,55,Mujer,Oftalmología,Hospital de la Cordillera,2025-03-03,2025-05-22,Atención realizada
+500812,101571,30,Mujer,Ginecología,Hospital del Valle,2023-03-18,2023-04-05,Atención realizada
+501750,100896,56,Mujer,Oftalmología,Hospital del Sur,2023-08-01,2024-04-12,Atención realizada
+500460,100482,59,Hombre,Oftalmología,Hospital del Norte,2024-02-13,,
+501891,100735,52,Mujer,Otorrinolaringología,Hospital Costero,2026-07-25,,
+501485,101396,38,Mujer,Dermatología,Hospital del Sur,2025-12-21,2026-07-16,Atención realizada
+500850,101472,93,Hombre,Oftalmología,Hospital del Norte,2026-05-08,2026-08-12,Atención realizada
+500384,100213,60,Mujer,Oftalmología,Hospital de la Cordillera,2023-03-25,2023-06-11,Renuncia voluntaria
+500018,100379,63,Hombre,Traumatología,Hospital de la Cordillera,2025-04-21,,
+500956,101323,50,Hombre,Oftalmología,Hospital del Sur,2025-11-29,,
+501813,100069,46,Mujer,Cirugía general,Hospital del Norte,2025-11-21,2026-03-25,Atención realizada
+501067,100689,51,Mujer,Traumatología,Hospital del Sur,2024-12-08,,
+501210,100266,79,Hombre,Cardiología,Hospital del Norte,2026-04-01,,
+500988,100301,50,Hombre,Cirugía general,Hospital del Sur,2025-03-17,,
+501015,100903,78,Hombre,Traumatología,Hospital Costero,2024-01-23,2025-03-20,Atención realizada
+501942,101261,49,Mujer,Oftalmología,Hospital del Sur,2023-01-22,2023-09-27,Atención realizada
+501907,101291,49,Hombre,Traumatología,Hospital del Sur,2023-06-07,2023-07-26,Atención realizada
+500126,101581,84,Mujer,Oftalmología,Hospital del Valle,2025-02-22,2025-09-21,Renuncia voluntaria
+500512,101076,16,Hombre,Dermatología,Hospital del Valle,2026-02-21,,
+500077,100727,91,Mujer,Oftalmología,Hospital del Sur,2023-05-11,2023-05-26,Atención realizada
+500931,100146,60,Mujer,Traumatología,Hospital de la Cordillera,2025-06-05,2025-09-03,Inasistencia
+500142,101054,47,Mujer,Traumatología,Hospital del Norte,2026-06-17,,
+501964,100524,64,Hombre,Traumatología,Hospital del Norte,2026-04-27,,
+500586,101227,76,Mujer,Cardiología,Hospital del Sur,2025-06-09,2026-09-15,Atención realizada
+500819,100758,66,Mujer,Traumatología,Hospital del Sur,2023-11-26,2024-03-30,Atención realizada
+501038,101064,,Hombre,Oftalmología,Hospital del Norte,2026-05-12,,
+500788,101503,35,Mujer,Cirugía general,Hospital del Sur,2023-07-11,2023-11-16,Atención realizada
+500556,100433,35,Mujer,Ginecología,Hospital del Norte,2026-07-16,,
+501177,101273,25,Hombre,Otorrino,Hospital Costero,2023-02-19,2023-04-10,Atención realizada
+501057,101060,61,Mujer,Cardiología,Hospital del Norte,2024-07-08,,
+500016,101330,36,Hombre,Ginecología,Hospital del Norte,2025-03-02,2025-06-24,Atención realizada
+500436,100183,67,Mujer,Oftalmología,Hospital Costero,2026-02-07,,
+500499,101499,75,Mujer,Oftalmología,Hospital del Sur,2024-09-29,,
+500620,100009,68,Hombre,Oftalmología,Hospital de la Cordillera,2024-01-29,,
+501530,100384,55,Hombre,Cirugía general,Hospital Costero,2026-06-18,2026-09-28,Atención realizada
+501713,101231,47,Mujer,Dermatología,Hospital Costero,2023-05-30,,
+501428,101602,28,Hombre,Cirugía general,Hospital Costero,2023-10-20,2024-10-22,Inasistencia
+501684,101238,30,Mujer,Traumatología,Hospital de la Cordillera,2026-04-27,,
+500451,101628,51,Mujer,Cirugía general,Hospital de la Cordillera,2024-08-01,,
+500767,101470,30,Mujer,Traumatología,Hospital del Norte,2025-04-23,,
+500036,100896,67,Hombre,Cirugía general,Hospital del Sur,2025-06-17,,
+500948,100257,66,Hombre,Oftalmología,Hospital del Sur,2025-03-31,2025-06-05,Atención realizada
+501250,101144,26,Hombre,Otorrino,Hospital Costero,2023-01-08,2023-07-16,Atención realizada
+501197,100560,46,Mujer,Traumatología,Hospital Costero,2025-03-03,,
+500982,100848,,M,Cardiología,Hospital Costero,2026-01-08,2026-02-09,Atención realizada
+500242,100534,74,Mujer,Cirugía general,Hospital del Valle,2025-03-03,,
+500530,101205,83,Mujer,Cirugía general,Hospital del Norte,2024-12-24,,
+500344,100188,98,Mujer,Cardiología,Hospital Costero,2024-06-18,,
+501181,100061,,Hombre,Oftalmología,Hospital Costero,2023-09-28,2024-01-18,Atención realizada
+501443,100279,76,Mujer,Oftalmología,Hospital del Norte,2025-03-03,2024-12-22,Atención realizada
+501773,100295,71,Mujer,Oftalmología,Hospital del Valle,2026-06-20,,
+501918,100990,49,F,Oftalmología,Hospital del Norte,2025-06-06,2025-11-15,Atención realizada
+501904,101179,64,Mujer,Oftalmología,Hospital del Sur,2026-05-19,2026-06-17,Atención realizada
+500887,100690,35,Hombre,Dermatología,Hospital de la Cordillera,2026-09-06,,
+500507,100683,43,Mujer,Traumatología,Hospital de la Cordillera,2023-08-01,2024-05-30,Atención realizada
+501996,101099,27,Mujer,Otorrinolaringología,Hospital Costero,2026-09-16,,
+501580,101325,28,Hombre,Traumatología,Hospital del Sur,2026-02-19,2026-04-09,Renuncia voluntaria
+500216,100321,55,Hombre,Traumatología,Hospital del Norte,2025-08-29,,
+500209,100983,21,Mujer,Ginecología,Hospital del Sur,2025-07-01,2025-12-09,Atención realizada
+500946,101624,56,Mujer,Oftalmología,Hospital del Sur,2026-03-11,2026-04-06,Atención realizada
+500065,100454,39,Hombre,Cirugía general,Hospital de la Cordillera,2025-03-03,2025-08-16,Atención realizada
+500011,101314,82,Hombre,Cirugía general,Hospital del Sur,2025-03-24,2025-06-27,Atención realizada
+501752,101628,29,Mujer,Cirugía general,Hospital del Valle,2025-03-03,2025-03-21,Atención realizada
+501648,100702,65,Mujer,Cardiología,Hospital del Norte,2025-11-09,2026-03-07,Atención realizada
+501662,100450,78,Mujer,Ginecología,Hospital Costero,2026-06-06,,
+501203,101497,29,Hombre,Cirugía general,Hospital Costero,2024-12-26,2025-01-28,Fallecimiento
+500253,100650,70,Hombre,Oftalmología,Hospital de la Cordillera,2025-09-29,2025-11-03,Atención realizada
+501630,101142,53,Mujer,Cirugía general,Hospital de la Cordillera,2025-03-03,,
+500604,100054,53,Hombre,Traumatología,Hospital de la Cordillera,2023-06-26,2023-07-04,Atención realizada
+500806,100417,34,Mujer,Dermatología,Hospital del Norte,2025-07-20,,
+501286,101016,27,Hombre,Dermatología,Hospital Costero,2023-04-23,2023-07-17,Atención realizada
+501125,101310,68,Mujer,Traumatología,Hospital del Valle,2026-08-19,,
+501192,101152,43,Mujer,Traumatología,Hospital del Norte,2023-08-12,,
+501602,101645,84,Mujer,Oftalmología,Hospital del Norte,2024-04-19,2025-11-03,Inasistencia
+500315,100039,21,Mujer,Ginecología,Hospital del Valle,2024-01-20,2024-06-23,Atención realizada
+501778,101161,49,Mujer,Cirugía general,Hospital del Norte,2024-08-21,2025-02-04,Atención realizada
+500519,101522,74,Hombre,Dermatología,Hospital del Sur,2024-05-15,2024-08-10,Atención realizada
+500466,100129,73,Mujer,Oftalmología,Hospital del Sur,2024-12-25,,
+500932,100945,16,Mujer,Otorrino,Hospital del Norte,2023-03-20,2023-05-07,Atención realizada
+500964,101255,75,Hombre,Oftalmología,Hospital Costero,2024-12-06,2025-02-11,Atención realizada
+501686,100853,29,Hombre,Dermatología,Hospital Costero,2026-08-20,,
+500843,100014,98,Hombre,Oftalmología,Hospital Costero,2026-08-06,,
+501669,101198,51,Hombre,Traumatología,Hospital del Norte,2023-11-09,2024-12-25,Atención realizada
+501471,100908,83,Hombre,Cardiología,Hospital de la Cordillera,2025-03-03,2025-04-07,Atención realizada
+501945,100182,29,Mujer,Traumatología,Hospital de la Cordillera,2026-04-19,2026-05-10,Atención realizada
+500368,100920,48,Mujer,Oftalmología,Hospital del Norte,2024-12-22,2026-02-22,Atención realizada
+500146,100164,63,Hombre,Oftalmología,Hospital del Valle,2025-02-14,2025-05-22,Renuncia voluntaria
+500363,100463,50,Hombre,Otorrinolaringología,Hospital Costero,2026-08-05,,
+501685,100396,32,Mujer,Traumatología,Hospital del Valle,2023-01-03,2023-11-19,Atención realizada
+500631,100124,54,Mujer,Traumatología,Hospital Costero,2026-04-11,2026-07-28,Atención realizada
+500091,101613,43,Mujer,Cirugía general,Hospital del Valle,2026-05-24,,
+501789,100694,45,Mujer,Traumatología,Hospital del Sur,2025-03-03,2025-09-25,Fallecimiento
+500322,100829,44,Mujer,Ginecología,Hospital del Norte,2024-12-23,2025-05-11,Atención realizada
+500186,100949,74,Mujer,Cardiología,Hospital Costero,2024-05-21,2024-06-16,Atención realizada
+501678,101130,71,Hombre,Cardiología,Hospital del Norte,2026-05-07,2026-09-16,Fallecimiento
+500925,101048,52,Mujer,Cardiología,Hospital del Norte,2023-01-19,2023-05-03,Inasistencia
+501157,100831,47,hombre,Traumatología,Hospital Costero,2024-01-03,2025-02-20,Atención realizada
+500869,101288,62,Mujer,Oftalmología,Hospital del Norte,2023-02-27,2023-07-08,Atención realizada
+501655,100702,14,Mujer,Oftalmología,Hospital del Norte,2024-07-28,,
+500757,100863,21,Mujer,Otorrinolaringología,Hospital del Sur,2024-04-28,2025-02-16,Contacto no posible
+501824,100991,54,Mujer,Traumatología,Hospital del Norte,2024-08-20,2024-12-22,Atención realizada
+500120,100100,-1,Mujer,Dermatología,Hospital del Valle,2026-04-09,,
+501571,101012,25,Hombre,Otorrinolaringología,Hospital de la Cordillera,2024-03-08,,
+501063,100106,45,Hombre,Otorrinolaringología,Hospital de la Cordillera,2025-10-15,2025-12-12,Contacto no posible
+500841,101191,66,Hombre,Cardiología,Hospital de la Cordillera,2026-08-08,,
+500494,100634,67,Hombre,Otorrino,Hospital del Valle,2023-08-08,2024-06-19,Atención realizada
+500444,100095,24,Hombre,Dermatología,Hospital del Sur,2024-11-15,,
+500339,101558,31,Hombre,Cirugía general,Hospital del Sur,2023-10-16,2024-04-24,Inasistencia
+501843,100156,66,Mujer,Cardiología,Hospital de la Cordillera,2024-05-07,2024-09-12,Atención realizada
+501109,100972,81,Hombre,Cardiología,Hospital del Sur,2026-04-25,,
+500225,100581,26,Hombre,Dermatología,Hospital del Norte,2023-09-26,2023-11-28,Atención realizada
+500020,100487,70,Hombre,Traumatología,Hospital de la Cordillera,2023-10-20,2023-12-09,Atención realizada
+501097,101152,81,Mujer,Ginecología,Hospital del Sur,2024-12-30,2025-11-23,Contacto no posible
+500419,100236,45,MUJER,Oftalmología,Hospital Costero,2024-08-29,,
+501100,100844,48,Hombre,Oftalmología,Hospital del Sur,2025-08-31,,
+501405,100184,44,Mujer,Dermatología,Hospital del Norte,2025-04-30,,
+501898,100916,25,Hombre,Dermatología,Hospital del Norte,2025-01-06,2025-12-17,Atención realizada
+500992,100147,74,Hombre,Cirugía general,Hospital del Norte,2023-09-28,,
+500386,101566,69,Hombre,Traumatología,Hospital de la Cordillera,2025-08-22,2025-11-12,Atención realizada
+500930,101492,22,Mujer,Dermatología,Hospital del Norte,2025-03-13,2025-05-07,Atención realizada
+500453,100417,53,Hombre,Oftalmología,Hospital del Sur,2024-01-05,2024-09-16,Atención realizada
+500265,100478,18,Hombre,Cardiología,Hospital del Norte,2026-03-01,,
+501065,101274,49,Hombre,Otorrinolaringología,Hospital del Sur,2025-11-05,,
+501453,101549,17,Hombre,Dermatología,Hospital del Norte,2026-03-17,,
+500161,100077,42,Mujer,Dermatología,Hospital Costero,2023-12-19,2024-09-06,Atención realizada
+500111,100249,52,Mujer,Cardiología,Hospital Costero,2023-05-10,2023-09-26,Atención realizada
+500304,101635,40,Hombre,Dermatología,Hospital del Valle,2024-10-28,2025-01-29,Atención realizada
+501970,101579,52,Hombre,Cardiología,Hospital Costero,2026-06-27,,
+500049,100670,54,Hombre,Otorrinolaringología,Hospital del Valle,2025-03-03,2025-08-17,Renuncia voluntaria
+500510,100943,29,Mujer,Otorrinolaringología,Hospital Costero,2025-12-25,,
+500019,101541,77,Mujer,Traumatología,Hospital de la Cordillera,2025-01-21,2025-08-08,Contacto no posible
+501068,100649,79,Hombre,Oftalmología,Hospital del Sur,2023-05-15,,
+501298,100745,20,Mujer,Otorrinolaringología,Hospital del Valle,2024-04-16,,
+501468,101447,31,Mujer,Oftalmología,Hospital de la Cordillera,2023-11-07,,
+500935,100535,81,Mujer,Oftalmología,Hospital del Norte,2023-11-25,2024-11-09,Atención realizada
+501115,100964,51,Hombre,Otorrino,Hospital del Valle,2023-07-03,2023-08-19,Atención realizada
+500886,100522,57,Mujer,Traumatología,Hospital del Sur,2025-05-20,,
+500276,100882,43,Mujer,Cardiología,Hospital Costero,2026-02-24,,
+501871,100941,21,Mujer,Cirugía general,Hospital Costero,2024-03-07,,
+501697,101218,8,Hombre,Cirugía general,Hospital Costero,2024-02-08,,
+500115,100978,50,Mujer,Traumatología,Hospital del Valle,2025-11-18,2026-04-23,Fallecimiento
+501353,100167,74,Hombre,Traumatología,Hospital del Sur,2024-09-15,2024-11-20,Atención realizada
+501605,100655,72,Mujer,Oftalmología,Hospital del Sur,2024-11-25,2025-07-25,Atención realizada
+501490,101123,41,Mujer,Dermatología,Hospital del Norte,2025-12-24,2026-02-11,Fallecimiento
+500728,100682,44,Hombre,Otorrinolaringología,Hospital del Sur,2025-03-31,2025-05-03,Renuncia voluntaria
+501929,100916,76,Hombre,Cardiología,Hospital del Sur,2023-02-16,2023-10-10,Atención realizada
+501156,101083,86,Hombre,Oftalmología,Hospital del Valle,2025-10-18,,
+500002,100786,52,Mujer,Cardiología,Hospital del Valle,2026-03-15,,
+501724,101637,21,Hombre,Dermatología,Hospital del Norte,2025-03-03,,
+500228,101249,78,Mujer,Cirugía general,Hospital del Sur,2024-09-14,2025-08-18,Atención realizada
+501715,100422,75,Mujer,Cardiología,Hospital Costero,1900-01-01,,
+501864,101445,68,Mujer,Oftalmología,Hospital del Norte,2024-07-02,2024-10-05,Fallecimiento
+501718,101421,52,Mujer,Dermatología,Hospital Costero,2025-04-04,,
+500134,100614,5,Mujer,Ginecología,Hospital del Sur,2026-01-02,,
+501760,101164,66,Hombre,Dermatología,Hospital del Norte,2023-11-01,2024-12-21,Atención realizada
+500249,100939,97,Mujer,Oftalmología,Hospital del Norte,2023-07-30,2023-12-13,Atención realizada
+501308,100704,53,Mujer,Oftalmología,Hospital del Sur,2026-04-12,2026-04-16,Atención realizada
+500497,100182,57,Mujer,Cardiología,Hospital del Sur,2025-06-05,,
+501705,100818,39,Femenino,Cirugía general,Hospital Costero,2025-03-06,2025-04-02,Inasistencia
+500961,100155,64,Masculino,Otorrinolaringología,Hospital del Valle,2025-08-16,2025-08-26,Atención realizada
+500336,100684,51,Mujer,Traumatología,Hospital Costero,2025-09-24,,
+500440,101172,35,Hombre,Traumatología,Hospital del Sur,2023-08-12,2023-10-08,Contacto no posible
+501288,100158,44,Mujer,Traumatología,Hospital del Sur,2024-03-06,,
+501167,100831,46,Hombre,Traumatología,Hospital Costero,2025-09-15,,
+501270,100716,68,Hombre,Traumatología,Hospital de la Cordillera,2023-06-03,2023-10-06,Atención realizada
+500813,101314,35,Mujer,Cirugía general,Hospital del Norte,2023-04-19,2023-11-07,Atención realizada
+501052,101591,46,Mujer,Traumatología,Hospital del Valle,2026-06-21,,
+500442,100366,43,Hombre,Dermatología,Hospital de la Cordillera,2025-08-26,,
+501163,101298,37,Hombre,Oftalmología,Hospital del Sur,2024-06-06,,
+501388,100179,55,Mujer,Otorrinolaringología,Hospital del Sur,2025-09-04,,
+501114,100933,49,Hombre,Otorrinolaringología,Hospital Costero,2025-08-22,,
+500839,100862,50,Hombre,Cardiología,Hospital del Sur,2025-06-29,,
+501948,101361,80,Mujer,Oftalmología,Hospital del Sur,2023-08-03,,
+501048,101066,91,Hombre,Oftalmología,Hospital del Norte,2025-07-27,,
+501633,100264,39,Hombre,Traumatología,Hospital del Sur,2024-07-04,2024-09-20,Atención realizada
+501104,101609,41,Mujer,Ginecología,Hospital del Sur,2026-05-08,,
+501150,100841,17,Mujer,Otorrino,Hospital del Valle,2023-09-03,2024-05-31,Atención realizada
+501729,100473,61,Hombre,Traumatología,Hospital del Sur,2025-02-12,2025-09-15,Atención realizada
+500243,101621,34,Mujer,Cirugía general,Hospital del Sur,2025-10-16,,
+501395,101619,35,MUJER,Ginecología,Hospital de la Cordillera,2024-09-23,2025-08-31,Renuncia voluntaria
+500684,101121,56,F,Cardiología,Hospital del Valle,2025-06-19,,
+501351,100732,70,Hombre,Oftalmología,Hospital de la Cordillera,2023-08-28,,
+501604,101214,63,Mujer,Cirugía general,Hospital Costero,2023-10-26,,
+500658,101368,30,Mujer,Cirugía general,Hospital Costero,2024-10-20,2025-01-03,Atención realizada
+500505,100386,65,Hombre,Oftalmología,Hospital Costero,2025-09-08,,
+500409,100252,,Hombre,Oftalmología,Hospital del Valle,2023-03-21,2024-02-18,Atención realizada
+500803,100611,68,Hombre,Otorrino,Hospital Costero,2023-07-01,2023-10-29,Atención realizada
+501106,100258,51,Mujer,Cardiología,Hospital del Sur,2024-12-09,2025-11-25,Atención realizada
+501493,101071,,Mujer,Ginecología,Hospital Costero,2023-10-21,,
+501256,100209,24,Mujer,Ginecología,Hospital Costero,2024-07-04,,
+501526,100046,44,Hombre,Otorrinolaringología,Hospital de la Cordillera,2025-04-26,2025-07-28,Contacto no posible
+501062,100209,,Mujer,Ginecología,Hospital Costero,2025-07-30,2026-05-04,Atención realizada
+501867,101354,53,Mujer,Ginecología,Hospital de la Cordillera,2026-08-25,2026-08-31,Renuncia voluntaria
+501922,100860,82,Hombre,Cardiología,Hospital de la Cordillera,2024-11-10,2026-05-25,Atención realizada
+500141,100273,68,Mujer,Cardiología,Hospital del Sur,2025-06-18,2025-11-21,Atención realizada
+500547,100706,61,Mujer,Oftalmología,Hospital del Norte,2025-12-06,,
+500901,100078,67,Hombre,Cardiología,Hospital del Valle,2025-10-24,,
+500638,101438,22,Hombre,Otorrinolaringología,Hospital del Norte,2025-03-03,2025-04-11,Contacto no posible
+501261,100399,61,Mujer,Cirugía general,Hospital del Norte,2024-12-11,2026-05-30,Contacto no posible
+501838,100779,11,Hombre,Dermatología,Hospital del Sur,2024-01-08,,
+501441,101088,70,Mujer,Oftalmología,Hospital del Sur,2025-03-03,2025-08-18,Atención realizada
+501790,100501,,Mujer,Traumatología,Hospital Costero,2024-12-08,,
+500689,101557,48,Hombre,Cardiología,Hospital Costero,2025-03-15,2026-04-08,Atención realizada
+501629,101452,38,Hombre,Cirugía general,Hospital del Norte,2023-11-11,,
+500622,100623,45,Mujer,Ginecología,Hospital del Norte,2024-09-18,2025-10-18,Atención realizada
+501817,100491,44,Hombre,Traumatología,Hospital del Norte,2024-11-02,,
+500851,100974,55,Hombre,Cardiología,Hospital del Sur,2024-07-31,2025-01-28,Atención realizada
+500584,100175,62,Mujer,Cardiología,Hospital de la Cordillera,2025-12-12,2026-02-10,Atención realizada
+501698,100583,33,Hombre,Dermatología,Hospital del Sur,2026-03-29,2026-05-17,
+500333,101207,64,Hombre,Traumatología,Hospital de la Cordillera,2026-05-18,,
+501294,101056,98,Mujer,Oftalmología,Hospital del Valle,2025-05-24,,
+501976,100464,53,Mujer,Cirugía general,Hospital del Sur,2025-05-21,,
+501362,101036,43,Hombre,Cardiología,Hospital del Norte,2023-08-03,2023-11-29,Atención realizada
+501116,100312,43,Mujer,Traumatología,Hospital Costero,2024-10-09,2025-01-01,Atención realizada
+501105,100972,53,F,Otorrinolaringología,Hospital del Valle,2024-02-04,2024-03-19,Atención realizada
+501728,100018,47,Hombre,Oftalmología,Hospital de la Cordillera,2023-10-03,2023-12-18,Inasistencia
+501946,100490,47,Hombre,Otorrinolaringología,Hospital de la Cordillera,2024-07-25,,
