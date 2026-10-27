@@ -10,23 +10,36 @@ Conjuntos de datos que uso en cursos, talleres y ejemplos de [Hazla con Datos](h
 
 ## Lectura directa desde R o Python
 
-Los archivos se pueden leer sin descargarlos, con la dirección *raw* de GitHub.
+Los archivos se pueden leer sin descargarlos, con la dirección *raw* de GitHub. La dirección se arma en tres trozos (el servidor, el repositorio con su rama y la carpeta con el archivo) para que se lea con facilidad. Para otro conjunto basta con cambiar el último trozo.
 
 ```r
-library(readr)
+library(tidyverse)
+
+url_datos <- paste0(
+  "https://raw.githubusercontent.com/",
+  "paulovillarroel/datasets/main/",
+  "lista_espera/lista_espera.csv"
+)
 
 datos <- read_csv(
-  "https://raw.githubusercontent.com/paulovillarroel/datasets/main/lista_espera/lista_espera.csv"
+  url_datos,
+  locale = locale(encoding = "UTF-8")
 )
 ```
 
 ```python
 import pandas as pd
 
-datos = pd.read_csv(
-    "https://raw.githubusercontent.com/paulovillarroel/datasets/main/lista_espera/lista_espera.csv"
+url_datos = (
+    "https://raw.githubusercontent.com/"
+    "paulovillarroel/datasets/main/"
+    "lista_espera/lista_espera.csv"
 )
+
+datos = pd.read_csv(url_datos, encoding="utf-8")
 ```
+
+La dirección de la página del archivo en GitHub, la que contiene `/blob/`, muestra el archivo en el navegador y entrega una página web, así que para leer los datos se usa siempre la dirección *raw*.
 
 ## Estructura del repositorio
 

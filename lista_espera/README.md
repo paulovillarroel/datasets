@@ -39,19 +39,30 @@ Los datos son sintéticos. Las personas, los identificadores, los establecimient
 ## Lectura
 
 ```r
-library(readr)
+library(tidyverse)
+
+url_datos <- paste0(
+  "https://raw.githubusercontent.com/",
+  "paulovillarroel/datasets/main/",
+  "lista_espera/lista_espera.csv"
+)
 
 datos <- read_csv(
-  "https://raw.githubusercontent.com/paulovillarroel/datasets/main/lista_espera/lista_espera.csv"
+  url_datos,
+  locale = locale(encoding = "UTF-8")
 )
 ```
 
 ```python
 import pandas as pd
 
-datos = pd.read_csv(
-    "https://raw.githubusercontent.com/paulovillarroel/datasets/main/lista_espera/lista_espera.csv"
+url_datos = (
+    "https://raw.githubusercontent.com/"
+    "paulovillarroel/datasets/main/"
+    "lista_espera/lista_espera.csv"
 )
+
+datos = pd.read_csv(url_datos, encoding="utf-8")
 ```
 
 ## Cita sugerida
